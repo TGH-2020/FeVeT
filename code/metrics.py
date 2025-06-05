@@ -99,34 +99,6 @@ def metrics_by_fam(eval_dict):
         fam_results[fam]['B3'] = np.round(np.mean(fam_results[fam]['B3']), decimals=4)
     return fam_results
 
-def print_examples(model, dataloader, all2id, all2id_inv, n_examples=5):
-    model.eval()
-    to_print = 0
-
-    for langs, valids, target_langs, target, target_featvec in dataloader:
-        langs, valids, target_langs, target, target_featvec = langs.to(device), valids.to(device), target_langs.to(device), target.to(device), target_featvec.to(device)
-        if to_print == n_examples:
-                break
-        with torch.no_grad():
-            predictions = model.generate(langs, valids, target_langs)
-
-        # Convert predictions to strings
-        predictions = predictions.cpu().numpy()
-        target = target.cpu().numpy()
-        predictions_str = []
-        target_str = []
-        for i in range(len(predictions)):
-            pred_str = []
-            target_str.append(" ".join([all2id_inv[char] for char in target[i] if char != 0][:-1]))
-            for char in predictions[i]:
-                if char == all2id["[SEP]"]:
-                    break
-                pred_str.append(all2id_inv[char])
-            predictions_str.append(" ".join(pred_str))
-
-        for target, pred in zip(target_str, predictions_str):
-            print(f"Target: {target}")
-            print(f"Prediction: {pred}")
             print()
             to_print += 1
             if to_print == n_examples:
