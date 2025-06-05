@@ -1,0 +1,354 @@
+COGID	LANGUAGE	GOLD	PREDICTION
+560-1	Albanian	v j e n	g o m
+438-1	Albanian	v e ʃ	r r i r
+1222-1	Albanian	v e z	ə w
+353-1	Albanian	p e ʃ k	p i ʃ t y
+201-1	Albanian	p e s ə	f i n k y
+20-1	Albanian	k a t ə r	f ə r
+503-1	Albanian	p l o t	f l u n
+957-1	Albanian	n ə	n e
+728-1	Albanian	ɟ a t	l o ŋ g o
+244-1	Albanian	e m ə r	n o m
+289-1	Albanian	n a t	n o t o
+911-1	Albanian	rː ə ɲ	r u r t
+724-1	Albanian	t r e	d r i r
+145-1	Albanian	d y	d w
+992-1	Albanian	k	f t
+1181-1	Albanian	c e n	ɟ o n d
+741-1	Albanian	p a k	p e ð t
+1150-1	Albanian	ʃ k u r t ə r	k u r t y
+585-1	Albanian	t	d u t o
+814-1	Albanian	v ə r t e t	v ə r
+916-1	Albanian	e	e t o
+1079-1	Albanian	p i	b w a θ
+630-1	Albanian	n g u ʃ t	n o t o
+343-1	Albanian	v j e t ə r	v ə a t
+8-1	Albanian	g ə r v i ʃ	k r a θ
+385-1	Albanian	ʃ	s i
+683-1	Albanian	k ə n d o	ɟ a n d
+650-1	Albanian	c i e ł	ɟ ə l
+612-1	Albanian	t y m	f i m
+871-1	Albanian	d r e j t	d o ð t y
+667-1	Albanian	l a	l w ð
+527-1	Albanian	u j	v ə ʃ t o
+499-1	Albanian	n	n o t o
+1029-1	Albanian	j u	v ə r
+336-1	Albanian	s e p s e	p ə r s t
+198-1	Albanian	m a ð	m e ð o
+164-1	Albanian	n u m ə r u a r	n o m
+560-2	English	k ə m	w ɪ
+438-2	English	ɪ r	o r s
+1222-2	English	ɛ g	ai
+353-2	English	f ɪ ʃ	p w a s
+201-2	English	f ai v	f ɪ n
+20-2	English	f ɔ r	f i d
+503-2	English	f ʊ l	f l i n
+957-2	English	ɪ n	ɪ n
+728-2	English	l ɔ ŋ	l a
+244-2	English	n e m	n i
+289-2	English	n ai t	n a d
+911-2	English	r u t	r ɪ z
+724-2	English	θ r i	d r i
+145-2	English	t u	d w o
+992-2	English	h u	h i
+706-2	English	ai	au ʃ
+106-2	English	f ɑ ð ə r	f ɛ d
+741-2	English	f j u	p o
+421-2	English	f l au ə r	f l i m
+227-2	English	f ʊ t	f ɪ d
+920-2	English	h ɑ r t	h ə r
+1083-2	English	h ɔ r n	h o r
+1066-2	English	ai	j ɛ
+1125-2	English	n i	g ə n
+1197-2	English	m ə ð ə r	m ai d
+473-2	English	n u	n au
+284-2	English	n o z	n ɪ s
+661-2	English	w ə n	ai n
+701-2	English	r ɛ d	r ai d
+315-2	English	r au n d	r ai d
+1169-2	English	s ɔ l t	s a l t
+1150-2	English	ʃ ɔ r t	k u z t
+982-2	English	s ɪ t	s
+987-2	English	s n o	s ɪ z
+1055-2	English	s t ɑ r	s t o a s
+1130-2	English	s ə k	s au s
+433-2	English	s ə n	s ɔ n
+625-2	English	t ə ŋ	l ai n
+1186-2	English	t u θ	d ɛ n t
+416-2	English	w ɑ t	h
+1233-2	English	w ɪ n d	w ɪ d
+884-2	English	w ə r m	w ai r
+1016-2	English	a n ə m ə l	a n i m a l
+952-2	English	a t	a θ
+78-2	English	b l o	f l i s
+514-2	English	b ə r n	b r i n
+116-2	English	i t	ə θ
+188-2	English	f ɑ r	f ə r k
+745-2	English	f ɛ ð ə r	f ɪ n
+1100-2	English	f r u t	f r i z
+47-2	English	h j u m ə n	h ɪ m
+111-2	English	l e k	l a f
+1061-2	English	m au n t ə n	m a d
+24-2	English	n ɑ t	n ɪ
+232-2	English	n au	n u n
+671-2	English	r ai t	θ ɪ d a t
+385-2	English	s i	s i
+945-2	English	s i d	s e
+644-2	English	s o	s ʊ ʃ
+1041-2	English	s t a n d	s t o
+492-2	English	θ ɪ n	d ɪ n
+1209-2	English	v ɑ m ə t	w o m
+527-2	English	w ɑ t ə r	w ɑ t
+14-2	English	j ɛ l o	g ai
+1-2	English	ɔ l	o l
+915-2	English	a n d	au n d
+271-2	English	a ʃ	ə ʃ
+711-2	English	b ai t	b ai t
+1112-2	English	b l ə d	b l ai
+205-2	English	b r ɛ s t	b r ai t
+301-2	English	k l ɔ	g l au f
+72-2	English	k o l d	k o l d
+162-2	English	k au n t	k a d
+238-2	English	d e	d ɛ ŋ
+560-3	French	v j ɛ̃	k ɑ̃ n
+438-3	French	ɔ r ɛ j	œ r s
+1222-3	French	œ f	ɛ v
+353-3	French	p w a s ɔ̃	f ɛ s k
+201-3	French	s ɛ̃ k	f ɑ̃ m e
+20-3	French	k a t r	f œ t e
+503-3	French	p l ɛ n	f l i
+957-3	French	d ɑ̃	i
+728-3	French	l ɔ̃ g	l ɛ ŋ
+244-3	French	n ɔ̃	e
+289-3	French	n ɥ i	n ɛ s t o
+911-3	French	r a s i n	r y r
+724-3	French	t r w a	d r ɛ s
+145-3	French	d ø	d u v ɔ
+992-3	French	k i	k œ
+1181-3	French	ʃ j ɛ n	k u n
+706-3	French	œ j	ai
+106-3	French	p ɛ r	f ɑ̃ d ə r
+741-3	French	p ø	f a s
+421-3	French	f l œ r	f l ø s
+227-3	French	p j e	f u d
+920-3	French	k œ r	h ɔ r t
+1083-3	French	k ɔ r n	h œ r i
+1066-3	French	ʒ ə	ai
+1125-3	French	ʒ ə n u	k ə
+1197-3	French	m ɛ r	m a t ə r
+473-3	French	n u v ɛ l	n œ
+284-3	French	n e	n ɛ s
+661-3	French	œ̃	v a
+701-3	French	r u ʒ	r ø v
+315-3	French	r ɔ̃ d	r au n d o
+1169-3	French	s ɛ l	s ɔ l t
+1150-3	French	k u r t	k u s t e r
+982-3	French	a s i z	s ɛ s
+987-3	French	n ɛ ʒ	n ɛ v
+1055-3	French	e t w a l	s t ɛ r
+1130-3	French	s y s e	s y k
+433-3	French	s ɔ l ɛ j	s œ n
+585-3	French	t y	t u
+625-3	French	l ɑ̃ g	t ə ŋ
+1186-3	French	d ɑ̃	t ɛ n d
+814-3	French	v r ɛ	v ɛ r
+416-3	French	k w a	v ɔ s e
+1233-3	French	v ɑ̃	v ɛ n d
+884-3	French	v ɛ r	v w r m
+916-3	French	e	e
+1016-3	French	a n i m a l	a n i m
+952-3	French	a	a d
+514-3	French	b r y l e	b r ɛ n
+1079-3	French	b w a	b i
+1100-3	French	f r ɥ i	f r u t
+47-3	French	y m ɛ n	ʃ ɔ m
+111-3	French	l a k	l ɛ s
+1061-3	French	m ɔ̃ t a ɲ	m œ n d ɛ̃
+1155-3	French	k u	ʃ ɔ s
+343-3	French	v j ɛ j	v w ɛ s e
+671-3	French	d r w a t	r ɛ s t
+460-3	French	p u r i	p u t
+8-3	French	g r a t	k r ɛ s
+644-3	French	k u z	s œ s
+683-3	French	ʃ ɑ̃ t e	k ɑ̃ t o
+650-3	French	s j ɛ l	k i t e
+612-3	French	f y m e	f y m
+871-3	French	d r w a t	r ɛ s t e
+1209-3	French	v ɔ m i	v ɔ m b e
+667-3	French	l a v e	l a w e
+499-3	French	n u	n ɛ n
+14-3	French	ʒ o n	g e l e
+1029-3	French	v u	v œ
+272-3	French	s ɑ̃ d r	ʃ ə t
+278-3	French	m ɔ v ɛ z	m ɛ̃ l e
+410-3	French	e k ɔ r s	k œ t
+336-3	French	p a r s	s ɛ s e
+1009-3	French	v ɑ̃ t r	v ɔ n d
+479-3	French	w a z o	o t ɛ
+712-3	French	m ɔ r	m œ r t
+1113-3	French	s ɑ̃	s a n
+605-3	French	ɔ s	o s s
+752-3	French	r ɛ s p i r e	s p u
+695-3	French	n ɥ a ʒ	n y v
+73-3	French	f r w a d	f r j
+162-3	French	k ɔ̃ t e	k u n t
+239-3	French	ʒ u r	d ɛ
+560-4	German	k o m	v ə n
+438-4	German	oː r	v r eː
+1222-4	German	ai	eː g ə
+353-4	German	f i ʃ	f i ʃ
+201-4	German	f y n f	f i n d
+20-4	German	f iː r	f aː t ə r
+503-4	German	f o l	f l oː s
+957-4	German	i n	n eː n
+728-4	German	l a ŋ	l a n
+244-4	German	n aː m ə n	n eː m i
+289-4	German	n a x t	n aː s
+911-4	German	v u r ts ə l	r eː d
+724-4	German	d r ai	t r i
+145-4	German	ts v ai	t oː s
+992-4	German	v eː	k eː
+1181-4	German	h u n d	s n iː n
+706-4	German	au g ə	ai s
+106-4	German	f aː t ə r	f a t ə r
+421-4	German	b l uː m	f l iː z
+227-4	German	f uː s	f ə t
+920-4	German	h e r ts ə n	h a r t
+1083-4	German	h o r n	h a r n
+1066-4	German	i x	ai
+1125-4	German	k n iː	n aː n
+1197-4	German	m u t ə r	m a t ə r
+473-4	German	n oi	n oː z ə l
+284-4	German	n aː z ə	n aː z
+661-4	German	ai n	v n eː n
+701-4	German	r oː t	r eː b ə r
+315-4	German	r u n d	r au t
+1169-4	German	z a l ts	ʃ a l t
+1150-4	German	k u r ts	ʃ a a r t
+982-4	German	z i ts	z eː d
+987-4	German	ʃ n eː	n eː z
+1055-4	German	ʃ t e r n	ʃ t ai l
+1130-4	German	z au g	z eː g ə
+433-4	German	z o n ə	ʃ a l d
+585-4	German	d uː	t oː t
+625-4	German	ts u ŋ ə	l a n g
+1186-4	German	ts aː n	t eː n
+814-4	German	v aː r	v ə r t e
+416-4	German	v	v a s
+1233-4	German	v i n d	v i n d
+884-4	German	v u r m	v i r m
+78-4	German	b l aː z	b l aː s
+514-4	German	b r e n	b r r t
+116-4	German	e s	eː t ə
+188-4	German	f e r n	f r i r
+745-4	German	f eː d ə r	f a n d ə r
+1100-4	German	f r u x t	f r iː s
+630-4	German	e ŋ	n g a s t
+1155-4	German	h a l z	h ə l t
+24-4	German	n i x t	n aː n
+232-4	German	n uː n	n au n
+671-4	German	r e x t	r iː s
+460-4	German	f au l	p au r t
+8-4	German	k r a ts	g r aː s
+385-4	German	z eː	ʃ t oː r
+945-4	German	z aː m ə n	z eː m d
+1041-4	German	ʃ t eː	ʃ t aː n d
+492-4	German	d y n	d eː n
+527-4	German	v a s ə r	v a s ə r
+14-4	German	g e l b	j a l
+1-4	German	a l	a l
+915-4	German	u n t	a n d
+271-4	German	a ʃ ə	a s
+711-4	German	b ai s	b ai s
+1112-4	German	b l uː t	b l a t
+205-4	German	b r u s t	b r aː z t
+301-4	German	k l au ə	k l iː s
+72-4	German	k a l t	k eː l t
+238-4	German	t aː g	t aː g
+560-5	Latin	w e n iː	k a m o
+438-5	Latin	au r i	o r eː
+1222-5	Latin	oː w o	a g a
+353-5	Latin	p i s k i	f i ʃ i
+201-5	Latin	kʷ iː n kʷ e	f i n d e
+20-5	Latin	kʷ a tː u o r	f i r t e r
+503-5	Latin	p l eː n o	f l i n e
+957-5	Latin	i n	n n a
+728-5	Latin	l o n g o	l a ŋ o
+244-5	Latin	n oː m i n	n aː m o
+289-5	Latin	n o k t	n a k i
+911-5	Latin	r aː d iː k	w eː r i
+724-5	Latin	t r i	d r iː
+145-5	Latin	d u o	d u p o
+992-5	Latin	kʷ o	k u d i
+1181-5	Latin	k a n i	k u n d e
+706-5	Latin	o k u l o	a g a
+106-5	Latin	p a t r	f i r eː r
+741-5	Latin	p au k o	f aː r i k u
+421-5	Latin	f l oː s	f l u m iː n
+227-5	Latin	p e d	f u t i
+920-5	Latin	k o r d	k a r t
+1083-5	Latin	k o r n uː	k a r n a
+1066-5	Latin	e g o	ai
+1125-5	Latin	g e n uː	k a nː i
+1197-5	Latin	m aː t r	m a r i r
+473-5	Latin	n o w o	n u m o
+284-5	Latin	n aː s o	n aː s a
+661-5	Latin	uː n o	v i n a
+701-5	Latin	r u b r o	r iː d eː
+315-5	Latin	r o t u n d o	r au n d a
+1169-5	Latin	s a l	s a l t
+982-5	Latin	s e d eː	a s i s
+987-5	Latin	n i w	s n b eː
+1055-5	Latin	s t eː lː a	s t a r a
+1130-5	Latin	s uː g e	s i k a
+433-5	Latin	s oː l	s a n o
+585-5	Latin	t uː	d eː d eː
+625-5	Latin	l i n gʷ a	t a ŋ o
+1186-5	Latin	d e n t	d a n o
+814-5	Latin	w eː r o	w i r i
+416-5	Latin	kʷ o	w a s t
+1233-5	Latin	w e n t o	w i n d i
+884-5	Latin	w e r m i	w i r m
+916-5	Latin	e t	a kʷ a
+1016-5	Latin	a n i m aː l	a n i m a l
+952-5	Latin	a d	a t t eː
+78-5	Latin	f l aː	b l aː
+1079-5	Latin	b i b e	b i t eː
+116-5	Latin	e d e	i s
+188-5	Latin	p r o k u l	f o r a
+745-5	Latin	p e nː a	f i d ə r
+47-5	Latin	h o m i n	a m i n a
+111-5	Latin	l a k u	l a k a
+1061-5	Latin	m o n t	m au n d e
+630-5	Latin	a n g u s t o	ə ŋ
+1155-5	Latin	k o l l o	k u l u
+24-5	Latin	n oː n	n a k t i
+232-5	Latin	n u n k	n au t
+343-5	Latin	w e t e r	w i m e r
+460-5	Latin	p u t r i d o	f u l i t o
+945-5	Latin	s eː m i n	s i m u
+644-5	Latin	s u e	k a z eː
+683-5	Latin	k a n i t	k a n d eː
+650-5	Latin	k ae l o	s i m e
+612-5	Latin	f uː m o	f u m o
+1041-5	Latin	s t aː	s t e n d o
+871-5	Latin	r eː k t o	d r w i t
+492-5	Latin	t e n u i	d u n o
+1209-5	Latin	w o m e	w a m i t
+667-5	Latin	l a w aː	l a m i
+499-5	Latin	n oː	n uː d a
+1029-5	Latin	w oː	w i d eː
+272-5	Latin	k i n e r	s eː m d e
+278-5	Latin	m a l o	m o m i s
+410-5	Latin	k o r t i k	i k o r s
+1009-5	Latin	w e n t r	w i n d e
+198-5	Latin	m a g n o	m a r aː
+479-5	Latin	a w i	w i z eː
+712-5	Latin	m o r d eː	m o r iː
+1113-5	Latin	s a n gʷ i n	s eː
+605-5	Latin	o s s	a l i iː
+752-5	Latin	s p iː r aː	r i m p s a
+695-5	Latin	n uː b eː	n w i m e
+73-5	Latin	f r iː g i d o	f r w m d o
+164-5	Latin	n u m e r aː	n u m o r a
+239-5	Latin	d i eː	g a r eː

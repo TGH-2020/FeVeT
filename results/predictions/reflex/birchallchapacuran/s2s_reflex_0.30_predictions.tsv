@@ -1,0 +1,471 @@
+COGID	LANGUAGE	GOLD	PREDICTION
+52-1	cojubim	i t e	i t e
+56-1	cojubim	u m e	u m e
+96-1	cojubim	a t	t t
+99-1	cojubim	a r i	r i r a
+114-1	cojubim	t o k	t o k
+115-1	cojubim	u r	u r i t i ʔ
+133-1	cojubim	t i p a n	t i p a n
+144-1	cojubim	a t a w	t t a w ʔ i ʔ
+150-1	cojubim	k a w ʔ	k a w
+234-1	cojubim	k o m	k o m
+236-1	cojubim	p i k u n	p i k o n
+241-1	cojubim	a w i n	a w i n
+249-1	cojubim	i tʃ e	i s e ʔ
+1-1	cojubim	w a z a	w a z a ʔ
+2-1	cojubim	u m	m o m
+65-1	cojubim	i w	i w ʔ
+74-1	cojubim	p a n a	p a n a
+106-1	cojubim	t u n a	t o n e n
+128-1	cojubim	p o k	p o k
+147-1	cojubim	t o k u	t o m u tʃ i
+231-1	cojubim	p a n a w o ʔ	p a n a w o ʔ
+232-1	cojubim	p i	p i p i j o
+239-1	cojubim	n a m a k a n	n a m a k a n
+266-1	cojubim	i s i m	i s i m
+51-1	cojubim	u w e ʔ	u w e ʔ
+97-1	cojubim	m a p u m	m a p o n
+109-1	cojubim	u p e k	u p i k
+121-1	cojubim	k a p a j a k	k a p a k a k
+149-1	cojubim	t o k	t o k
+160-1	cojubim	k i r i k	k i r i k
+163-1	cojubim	u p i n	u p e n
+167-1	cojubim	p a ʔ	p a ʔ
+207-1	cojubim	m i ʔ	m i ʔ
+259-1	cojubim	t o w a ʔ	t o w a
+66-1	cojubim	k a r a k a w	k a r a k a w
+134-1	cojubim	n i p a t	n i p a t
+139-1	cojubim	k i r i m o n ʔ	m u k o r i ʔ
+142-1	cojubim	p a t a m	p a t a m
+145-1	cojubim	k a t a t	k a t a t
+148-1	cojubim	tʃ a w a n	s a w a n
+162-1	cojubim	i n i n ʔ	i j i n
+166-1	cojubim	i m i ʔ	i m i ʔ
+179-1	cojubim	t a ʔ	t a
+201-1	cojubim	p e	p i ʔ e
+21-1	cojubim	t a n	t a n
+24-1	cojubim	w a k o r a n	p o k o r a n
+52-2	jaru	e t e	t e t
+56-2	jaru	u m e	o m e
+96-2	jaru	r a s i	a t a
+99-2	jaru	r e j e n	a r e t o
+114-2	jaru	t e k i s i	t o k o s i
+115-2	jaru	j o l i s i	o r i s i
+133-2	jaru	t i p r a s i	t e p a r a s i
+144-2	jaru	a r a w a s i	a t r k a s i
+150-2	jaru	k a w	k a w
+234-2	jaru	k o	k o m
+236-2	jaru	p a k e n	p e k i n
+241-2	jaru	a w i	a w i n
+249-2	jaru	i s e	i s e
+74-2	jaru	p a n a	p a n a
+93-2	jaru	t u p a r e s i	t o p a r i
+95-2	jaru	w i t	w i k i s i
+106-2	jaru	t i n j i	t e n e s i
+119-2	jaru	i t i s i	i j i t i
+128-2	jaru	e k i s i	h o k o s i
+147-2	jaru	t e m i s i	t e m i s i
+231-2	jaru	p a n a u	p a n a w o n
+232-2	jaru	u p i u	p i p i o o
+239-2	jaru	m a n a k a n	n a m a k a n
+266-2	jaru	e t i m ʔ	i t i m b i t i
+51-2	jaru	u w e	o w e
+55-2	jaru	i h a m ʔ	i h o m
+97-2	jaru	a h o m i	p a h o m
+121-2	jaru	k a p i a k a s i	k a p a j a k i
+163-2	jaru	u p e j a m ʔ	o p e n
+167-2	jaru	p a	p a
+259-2	jaru	t o a	t o a
+66-2	jaru	k r a k a o n	k a r a k a a w
+112-2	jaru	t r a i s i	t r k t a s i s i
+116-2	jaru	t u p a k a s i	t o p a k a
+125-2	jaru	k a t i m a s i	k a t i m a s i
+135-2	jaru	t o k o t e p a s i	k i m i n e
+139-2	jaru	m e n e s i	a m o n e s i
+142-2	jaru	u p r a m a s i	p a k r a m a s i
+148-2	jaru	t r a w a n a s i	t r k a n
+162-2	jaru	i n j i n	i n i n
+166-2	jaru	i m i	i m i
+179-2	jaru	t a	t a k
+52-3	kitemoka	t a t i a	i t e
+56-3	kitemoka	h u m e	u m e
+96-3	kitemoka	t a r i tʃ e	a t a s i
+99-3	kitemoka	t i r a n t i a	a a r a
+114-3	kitemoka	k u tʃ i	t i k o s i
+115-3	kitemoka	t u r u tʃ e	j i o t o t i
+133-3	kitemoka	tʃ e p a r a j u	tʃ e p a r a tʃ i
+144-3	kitemoka	t o t o j a tʃ e	w tʃ a a t a m a
+150-3	kitemoka	k a w	k a w
+234-3	kitemoka	a k o	k o m
+236-3	kitemoka	p i k u i	p i k o n
+241-3	kitemoka	a w e n	a w i n
+249-3	kitemoka	i s e	i tʃ e
+1-3	kitemoka	w a j a	w a j a
+2-3	kitemoka	a h u m	w i m a j
+65-3	kitemoka	a h i h i	i w i
+93-3	kitemoka	p a r i tʃ e	t u p a r i tʃ i
+95-3	kitemoka	a w e i tʃ e	w i k i j
+106-3	kitemoka	tʃ u m i tʃ e	tʃ e m e
+119-3	kitemoka	i j a d i tʃ e	j i t i tʃ i
+128-3	kitemoka	k o h o tʃ i	p u k o ɲ e
+147-3	kitemoka	s i m i tʃ e	tʃ u m u tʃ e
+231-3	kitemoka	p n a t o	p a n a w o
+232-3	kitemoka	p i l ʔ a h u	p i j o j o
+239-3	kitemoka	e m a k a n	m a m a k a n
+266-3	kitemoka	p a i t i n	p tʃ i m
+3-3	kitemoka	a r i k o	a r r a k o
+4-3	kitemoka	w a tʃ e	w a j a t i
+55-3	kitemoka	i h a m	w o m
+109-3	kitemoka	p a i tʃ e	p p i j i tʃ i
+121-3	kitemoka	k a p i k a k a tʃ e	k a p a j a k a
+149-3	kitemoka	k o t	tʃ u k o
+160-3	kitemoka	t i r i g	k i r i k
+207-3	kitemoka	m e	m i
+112-3	kitemoka	t a t i a t a tʃ e	t a r a s i
+125-3	kitemoka	k a i m a tʃ e	k a t a m a tʃ i
+134-3	kitemoka	i p a t i	n i p a tʃ e
+135-3	kitemoka	k i m o tʃ e	t u m a t e tʃ e
+139-3	kitemoka	w a e m e m i tʃ e	m u n o k i tʃ e
+52-4	more	i t e	i i t e
+56-4	more	u m e	u m e
+96-4	more	a t	a t a
+99-4	more	a r i ʒ̟ a	a r i
+114-4	more	t o k	t o k o
+115-4	more	u ʒ̟	u r u
+133-4	more	t i p a n	t i p a n
+144-4	more	a t a w	a t a w
+150-4	more	k a w	k a w
+234-4	more	k o m	k o m
+236-4	more	p i k u n	p i k u n
+241-4	more	a w i n	a w i n
+249-4	more	i tʃ e	i tʃ e
+1-4	more	w a ʒ̟ a	w o r a
+2-4	more	m o m r a	u m
+65-4	more	i w	i w i
+74-4	more	p a n a	p a n a
+93-4	more	t o p a n	t u p a ʒ̟ i
+95-4	more	w y k	w i k
+106-4	more	t u n e ɲ	t u m a
+119-4	more	j a t	ʒ̟ i t i
+128-4	more	p o k	p o k o ʔ
+147-4	more	t u k u	t u m i
+231-4	more	p a n a w o ʔ	p a n a w o
+232-4	more	p i p i j o	p i l i
+239-4	more	n a m a k a n	n a m a k a n
+266-4	more	i s i m	i t i m
+3-4	more	k o r a r i	w i r a k o
+4-4	more	w a t i ʔ	w a r a ʒ̟
+51-4	more	u w e ʔ	u w e
+97-4	more	m a p o m	m a p u j
+109-4	more	u p w i k	u p e k
+121-4	more	k a p a j a k	k a p a k a k
+149-4	more	t o k	t o k
+160-4	more	k i r i k	k i r i k
+163-4	more	u p e n	u p i n
+167-4	more	p a	p a
+207-4	more	m i	m i
+259-4	more	t o w a	t o w a
+66-4	more	k a r a k a w	k a r a k a w
+116-4	more	t o p a k	t u p a k
+134-4	more	n i p a t	n i p a t
+135-4	more	t i m	t u m i tʃ i
+139-4	more	m u k u r i	k u r i m o n
+142-4	more	p a t a m	p a t a m
+145-4	more	k a t a t	k a t a t
+148-4	more	s a w a n	tʃ a w a n
+162-4	more	i j i n	i n i n ʔ
+166-4	more	i m i	i m i
+179-4	more	t a	t a k
+201-4	more	p w e	p e
+21-4	more	t a n	t a n
+24-4	more	p o k o r a n	w a k u n a n
+52-5	orowin	i t e ʔ	i t e
+56-5	orowin	y m e	i m e ʔ
+96-5	orowin	a r a n	a r a s i
+99-5	orowin	a r i k o n	w r i k o n i
+114-5	orowin	t o k i s i	t o k o s i
+115-5	orowin	y r y s i	j o r i s i
+133-5	orowin	t i p r a s i	t i p a r a s i
+144-5	orowin	a r a w a s i	a t a w a s i
+150-5	orowin	k a w	k a w
+234-5	orowin	k o m	k o m
+236-5	orowin	p e k y n	p a k i n ʔ i
+241-5	orowin	a w i n	a w i n
+249-5	orowin	i s e	i s e ʔ
+1-5	orowin	w a t a ʔ	w a t a ʔ
+2-5	orowin	w y m	w i m
+65-5	orowin	i w i s i	i w i
+74-5	orowin	p a n a	p a n a ʔ
+93-5	orowin	t o p o r i s i	t o p a r i s i
+95-5	orowin	w i k i s i	w i t
+106-5	orowin	t y n e s i	t i n e ʔ i ʔ
+119-5	orowin	i j i t i s i	i t i s i m i
+128-5	orowin	f o k i s i	f k i s i ʔ
+147-5	orowin	t i m i s i	t y m i s i ʔ
+239-5	orowin	n a m a k a n	m a m a k a n
+266-5	orowin	i t i m	i t i m b
+3-5	orowin	w o r i k o	o r a k o m
+4-5	orowin	w a r i ʔ	w a r i ʔ
+51-5	orowin	y w e	i w e ʔ
+55-5	orowin	i f a m	i f a m
+97-5	orowin	m a f o m a s i	w o m o n
+109-5	orowin	i p i j i s i	i p i j i s i
+149-5	orowin	t o k	t o k
+160-5	orowin	k i r i k	t i r i k
+163-5	orowin	y p e n	y p e n
+167-5	orowin	p a ʔ	p a ʔ
+207-5	orowin	m i ʔ	m i ʔ
+259-5	orowin	t o w a ʔ	t o w o
+66-5	orowin	k a r a k a w	k a r a k a w
+112-5	orowin	t r a j i s i	t i t i s i ʔ
+116-5	orowin	t o p a k a s i	t o p a s a s i
+134-5	orowin	n a p a t i n a n	i t a t a n i
+135-5	orowin	k i m i	t o m o t i k i
+139-5	orowin	m o n o s i	m e r e s i m i
+142-5	orowin	o p a r a m a s i	i p a r a m a s i
+145-5	orowin	k a r a t i s i	k a r a t i s i
+148-5	orowin	t r a w r i s i	t a w a n a s i
+162-5	orowin	i j i n	i n i n
+166-5	orowin	i m i ʔ	i m i
+179-5	orowin	t a	t a k a t i
+201-5	orowin	p e	p e
+21-5	orowin	k a w a s a n	t a w a tʃ i k o
+52-6	tapakura	t i a	t a t a
+56-6	tapakura	i m e	u m e
+96-6	tapakura	a t a t	a t a tʃ i
+99-6	tapakura	a t e r a n t a	a u i a n i
+114-6	tapakura	t u k u tʃ i	t u k i tʃ i
+115-6	tapakura	u t u r u tʃ i	t u i i tʃ i
+133-6	tapakura	i tʃ o p a r a tʃ i	tʃ i p a r a
+144-6	tapakura	o t o w a tʃ i	w a t a i i
+150-6	tapakura	k a w	k a w
+234-6	tapakura	a k u m	k u m
+236-6	tapakura	p e k u n	p i k i n
+241-6	tapakura	a w i n	w w i n
+249-6	tapakura	i s e	i tʃ e
+1-6	tapakura	w a j a	w a tʃ a
+2-6	tapakura	a w i m o	w i m u
+65-6	tapakura	a w i	w w i
+74-6	tapakura	p a n e	p a n a
+93-6	tapakura	t u p a r i tʃ i	t u p a tʃ a
+95-6	tapakura	a w i	w i k i tʃ i
+106-6	tapakura	tʃ u m i tʃ i	tʃ i n e tʃ i
+119-6	tapakura	j a t i tʃ i	j i t i tʃ i
+128-6	tapakura	u k u tʃ i	h u k i tʃ i
+147-6	tapakura	s i m i tʃ i	tʃ u m i tʃ i
+231-6	tapakura	p a n a t o	p a n a w o
+232-6	tapakura	w i p i j a o	p i tʃ u w o
+239-6	tapakura	j a m a k a n	m a m a k a n
+266-6	tapakura	p a i t i n	w i tʃ i m i
+3-6	tapakura	a r i k a h u	w i r a k o n
+4-6	tapakura	w a j a h u	w a r a
+55-6	tapakura	i h u a m	w u h a m
+97-6	tapakura	m o m i k u m	w a h u n a tʃ a
+109-6	tapakura	u p a tʃ i	m i p i tʃ i
+160-6	tapakura	k i r i k	t i r i k o
+207-6	tapakura	m i	m i ʔ
+112-6	tapakura	t a i t a t a tʃ i	t a t i s a
+116-6	tapakura	t u p a k a tʃ i	t u p a s a k i
+125-6	tapakura	k a i m a tʃ i	k a tʃ i m a tʃ i
+134-6	tapakura	h i p a tʃ i	n a p a t i
+135-6	tapakura	t e k e m a tʃ e	t u m i tʃ i
+139-6	tapakura	a m u n i tʃ i	w i n e m e tʃ i
+201-6	tapakura	p e p e	p e j a p
+21-6	tapakura	t a n	t u w a tʃ a n
+24-6	tapakura	w a g a r a g a t a n	w i r a r a n
+52-7	tora	i t e	i t e
+56-7	tora	u m a	u m e n
+96-7	tora	a t a ʃ i	i r a s i
+99-7	tora	a z e r o n	i r o t o
+114-7	tora	t o k	t u k o s i
+115-7	tora	u j	o r i s o
+133-7	tora	t i p a r a	t i p a r o
+144-7	tora	w u r i t i m	a r o t a
+150-7	tora	k a w	k a w
+234-7	tora	k o m	k o m
+236-7	tora	p i k u n	p i k i n
+241-7	tora	a w i n	a w i n
+249-7	tora	i ʃ e ʔ	i s e
+1-7	tora	w a z a	w a t a
+2-7	tora	w e b m	v m u n
+65-7	tora	i w	i w i ʔ
+74-7	tora	p a n a	p a n a
+93-7	tora	t u p a r a	t u p a r o
+95-7	tora	w i	v i k i ʔ i
+106-7	tora	t u n i	t i n o s i
+119-7	tora	j a t i ʃ i	i t i t i
+128-7	tora	h o k	h u k i s i
+147-7	tora	t i m u	s i m i s i
+231-7	tora	p a n a o	p a n a w i
+232-7	tora	p i p i j o	p p i ʔ o j o
+266-7	tora	i j s i b m	i t i m i
+3-7	tora	w a r i k o	a r o k o n
+4-7	tora	w a z a t i	w a r i
+51-7	tora	i w i	u w e ʔ
+55-7	tora	h o a m	i h u m
+97-7	tora	t aː h o n	a m a h u j
+109-7	tora	u p u j e ʃ i	u p i t i
+121-7	tora	k a p i a k i ʃ i ʔ	k a p i j a k
+149-7	tora	t u k	t o k
+160-7	tora	k r i d	t i r i k
+163-7	tora	u p o ɲ	u p e j n
+167-7	tora	p a	p a ʔ
+207-7	tora	m i ʔ	m i ʔ
+259-7	tora	t u a g	t u a
+66-7	tora	k a r a k a w	k r r a k w
+125-7	tora	k a z i m a	k a r i m a ʃ i
+135-7	tora	t o s i p a	t o m i t e
+142-7	tora	p a t a m a	p u r a m a s i
+145-7	tora	k a t a s a n	k a r a t i
+148-7	tora	t r a w a n a	t a r a n
+162-7	tora	e j i d n	i n i n
+166-7	tora	i m i	i m i ʔ
+179-7	tora	t a	t a k
+201-7	tora	p i	p e ʔ
+21-7	tora	k w a t a d n	t a k ã
+24-7	tora	k u r a d n	w a k a r a
+52-8	urupa	e t e	i t e
+56-8	urupa	u m e	u m e
+96-8	urupa	a r a s i	a t a s i
+99-8	urupa	e r e j e n	a r a t i
+114-8	urupa	t u k e s i	t u k u s i
+115-8	urupa	j u r e s i	u r u s i
+133-8	urupa	t i p r a s i	t i p a n a
+144-8	urupa	e r a w a s i	a t a s a
+150-8	urupa	k a w	k a w
+234-8	urupa	k o m	k u m
+236-8	urupa	p a k y n	p e k i n
+241-8	urupa	a w i n	a w i n
+249-8	urupa	i s e	i s e
+1-8	urupa	w a t a	w a t a
+2-8	urupa	v i m	y m u m
+65-8	urupa	i w	i w i t i
+74-8	urupa	p a n a	p a n a
+93-8	urupa	t u p a r i s i	t u p a r i
+95-8	urupa	w i k i s i	y v i t i
+119-8	urupa	j e t i s i	i t i s i
+231-8	urupa	p a n a o ʔ	p a n a w o
+232-8	urupa	u p i j o	p i p u ʔ o
+239-8	urupa	m a n a k a	m a m a k a n
+3-8	urupa	o k a i n	a r a k o
+4-8	urupa	w a r i	w a r a
+51-8	urupa	i v e	u w e
+55-8	urupa	i h a m	y h u m
+109-8	urupa	y p i r i s i	u p i tʃ i
+121-8	urupa	k a p i a k a s i	k a p a k a k a
+149-8	urupa	t o k	t u k
+163-8	urupa	y p e n	u p e n
+167-8	urupa	t u p a b	p a k
+259-8	urupa	t u a	t u w
+66-8	urupa	k r a k a w	k a r a k a w
+112-8	urupa	t r a i s i	t r t r s i
+116-8	urupa	t u p a k a s i	t u p a k
+125-8	urupa	k a t i m a s i	k a m a s i
+145-8	urupa	k a r a t i s i	k a r a t i
+52-9	wanyam	t a t a	i t e ʔ
+56-9	wanyam	i m e ʔ	m m e
+96-9	wanyam	a r a j	a r a t i
+99-9	wanyam	a r i k o n	a r a k
+114-9	wanyam	t o k i ʃ i ʔ	t i k o s i ʔ
+115-9	wanyam	i r i ʃ i ʔ	i o r i s i ʔ
+133-9	wanyam	t i p a r a ʃ i ʔ	t i p a r i
+144-9	wanyam	a w a r a ʃ i ʔ	w a r w
+150-9	wanyam	k a w	k a w
+234-9	wanyam	k o m	k o m
+236-9	wanyam	p e k i n	p a k i n
+241-9	wanyam	a w i n	a w i n
+249-9	wanyam	i ʃ e ʔ	i ʃ e ʔ
+1-9	wanyam	w a t a ʔ	w a t a ʔ
+2-9	wanyam	i m	u m
+65-9	wanyam	i w i	i w i
+74-9	wanyam	p a n a	p a n a ʔ
+93-9	wanyam	t u p a r i ʃ i ʔ	t u p a r i m i ʔ
+95-9	wanyam	w i k i	w i k
+106-9	wanyam	t i n i ʃ i ʔ	t i n i
+119-9	wanyam	i j i t i ʃ i ʔ	i t i t i ʔ
+128-9	wanyam	h o k i ʃ i ʔ	i o k o ʃ i ʔ
+147-9	wanyam	t i m i ʃ i ʔ	t i m i tʃ i ʔ o n
+231-9	wanyam	p a n a w o ʔ	p a n a w o ʔ
+232-9	wanyam	u p i j u ʔ	p i t o ʔ o
+239-9	wanyam	n a m a k a n	m a n a k a n
+266-9	wanyam	i t i m	i t i m
+3-9	wanyam	a r u k w a n	w a r i k o n
+4-9	wanyam	w a r i	w a r a ʔ
+51-9	wanyam	e w i ʔ	i w e ʔ
+55-9	wanyam	i h a m	i h a m
+97-9	wanyam	w a h u m a j n	m a h a r i m
+109-9	wanyam	i p i j i ʃ i ʔ	i p i j i ʃ i
+121-9	wanyam	k a p i j a k a ʃ i ʔ	k a p a j i ʃ i ʔ
+149-9	wanyam	t u k a	t o k
+160-9	wanyam	k i r i k	k i r i k
+163-9	wanyam	i p e n	i p e n
+167-9	wanyam	p a	p a
+207-9	wanyam	m i n	m i
+259-9	wanyam	t o w a	t o w a ʔ
+66-9	wanyam	k a r a k a w	k a r a k o w a
+112-9	wanyam	t a r a j i ʃ i ʔ	t a t i ʔ i
+116-9	wanyam	t o p a k a ʃ i ʔ	t u p a k a ʃ i
+125-9	wanyam	k a t i m a ʃ i ʔ	k a t i m a ʃ i
+134-9	wanyam	n i p a t	i p a t i n a
+135-9	wanyam	k i m i j e k i n	t o m a tʃ i p i ʔ
+142-9	wanyam	u p a r a m a ʃ i ʔ	p a r a m a ʃ i ʔ
+145-9	wanyam	k a r a t i ʃ i ʔ	k a r a t i ʔ
+148-9	wanyam	t a r a w a n e ʃ i ʔ	t a r a r a n
+162-9	wanyam	i n i n	i n i i n
+166-9	wanyam	i m i	i m i
+179-9	wanyam	t a k a t	t a
+201-9	wanyam	p e	p e
+21-9	wanyam	k a w a tʃ y k	k a r a h
+24-9	wanyam	k a r i k a n	w a k a r a n
+52-10	wari	t e	tʃ e t a ʔ
+56-10	wari	m e	m e ʔ e
+96-10	wari	a r a tʃ i ʔ	a a s i ʔ
+99-10	wari	a r a j e ɲ	a y k e n
+114-10	wari	t o k o tʃ i ʔ	tʃ o k i tʃ i ʔ i
+115-10	wari	w e r e tʃ i ʔ	w a r i ʔ i
+133-10	wari	t a p a r a tʃ i ʔ	tʃ e p a r a tʃ i
+144-10	wari	w a r a tʃ i ʔ	a w r w ʔ i ʔ i ʔ
+150-10	wari	k a w	k a w
+234-10	wari	k o m	k o m
+236-10	wari	p a k y n	p a k i n ʔ
+241-10	wari	n a n a w i n	w i n i
+249-10	wari	tʃ e	tʃ e tʃ
+1-10	wari	w a t a ʔ	w a t a ʔ
+2-10	wari	w u m	m i m
+65-10	wari	i w ʔ	w i ʔ i ʔ
+74-10	wari	p a n a	p a n a
+93-10	wari	t a p a r i tʃ i ʔ	tʃ o p a r i tʃ i ʔ
+95-10	wari	k i tʃ i ʔ	w i k i ʔ i
+106-10	wari	t e n e n e tʃ i ʔ	tʃ e n a tʃ i ʔ
+119-10	wari	tʃ i tʃ i ʔ	tʃ i t i tʃ i ʔ
+128-10	wari	k o k o tʃ i ʔ	h y k i ʔ
+147-10	wari	tʃ i m i tʃ i ʔ	t e m i tʃ i ʔ
+231-10	wari	p a n a w o ʔ	p a n a w o ʔ
+232-10	wari	p i j o ʔ	p i h i ʔ
+239-10	wari	m a k a n ʔ	m a m a k a n
+266-10	wari	tʃ i m	tʃ i m i ʔ
+3-10	wari	w i r i k o	k o r a k o n
+4-10	wari	w a r i ʔ	w a r i ʔ
+51-10	wari	w e	w e w ʔ
+55-10	wari	h w a m	h u m a
+97-10	wari	h o m a ɲ	h a h u m a tʃ i
+121-10	wari	k a p i j a tʃ i ʔ	k a p a k a tʃ i ʔ
+149-10	wari	t o k	t o k
+160-10	wari	k e r e k	k i r i k ʔ
+163-10	wari	p i ʔ	p e n ʔ ɲ
+167-10	wari	p a ʔ	p a ʔ
+207-10	wari	m i ʔ	m i ʔ
+259-10	wari	t o w o ʔ	t o w a
+112-10	wari	t a r a j i tʃ i ʔ	tʃ a r a s i ʔ
+116-10	wari	t o p a k	t o p a k i tʃ i ʔ
+125-10	wari	k a tʃ i m a tʃ i ʔ	k a t i m a tʃ i ʔ
+134-10	wari	t a p a tʃ i	n a p a tʃ i n a
+139-10	wari	m o n o tʃ i ʔ	m e r e k i tʃ i ʔ
+142-10	wari	p a r a m a tʃ i ʔ	p a r a m a tʃ i ʔ
+145-10	wari	k a r a tʃ i tʃ i ʔ	k a r a t i tʃ i ʔ
+148-10	wari	t a r a w a n a tʃ i ʔ	tʃ a r a ɲ a tʃ i
+162-10	wari	j i n ʔ	n i j i n ʔ
+166-10	wari	m i ʔ	m i j i ʔ
+179-10	wari	t a	t a k
+201-10	wari	p e ʔ	p e ʔ
+24-10	wari	t y k y	w a r a k a n

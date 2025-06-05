@@ -1,0 +1,661 @@
+COGID	LANGUAGE	GOLD	PREDICTION
+32-1	Dashi	m ə˞ ⁴⁴	m ə˞ ⁴⁴
+53-1	Dashi	ʈʂ i ³¹	ʈʂ i ²¹
+93-1	Dashi	k ɯ ²¹	k ɯ ²¹
+216-1	Dashi	sʰ w a ⁴⁴	sʰ w a ⁴⁴
+236-1	Dashi	ts õ ³³	ts õ ³³
+267-1	Dashi	tɕ j e n ⁴²	tɕ j e n ⁴²
+316-1	Dashi	p ɯ ³³	p ɯ ³³
+327-1	Dashi	ɣ ɯ ³³	ɣ ɯ ³³
+348-1	Dashi	ʈʂ o ³³	ʈʂ o ⁴⁴
+400-1	Dashi	z au ²¹	z ou ²¹
+452-1	Dashi	k ə˞ ⁴⁴	k ə˞ ⁴⁴
+463-1	Dashi	kʰ a ⁴⁴	kʰ a ⁴⁴
+512-1	Dashi	t ou ⁴²	t ou ⁴²
+534-1	Dashi	ts ou ³³	ts ou ⁴⁴
+556-1	Dashi	kʰ u ³³	kʰ u ³³
+568-1	Dashi	x ɯ ⁴⁴	x ɯ ⁴⁴
+588-1	Dashi	sʰ w a ⁴⁴	sʰ w a ⁴⁴
+599-1	Dashi	pʰ u ⁵⁵	pʰ ɯ ⁵⁵
+656-1	Dashi	k u ²¹	k u ²¹
+678-1	Dashi	k o ²¹	k o ²¹
+689-1	Dashi	m ə˞ ⁴²	m ə˞ ⁴²
+700-1	Dashi	m e ⁴²	m e ⁴²
+775-1	Dashi	p j e n ⁴²	p j n ⁴²
+786-1	Dashi	k e ³⁵	k e ³⁵
+820-1	Dashi	ʈʂ o ³¹	ʈʂ õ ⁴²
+839-1	Dashi	t i ə ²¹	t ɯ ²¹
+863-1	Dashi	kʰ u ³³	kʰ u ³³
+896-1	Dashi	k ə˞ ³⁵	k ə̃˞ ⁵⁵
+929-1	Dashi	ʈʂ ɯ ³¹	ʈʂ ɯ ³¹
+1015-1	Dashi	ʂ ə ³⁵	ʂ o ³⁵
+1035-1	Dashi	ʈʂ o ³³	ʈʂ o ³³
+1107-1	Dashi	ʂʰ ə˞ ⁴⁴	ʂ ə˞ ⁴⁴
+1173-1	Dashi	ɕ i ³³	ɕ i ³³
+1195-1	Dashi	ɕ i ³³	ɕ i ³³
+1241-1	Dashi	m e ²¹	m e ²¹
+1252-1	Dashi	l õ ²¹	l o ŋ ²¹
+1294-1	Dashi	k ã ³⁵	k ã ³⁵
+1326-1	Dashi	ts u ³³	ʈʂ u ³³
+1348-1	Dashi	tɕ i ³¹	tɕ i ³¹
+1401-1	Dashi	s e n ⁴²	sʰ e n ⁴²
+1451-1	Dashi	s i ³³	ʂ i ³³
+1473-1	Dashi	t w e n ³³	t w e n ³³
+1507-1	Dashi	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
+1532-1	Dashi	k ɯ ³⁵	k ɯ ⁰
+1543-1	Dashi	ʂ ɯ ³³	ʂ ɯ ³³
+1575-1	Dashi	ɕ j e n ⁵⁵	ɕ j e n ³⁵
+1618-1	Dashi	p u ²¹	p ɯ ²¹
+1640-1	Dashi	k ou ⁴⁴	k ou ⁴⁴
+1671-1	Dashi	ɕ i ⁴⁴	ɕ i ⁴⁴
+1731-1	Dashi	ʂ ou ⁴⁴	ʂ o ⁵⁵
+1762-1	Dashi	sʰ w a ŋ ³¹	sʰ w a ŋ ³¹
+1773-1	Dashi	tʲ ɯ ⁴⁴	t ɯ ⁴⁴
+1794-1	Dashi	k o ŋ ⁵⁵	k o ŋ ⁵⁵
+1805-1	Dashi	z i ²¹	z i ³¹
+1816-1	Dashi	s õ ³³	sʰ o ³³
+1862-1	Dashi	ʈʂ i ⁵⁵	ʈʂ i ⁵⁵
+1885-1	Dashi	kʰ ə˞ ⁴⁴	kʰ ə˞ ⁴⁴
+1914-1	Dashi	ʂʰ ɯ ³³	ʂ ɯ ³³
+1936-1	Dashi	p u ³³	p u ³³
+1969-1	Dashi	ɕ j e n ⁵⁵	ɕ j e n ³⁵
+2018-1	Dashi	ts o ŋ ²¹	ts o ²¹
+2029-1	Dashi	k ã ³⁵	k ã ³⁵
+2051-1	Dashi	ʈʂ o ²¹	ʈʂ o ŋ ²¹
+2074-1	Dashi	k o ⁴⁴	k o ⁴⁴
+2085-1	Dashi	m ə˞ ³³	m ə˞ ³³
+2130-1	Dashi	p ə˞ ⁴⁴	p ə˞ ⁴⁴
+32-2	Ega	m a ⁴⁴	m a ⁴⁴
+53-2	Ega	ts ɛ ²¹	ts i ²¹
+93-2	Ega	k ɯ ²¹	k ɯ ²¹
+216-2	Ega	s w a ⁴⁴	s w a ⁴⁴
+236-2	Ega	ts õ ²²	ts o ŋ ²²
+267-2	Ega	ts ɛ ⁴²	ts ɛ ⁴²
+316-2	Ega	p ɯ ²²	p ɯ ²²
+327-2	Ega	x ɯ̃ ²²	x ɯ ²²
+348-2	Ega	tɕ u ⁴⁴	tɕ i ⁴⁴
+400-2	Ega	z o ²¹	z o ²¹
+452-2	Ega	q a ⁴²	q a ⁴⁴
+463-2	Ega	qʰ o ⁴⁴	qʰ o ⁴⁴
+512-2	Ega	d o ⁴²	d o ⁴²
+534-2	Ega	ts u ⁴⁴	ts u ⁴⁴
+556-2	Ega	qʰ u ²²	qʰ u ²²
+568-2	Ega	x ɯ ⁴⁴	x ɯ ⁴⁴
+588-2	Ega	s w a ⁴⁴	s w a ⁴⁴
+599-2	Ega	pʰ ɯ ⁵⁵	pʰ ɯ ⁵⁵
+656-2	Ega	k ʯ ²¹	k ʯ ²¹
+678-2	Ega	k ʯ ²¹	k ʯ ²¹
+689-2	Ega	m a ⁴²	m a ⁴²
+700-2	Ega	m ɛ ⁴²	m ɛ ⁴²
+775-2	Ega	p ɛ ⁴²	p i ɛ ⁴²
+786-2	Ega	q ɛ ⁵⁵	q ɛ ⁵⁵
+820-2	Ega	tɕ i u ⁴²	tɕ i u ⁴²
+839-2	Ega	tɕ i ²¹	t ɯ ²¹
+863-2	Ega	qʰ o ²²	qʰ o ²²
+896-2	Ega	q a ⁵⁵	q a ⁵⁵
+929-2	Ega	dʑ i ⁴²	dʑ i ⁴²
+1015-2	Ega	ɕ y ⁵⁵	ɕ i ⁵⁵
+1035-2	Ega	tɕ u ²²	tɕ u ²²
+1107-2	Ega	ɕ a ⁴⁴	ɕ j ⁴⁴
+1173-2	Ega	s i ²²	ɕ i ²²
+1195-2	Ega	s i ²²	ɕ i ²²
+1241-2	Ega	m ɛ ²¹	m ɛ ²¹
+1252-2	Ega	l u ²¹	l õ ²¹
+1294-2	Ega	q o ⁵⁵	q o ⁵⁵
+1326-2	Ega	tɕ ɥ i ²²	ts y ²²
+1348-2	Ega	tɕ i ⁴²	dʑ i ⁴²
+1401-2	Ega	s ɛ ⁴²	s ɛ ⁴²
+1451-2	Ega	s ɛ ²²	s ɛ ²²
+1473-2	Ega	t i ²²	t ɥ i ²²
+1507-2	Ega	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
+1532-2	Ega	q ɯ ⁵⁵	q ɯ ⁵⁵
+1543-2	Ega	ɕ i ²²	ɕ i ²²
+1575-2	Ega	s ɛ ⁵⁵	s ɛ ⁵⁵
+1618-2	Ega	p ɯ ²¹	p ɯ ²¹
+1640-2	Ega	k u ⁴⁴	k o ⁴⁴
+1671-2	Ega	s i ⁴⁴	ɕ i ⁴⁴
+1731-2	Ega	ɕ w o ŋ ⁵⁵	ɕ j o ⁵⁵
+1762-2	Ega	s w a ⁴²	s w a ⁴²
+1773-2	Ega	t ɯ ⁴⁴	t ɯ ⁴⁴
+1794-2	Ega	k u ⁵⁵	k o ⁵⁵
+1805-2	Ega	z i ⁴²	z i ⁴²
+1816-2	Ega	s y ²²	s y ²²
+1862-2	Ega	ts ɛ ⁵⁵	ts i ⁵⁵
+1885-2	Ega	qʰ a ⁴⁴	qʰ a ⁴⁴
+1914-2	Ega	ɕ i ²²	ɕ i ²²
+1936-2	Ega	p ɯ ²²	p ɯ ²²
+1969-2	Ega	s ɛ ⁵⁵	s ɛ ⁵⁵
+2018-2	Ega	ts u ²¹	ts o ⁴²
+2029-2	Ega	q o ⁵⁵	q o ⁵⁵
+2051-2	Ega	tɕ u ²¹	tɕ i ²¹
+2074-2	Ega	q o ⁴⁴	q o ⁴⁴
+2085-2	Ega	m a ²²	m a ²²
+2130-2	Ega	p a ⁴⁴	p a ⁴⁴
+32-3	Enqi	m æ ⁵⁵	m æ ⁵⁵
+53-3	Enqi	ts ɿ ²¹	dz ɿ ²¹
+93-3	Enqi	k ɯ ²¹	k ɯ ²¹
+216-3	Enqi	s w a ⁵⁵	s w a ⁵⁵
+236-3	Enqi	ts o ²²	ts o ²²
+267-3	Enqi	ts i ⁴³	ts i ⁴³
+316-3	Enqi	p ɯ ²²	p ɯ ²²
+327-3	Enqi	ɯ ²²	ɣ ɯ ²²
+348-3	Enqi	tɕ o ⁵⁵	tɕ j u ⁵⁵
+400-3	Enqi	z o ⁴³	z o ²¹
+452-3	Enqi	q æ ⁵⁵	q æ ⁵⁵
+463-3	Enqi	qʰ a ⁵⁵	qʰ a ⁵⁵
+512-3	Enqi	d a ⁴³	d o ⁴³
+534-3	Enqi	ts u ⁵⁵	ts u ⁵⁵
+556-3	Enqi	qʰ u ²²	qʰ u ²²
+568-3	Enqi	χ ɯ ⁵⁵	χ ɯ ⁵⁵
+588-3	Enqi	s w a ⁵⁵	s w a ⁵⁵
+599-3	Enqi	pʰ ɯ ²⁴	pʰ ɯ ²⁴
+656-3	Enqi	k u ²¹	k u ²¹
+678-3	Enqi	k u ²¹	k o ²¹
+689-3	Enqi	m æ ⁴³	m æ ⁴³
+700-3	Enqi	m ɛ ⁴³	m ɛ ⁴³
+775-3	Enqi	p ɛ ⁴³	p j ɛ ⁴³
+786-3	Enqi	q ɛ ²⁴	q ɛ ²⁴
+820-3	Enqi	ɖʐ o ⁴²	tɕ j ⁴³
+839-3	Enqi	d j ɯ ²¹	t j ɯ ²¹
+863-3	Enqi	qʰ o ²²	qʰ o ²²
+896-3	Enqi	q æ ²⁴	q æ ²⁴
+929-3	Enqi	d j ɯ ⁴³	d j ɯ ⁴³
+1015-3	Enqi	ɕ u ²⁴	ɕ j o ²⁴
+1035-3	Enqi	tɕ u ²²	tɕ o ²²
+1107-3	Enqi	ɕ j æ ⁵⁵	ɕ æ ⁵⁵
+1173-3	Enqi	s i ²²	ɕ i ²²
+1195-3	Enqi	s i ²²	ɕ i ²²
+1241-3	Enqi	m ɛ ²¹	m ɛ ²¹
+1252-3	Enqi	l u ²¹	l o ²¹
+1294-3	Enqi	q a ²⁴	q a ²⁴
+1326-3	Enqi	tɕ ɥ i ²²	ts ɥ i ²²
+1348-3	Enqi	dʑ i ⁴²	dʑ i ⁴³
+1401-3	Enqi	s ɛ ⁴³	s ɛ ⁴³
+1451-3	Enqi	s ɿ ²²	ɕ i ²²
+1473-3	Enqi	t ɥ ɛ ²²	t ɥ i ²²
+1507-3	Enqi	tɕʰ i ²⁴	tɕʰ i ²⁴
+1532-3	Enqi	q ɯ ²⁴	q ɯ ²⁴
+1543-3	Enqi	ɕ j ɯ ²²	ɕ j ²²
+1575-3	Enqi	s i ²⁴	s i ²⁴
+1618-3	Enqi	b ɯ ²¹	p ɯ ²¹
+1640-3	Enqi	k u ⁵⁵	k o ⁵⁵
+1671-3	Enqi	s i ⁵⁵	ɕ i ⁵⁵
+1731-3	Enqi	ɕ j o ²⁴	ɕ j o ²⁴
+1762-3	Enqi	ɕ ɥ ɛ ⁴²	s w a ⁴³
+1773-3	Enqi	t ə ⁵⁵	t ɯ ⁵⁵
+1794-3	Enqi	k o ²⁴	k o ²⁴
+1805-3	Enqi	ts ɿ ⁴³	z i ⁴³
+1816-3	Enqi	s u ²²	s u ²²
+1862-3	Enqi	ts ɿ ²⁴	ts ɿ ²⁴
+1885-3	Enqi	qʰ æ ⁵⁵	qʰ æ ⁵⁵
+1914-3	Enqi	ɕ j ɯ ²²	ɕ j ²²
+1936-3	Enqi	p ɯ ²²	p ɯ ²²
+1969-3	Enqi	s i ²⁴	s i ²⁴
+2018-3	Enqi	ts o ²¹	ts o ²¹
+2029-3	Enqi	q a ²⁴	q a ²⁴
+2051-3	Enqi	tɕ o ²¹	tɕ j ²¹
+2074-3	Enqi	q o ⁵⁵	q o ⁵⁵
+2085-3	Enqi	m æ ²²	m æ ²²
+2130-3	Enqi	p æ ⁵⁵	p æ ⁵⁵
+32-4	Gongxing	m æ ²⁴	m æ ²⁴
+53-4	Gongxing	ɖʐ i ²¹	ɖʐ i ²¹
+93-4	Gongxing	g ɯ ¹²	g ɯ ¹²
+216-4	Gongxing	s w a ²⁴	s w a ²⁴
+236-4	Gongxing	ts o ŋ ²²	ts o ŋ ²²
+267-4	Gongxing	tɕ i n ⁴²	tɕ j e n ⁴²
+316-4	Gongxing	p u ³³	p ɯ ²²
+327-4	Gongxing	ɣ e ²²	ɣ ɯ ²²
+348-4	Gongxing	ts ao ²⁴	ts y ²⁴
+400-4	Gongxing	z ao ¹²	z ao ¹²
+452-4	Gongxing	q æ ²⁴	q æ ²⁴
+463-4	Gongxing	qʰ a ²⁴	qʰ a ²⁴
+512-4	Gongxing	d a ⁴²	d ao ⁴²
+534-4	Gongxing	ts u ²⁴	ts u ²⁴
+556-4	Gongxing	qʰ m u ²²	qʰ u ²²
+568-4	Gongxing	χ e ²⁴	χ ɯ ²⁴
+588-4	Gongxing	s w a ²⁴	s w a ²⁴
+599-4	Gongxing	p u ⁵⁵	pʰ u ⁵⁵
+656-4	Gongxing	g u ¹²	g u ¹²
+678-4	Gongxing	g ao ¹²	g ao ¹²
+689-4	Gongxing	m æ ⁴²	m æ ⁴²
+700-4	Gongxing	m e n ⁴²	m e ⁴²
+775-4	Gongxing	tɕ ɥ e n ⁴²	p j e n ⁴²
+786-4	Gongxing	q ɛ ⁵⁵	q ɛ ⁵⁵
+820-4	Gongxing	ɖʐ ao ⁴²	ɖʐ ao ⁴²
+839-4	Gongxing	d i ¹²	d i ²¹
+863-4	Gongxing	qʰ o ²²	qʰ ao ²²
+896-4	Gongxing	q a n ⁵⁵	q a n ⁵⁵
+929-4	Gongxing	ɖʐ i ⁴²	ɖʐ i ²⁴
+1015-4	Gongxing	s ao ⁵⁵	s ao ⁵⁵
+1035-4	Gongxing	ts ao ²²	ʈʂ ao ²²
+1107-4	Gongxing	s æ ²⁴	s æ ²⁴
+1173-4	Gongxing	ɕ i ²²	ɕ i ²²
+1195-4	Gongxing	ɕ i ²²	ɕ i ²²
+1241-4	Gongxing	m ə n ¹²	m ɛ ¹²
+1252-4	Gongxing	l õ ¹²	l o ŋ ¹²
+1294-4	Gongxing	q a ŋ ⁵⁵	q a ŋ ⁵⁵
+1326-4	Gongxing	tɕ y ²²	ts y ²²
+1348-4	Gongxing	dʑ i ⁴²	dʑ i ⁴²
+1401-4	Gongxing	s e n ⁴²	s e n ⁴²
+1451-4	Gongxing	ʂ i ²²	ʂ i ²²
+1473-4	Gongxing	t ɥ e n ²²	t w e n ²²
+1507-4	Gongxing	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
+1532-4	Gongxing	q e ⁵⁵	q e ⁵⁵
+1543-4	Gongxing	ʂ i ²²	s i ²²
+1575-4	Gongxing	χ j e n ⁵⁵	ɕ j e n ⁵⁵
+1618-4	Gongxing	b u ¹²	b u ¹²
+1640-4	Gongxing	k u ²⁴	k o ²⁴
+1671-4	Gongxing	ɕ i ²⁴	ɕ i ²⁴
+1731-4	Gongxing	s o ŋ ⁵⁵	s o ŋ ⁵⁵
+1762-4	Gongxing	s w a ŋ ⁴²	s w a ŋ ⁴²
+1773-4	Gongxing	t i ²⁴	t i ²⁴
+1794-4	Gongxing	k o ŋ ⁵⁵	k o ŋ ⁵⁵
+1805-4	Gongxing	z i ⁴²	z i ²⁴
+1816-4	Gongxing	s ao ²²	s ao ŋ ²²
+1862-4	Gongxing	ʈʂ i ⁵⁵	ʈʂ i ⁵⁵
+1885-4	Gongxing	qʰ æ ²⁴	qʰ æ ²⁴
+1914-4	Gongxing	ʂ i ²²	s i ²²
+1936-4	Gongxing	p u ³³	p u ²²
+1969-4	Gongxing	ɕ i n ⁵⁵	ɕ j e n ⁵⁵
+2018-4	Gongxing	dz o ŋ ¹²	dz o ŋ ¹²
+2029-4	Gongxing	q a ŋ ⁵⁵	q a ŋ ⁵⁵
+2051-4	Gongxing	dz ao ¹²	ɖʐ ao ¹²
+2074-4	Gongxing	q ao ²⁴	q ao ²⁴
+2085-4	Gongxing	m æ ²²	m æ ²²
+2130-4	Gongxing	p æ ²⁴	p æ ²⁴
+32-5	Jinman	m a ⁵⁵	m a ⁵⁵
+53-5	Jinman	tɕ ə˞ ²¹	ʈʂ ə˞ ²¹
+93-5	Jinman	k ɯ ²¹	k ɯ ²¹
+216-5	Jinman	s w a ⁵⁵	s w a ⁵⁵
+236-5	Jinman	ts ə ŋ ²²	ts õ ²²
+267-5	Jinman	ts ẽ ⁴²	tɕ i ⁴²
+316-5	Jinman	p ɯ ²²	p ɯ ²²
+327-5	Jinman	x ẽ ⁵⁵	x ɯ ²²
+348-5	Jinman	tɕ u ⁵⁵	tɕ õ ⁵⁵
+400-5	Jinman	z ao ²¹	z o ²¹
+452-5	Jinman	q a ⁵⁵	q a ⁵⁵
+463-5	Jinman	qʰ a ⁵⁵	qʰ a ⁵⁵
+512-5	Jinman	d o ⁴²	d o ⁴²
+534-5	Jinman	ts o ⁵⁵	ts o ⁵⁵
+556-5	Jinman	qʰ u ²²	qʰ u ²²
+568-5	Jinman	x ɯ ⁵⁵	x ɯ ⁵⁵
+588-5	Jinman	s w a ⁵⁵	s w a ⁵⁵
+599-5	Jinman	pʰ ɯ ⁵⁵	pʰ ɯ ⁵⁵
+656-5	Jinman	k ʯ ²¹	k ʯ ²¹
+678-5	Jinman	k ʯ ²¹	k ʯ ²¹
+689-5	Jinman	m a ⁴²	m a ⁴²
+700-5	Jinman	m e ⁴²	m e ⁴²
+775-5	Jinman	p e ⁴²	p j e ⁴²
+786-5	Jinman	q ɛ̃ ⁵⁵	q e ⁵⁵
+820-5	Jinman	tɕ i u ⁴²	tɕ õ ⁴²
+839-5	Jinman	ʈ ɯ ²¹	ʈ ɯ ²¹
+863-5	Jinman	qʰ o ²²	qʰ o ²²
+896-5	Jinman	q o ⁵⁵	q ã ⁵⁵
+929-5	Jinman	ɖ ɯ ⁴²	dʑ i ⁴²
+1015-5	Jinman	ɕ u ⁵⁵	ɕ y ⁵⁵
+1035-5	Jinman	tɕ u ²²	tɕ u ²²
+1107-5	Jinman	ɕ a ⁵⁵	ɕ j ⁵⁵
+1173-5	Jinman	ɕ i ²²	s i ²²
+1195-5	Jinman	ɕ i ²²	s i ²²
+1241-5	Jinman	m e ²¹	m e ²¹
+1252-5	Jinman	l u ²¹	l õ ²¹
+1294-5	Jinman	q ã ⁵⁵	q ã ⁵⁵
+1326-5	Jinman	ts ɥ i ²²	tɕ ɥ i ²²
+1348-5	Jinman	dʑ i ⁴²	tɕ i ⁴²
+1401-5	Jinman	s ẽ ⁴²	s ẽ ⁴²
+1451-5	Jinman	ʂ ə˞ ²²	ʂ ə˞ ²²
+1473-5	Jinman	t ɥ i ²²	t w ẽ ²²
+1507-5	Jinman	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
+1532-5	Jinman	q ɯ ⁵⁵	q ɯ ⁵⁵
+1543-5	Jinman	ɕ i ²²	ɕ i ²²
+1575-5	Jinman	s ẽ ⁵⁵	s i ⁵⁵
+1618-5	Jinman	p ɯ ²¹	p ɯ ²¹
+1640-5	Jinman	k o ⁵⁵	k u ⁵⁵
+1671-5	Jinman	ɕ i ⁴⁴	s i ⁵⁵
+1731-5	Jinman	ɕ i õ ⁵⁵	ɕ ɥ o ⁵⁵
+1762-5	Jinman	s w ã ⁴²	s w a ⁴²
+1773-5	Jinman	t ɯ ⁵⁵	t ɯ ⁵⁵
+1794-5	Jinman	k o ŋ ⁵⁵	k õ ⁵⁵
+1805-5	Jinman	z i ⁴²	z i ⁴²
+1816-5	Jinman	s y ²²	s õ ²²
+1862-5	Jinman	ʈʂ i ⁵⁵	ʈʂ ə˞ ⁵⁵
+1885-5	Jinman	qʰ a ⁵⁵	qʰ a ⁵⁵
+1914-5	Jinman	ɕ i ²²	ɕ i ²²
+1936-5	Jinman	p u ²²	p ɯ ²²
+1969-5	Jinman	s ẽ ⁵⁵	s ẽ ⁵⁵
+2018-5	Jinman	ts õ ⁴²	ts õ ²¹
+2029-5	Jinman	q ã ⁵⁵	q ã ⁵⁵
+2051-5	Jinman	tɕ u ²¹	tɕ õ ²¹
+2074-5	Jinman	q o ⁵⁵	q o ⁵⁵
+2085-5	Jinman	m o ²²	m a ²²
+2130-5	Jinman	p a ⁵⁵	p a ⁵⁵
+32-6	Jinxing	m a ⁴⁴	m a ⁴⁴
+53-6	Jinxing	ts a ²¹	ts i ²¹
+93-6	Jinxing	k ɯ ²¹	k ɯ ²¹
+216-6	Jinxing	s u ɑ ⁴⁴	s w ɑ ⁴⁴
+236-6	Jinxing	ts ʯ̃ ³³	ts ʯ̃ ³³
+267-6	Jinxing	tɕ j e n ⁴²	tɕ j e n ⁴²
+316-6	Jinxing	p ɯ ³³	p ɯ ³³
+327-6	Jinxing	ɣ eə ³³	ɣ ə ³³
+348-6	Jinxing	ts ʯ ⁴⁴	ts ʯ̃ ⁴⁴
+400-6	Jinxing	s ou ²¹	z ou ²¹
+452-6	Jinxing	k a ⁴⁴	k a ⁴⁴
+463-6	Jinxing	kʰ ɑ ⁴⁴	kʰ ɑ ⁴⁴
+512-6	Jinxing	t ou ⁴²	t ou ⁴²
+534-6	Jinxing	ts ou ⁴⁴	ts ou ⁴⁴
+556-6	Jinxing	qʰ u ²²	kʰ u ³³
+568-6	Jinxing	x ɯ ⁴⁴	x ɯ ⁴⁴
+588-6	Jinxing	s u ɑ ⁴⁴	s w ɑ ⁴⁴
+599-6	Jinxing	pʰ ɯ ⁵⁵	pʰ u ⁵⁵
+656-6	Jinxing	k w o ²¹	k u ²¹
+678-6	Jinxing	k ʯ ²¹	k ʯ ²¹
+689-6	Jinxing	m a ⁴²	m a n ⁴²
+700-6	Jinxing	m e ⁴²	m e ⁴²
+775-6	Jinxing	p j e n ⁴²	p j e n ⁴²
+786-6	Jinxing	k i ⁵⁵	k e ⁵⁵
+820-6	Jinxing	ts ʯ̃ ⁴²	ts ʯ̃ ³¹
+839-6	Jinxing	t ə ²¹	t ə ²¹
+863-6	Jinxing	kʰ ou ³³	kʰ ou ³³
+896-6	Jinxing	k ɛ̃ ⁵⁵	k a n ⁵⁵
+929-6	Jinxing	ts ɯ ³¹	ts ɯ ³¹
+1015-6	Jinxing	s ʯ̃ ⁵⁵	s ʯ ⁵⁵
+1035-6	Jinxing	ts ʯ ⁵⁵	ts ʯ ³³
+1107-6	Jinxing	s a ⁴⁴	s a ⁴⁴
+1173-6	Jinxing	ɕ i ³³	ɕ i ³³
+1195-6	Jinxing	ɕ i ³³	ɕ i ³³
+1241-6	Jinxing	m e ²¹	m e n
+1252-6	Jinxing	l ʯ̃ ²¹	l ʯ̃ ŋ ²¹
+1294-6	Jinxing	k ɑ̃ ⁵⁵	k ɑ̃ ⁵⁵
+1326-6	Jinxing	ts u ³³	ts u ³³
+1348-6	Jinxing	tɕ i ³¹	tɕ i ³¹
+1401-6	Jinxing	s e n ⁴²	s e n ⁴²
+1451-6	Jinxing	s i ³³	s i ³³
+1473-6	Jinxing	t w e n ³³	t w e n ³³
+1507-6	Jinxing	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
+1532-6	Jinxing	k ɯ ⁵⁵	k ə ⁵⁵
+1543-6	Jinxing	s ɯ ³³	s ɯ ³³
+1575-6	Jinxing	ɕ j e n ⁵⁵	ɕ j e n ⁵⁵
+1618-6	Jinxing	p ɯ ²¹	p u ²¹
+1640-6	Jinxing	k ou ⁴⁴	k ou ⁴⁴
+1671-6	Jinxing	ɕ i ⁴⁴	ɕ i ⁴⁴
+1731-6	Jinxing	s õ ⁵⁵	s õ ⁴⁴
+1762-6	Jinxing	s u ɑ ³¹	s w ɑ̃ ŋ ³¹
+1773-6	Jinxing	t ə ⁴⁴	t ə ⁴⁴
+1794-6	Jinxing	k õ ⁵⁵	k õ ŋ ⁵⁵
+1805-6	Jinxing	s i ³¹	z i ³¹
+1816-6	Jinxing	s ʯ ³³	s ʯ̃ ³³
+1862-6	Jinxing	ts i ⁵⁵	ts i ⁵⁵
+1885-6	Jinxing	kʰ a ⁴⁴	kʰ a ⁴⁴
+1914-6	Jinxing	s ɯ ³³	s ɯ ³³
+1936-6	Jinxing	p u ³³	p u ³³
+1969-6	Jinxing	ɕ j e n ⁵⁵	ɕ j e n ⁵⁵
+2018-6	Jinxing	ts õ ²¹	ts õ ²¹
+2029-6	Jinxing	k ɑ̃ ⁵⁵	k ɑ̃ ⁵⁵
+2051-6	Jinxing	ts ʯ̃ ²¹	ts ʯ̃ ²¹
+2074-6	Jinxing	k ʯ ⁴⁴	k ʯ ⁴⁴
+2085-6	Jinxing	m a n ³³	m a n ³³
+2130-6	Jinxing	p a ⁴⁴	p a ⁴⁴
+32-7	Mazhelong	m ə˞ ⁴⁴	m ə˞ ⁴⁴
+53-7	Mazhelong	dz i ²¹	tsʰ i ²¹
+93-7	Mazhelong	k ɯ ²¹	k əɯ ²¹
+216-7	Mazhelong	s w a ⁴⁴	s w a ⁴⁴
+236-7	Mazhelong	ts o ŋ ³³	ts o ŋ ³³
+267-7	Mazhelong	tɕ e n ⁴²	tɕ e n ²¹
+316-7	Mazhelong	p əɯ ³³	p əɯ ³³
+327-7	Mazhelong	ɣ ə ³³	ɣ ɯ ³³
+348-7	Mazhelong	ts u ⁴⁴	ts o ⁴⁴
+400-7	Mazhelong	z o ²¹	z o ²¹
+452-7	Mazhelong	k ə˞ ⁴⁴	k ə˞ ⁴⁴
+463-7	Mazhelong	kʰ ɐ ⁴⁴	kʰ a ⁴⁴
+512-7	Mazhelong	d o ⁴²	t o ⁴²
+534-7	Mazhelong	ts o ⁴⁴	ts o ⁴⁴
+556-7	Mazhelong	kʰ u ³³	kʰ u ²¹
+568-7	Mazhelong	x ɯ ⁴⁴	x ɯ ⁴⁴
+588-7	Mazhelong	s w a ⁴⁴	s w a ⁴⁴
+599-7	Mazhelong	pʰ əɯ ⁵⁵	pʰ əɯ ⁵⁵
+656-7	Mazhelong	k ʯ ²¹	k ʯ ²¹
+678-7	Mazhelong	k ʯ ²¹	k ʯ ²¹
+689-7	Mazhelong	m ə˞ ²¹	m ə˞ ⁴²
+700-7	Mazhelong	m e ²¹	m e ²¹
+775-7	Mazhelong	p j ɛ ⁴²	p j e n ²¹
+786-7	Mazhelong	k e ⁵⁵	k ɛ ⁵⁵
+820-7	Mazhelong	ts əɯ ²¹	tsʰ o ⁴²
+839-7	Mazhelong	t əɯ ²¹	t əɯ ²¹
+863-7	Mazhelong	kʰ o ³³	kʰ o ³³
+896-7	Mazhelong	k ə̃˞ ⁵⁵	k ə̃˞ ⁵⁵
+929-7	Mazhelong	dz əɯ ²¹	dz əɯ ³¹
+1015-7	Mazhelong	s u ⁵⁵	s o ⁵⁵
+1035-7	Mazhelong	ts ʯ ³³	ts o ⁵⁵
+1107-7	Mazhelong	s ə˞ ⁴⁴	s ə˞ ⁴⁴
+1173-7	Mazhelong	ɕ i ³³	ɕ i ³³
+1195-7	Mazhelong	ɕ i ³³	ɕ i ³³
+1241-7	Mazhelong	m e ²¹	m e ²¹
+1252-7	Mazhelong	l o ŋ ²¹	l o ŋ ²¹
+1294-7	Mazhelong	k a ŋ ⁵⁵	k a ŋ ⁵⁵
+1326-7	Mazhelong	ts u ³³	ts u ³³
+1348-7	Mazhelong	t i ²¹	d i ³¹
+1401-7	Mazhelong	s ɛ ⁴²	s e n ⁴²
+1451-7	Mazhelong	s i ³³	s i ³³
+1473-7	Mazhelong	ts w e n ³³	t w e n ³³
+1507-7	Mazhelong	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
+1532-7	Mazhelong	k ə ⁵⁵	k ə ⁵⁵
+1543-7	Mazhelong	s əɯ ³³	s əɯ ³³
+1575-7	Mazhelong	ɕ e n ⁵⁵	ɕ e n ⁵⁵
+1618-7	Mazhelong	p əɯ ²¹	p əɯ ²¹
+1640-7	Mazhelong	k o ⁴⁴	k o ⁴⁴
+1671-7	Mazhelong	ɕ i ⁴⁴	ɕ i ⁴⁴
+1731-7	Mazhelong	s o ŋ ⁵⁵	s o ŋ ⁵⁵
+1762-7	Mazhelong	s w a ŋ ²¹	s w a ŋ ³¹
+1773-7	Mazhelong	t əɯ ⁴⁴	t əɯ ⁴⁴
+1794-7	Mazhelong	k o ŋ ⁵⁵	k o ŋ ⁵⁵
+1805-7	Mazhelong	z əɯ ²¹	z i ²¹
+1816-7	Mazhelong	s ɯ ³³	s o ŋ ³³
+1862-7	Mazhelong	ts i ⁵⁵	ts i ⁵⁵
+1885-7	Mazhelong	kʰ ə˞ ⁴⁴	kʰ ə˞ ⁴⁴
+1914-7	Mazhelong	s əɯ ³³	s əɯ ³³
+1936-7	Mazhelong	p əɯ ³³	p əɯ ³³
+1969-7	Mazhelong	ɕ e n ⁵⁵	ɕ e n ⁵⁵
+2018-7	Mazhelong	ts o ŋ ²¹	tsʰ o ŋ ²¹
+2029-7	Mazhelong	k a ŋ ⁵⁵	k a ŋ ⁵⁵
+2051-7	Mazhelong	dz u ²¹	tsʰ o ŋ ²¹
+2074-7	Mazhelong	k o ŋ ⁴⁴	k o ⁴⁴
+2085-7	Mazhelong	m ə˞ ³³	m ə˞ ³³
+2130-7	Mazhelong	p ə˞ ⁴⁴	p ə˞ ⁴⁴
+32-8	ProtoBai	m æ ⁴	m æ ⁴
+53-8	ProtoBai	ɖʐ i ¹	ɖʐ r i ¹
+93-8	ProtoBai	g ɯ ¹	g ɯ ¹
+216-8	ProtoBai	sʰ w a ⁴	sʰ w a ⁴
+236-8	ProtoBai	ts u ŋ ²	ts u ŋ ²
+267-8	ProtoBai	ts j e n ⁵	ts e n ⁵
+316-8	ProtoBai	p ɯ ²	p ɯ ²
+327-8	ProtoBai	ɣ ɯ ²	ɣ ɯ ²
+348-8	ProtoBai	ts r o ⁴	ts r o ⁴
+400-8	ProtoBai	z ɔ ¹	z ɔ ¹
+452-8	ProtoBai	q æ ⁴	q æ ⁴
+463-8	ProtoBai	qʰ a ⁴	qʰ a ⁴
+512-8	ProtoBai	d ɔ ⁵	d ɔ ⁵
+534-8	ProtoBai	ts o ⁴	ts o ⁴
+556-8	ProtoBai	qʰ u ²	qʰ ɔ ²
+568-8	ProtoBai	χ ɯ ⁴	χ ɯ ⁴
+588-8	ProtoBai	sʰ w a ⁴	sʰ w a ⁴
+599-8	ProtoBai	pʰ ɯ ¹	pʰ ɯ ¹
+656-8	ProtoBai	g u ¹	g u ¹
+678-8	ProtoBai	g o ¹	g o ¹
+689-8	ProtoBai	m æ ⁵	m æ ³
+700-8	ProtoBai	m ɛ ⁵	m ɛ ³
+775-8	ProtoBai	p r e n ⁵	p r e n ³
+786-8	ProtoBai	q ɛ ¹	q ɛ ¹
+820-8	ProtoBai	ɖʐ o ³	ɖʐ o ³
+839-8	ProtoBai	d j ɯ ¹	d r ɯ ¹
+863-8	ProtoBai	qʰ ɔ ²	qʰ ɔ ²
+896-8	ProtoBai	q æ n ¹	q æ n ¹
+929-8	ProtoBai	d r ɯ ³	d r ɯ ³
+1015-8	ProtoBai	s r o ¹	s r o ¹
+1035-8	ProtoBai	ts r ɔ ²	ts r o ²
+1107-8	ProtoBai	sʰ r æ ⁴	sʰ æ ⁴
+1173-8	ProtoBai	s j i ²	s i ²
+1195-8	ProtoBai	s j i ²	s i ²
+1241-8	ProtoBai	m ɛ ¹	m ɛ ¹
+1252-8	ProtoBai	l o ŋ ¹	l o ŋ ¹
+1294-8	ProtoBai	q a ŋ ¹	q a ŋ ¹
+1326-8	ProtoBai	ts u ²	ts j i ²
+1348-8	ProtoBai	d i ³	dʑ i ³
+1401-8	ProtoBai	s e n ⁵	s e n ⁵
+1451-8	ProtoBai	s r i ²	s r i ²
+1473-8	ProtoBai	t w e n ²	d w e n ²
+1507-8	ProtoBai	tɕʰ i ¹	tɕʰ i ¹
+1532-8	ProtoBai	q ɯ ¹	q ɯ ¹
+1543-8	ProtoBai	sʰ r ɯ ²	s r ɯ ²
+1575-8	ProtoBai	s j e n ¹	s j e n ¹
+1618-8	ProtoBai	b ɯ ¹	b ɯ ¹
+1640-8	ProtoBai	k o ⁴	k o ⁴
+1671-8	ProtoBai	s j i ⁴	s i ⁴
+1731-8	ProtoBai	s o ŋ ¹	sʰ r o ŋ ¹
+1762-8	ProtoBai	sʰ w a ŋ ³	sʰ w a ŋ ³
+1773-8	ProtoBai	t ɯ ⁴	d ɯ ⁴
+1794-8	ProtoBai	k o ŋ ¹	k o ŋ ¹
+1805-8	ProtoBai	z ɯ ³	z i ³
+1816-8	ProtoBai	s u ŋ ²	s u ²
+1862-8	ProtoBai	ts r i ¹	ts i i ¹
+1885-8	ProtoBai	qʰ æ ⁴	qʰ æ ⁴
+1914-8	ProtoBai	sʰ r ɯ ²	sʰ r ɯ ²
+1936-8	ProtoBai	p ɯ ²	p u ²
+1969-8	ProtoBai	s j e n ¹	s j e n ¹
+2018-8	ProtoBai	dz o ŋ ¹	dz o ŋ ¹
+2029-8	ProtoBai	q a ŋ ¹	q a ŋ ¹
+2051-8	ProtoBai	ɖʐ u ŋ ¹	ɖʐ r o ŋ ¹
+2074-8	ProtoBai	q ɔ ⁴	q ɔ ŋ ⁴
+2085-8	ProtoBai	m æ ²	m æ ²
+2130-8	ProtoBai	p æ ⁴	p æ ⁴
+32-9	Tuoluo	m a ⁴²	m a ⁴²
+53-9	Tuoluo	ʐ ə˞ ³⁵	ʐ ə˞ ³⁵
+93-9	Tuoluo	g ɯ ³⁵	g ɯ ³⁵
+216-9	Tuoluo	s w ɔ ⁴²	s w o ⁴²
+236-9	Tuoluo	ts ʯ ŋ ³³	ts ʯ ŋ ³³
+267-9	Tuoluo	tɕ j e n ²¹	tɕ j n ²¹
+316-9	Tuoluo	p ɯ ³³	p ɯ ³³
+327-9	Tuoluo	ɣ ɯ ³³	ɣ ɯ ³³
+348-9	Tuoluo	ʈʂ ʯ ⁴²	tɕ i ⁴²
+400-9	Tuoluo	z ɔ ³⁵	z ɔ ²¹
+452-9	Tuoluo	q a ⁴²	q a ⁴²
+463-9	Tuoluo	qʰ ɔ ⁴²	qʰ ɔ ⁴²
+512-9	Tuoluo	d ɔ ²¹	d ɔ ²¹
+534-9	Tuoluo	ts u ⁴²	ts u ⁴²
+556-9	Tuoluo	qʰ o ³³	qʰ o ³³
+568-9	Tuoluo	x ə˞ ⁴²	x ə˞ ⁴²
+588-9	Tuoluo	s w ɔ ⁴²	s w o ⁴²
+599-9	Tuoluo	pʰ ɯ ⁵⁵	pʰ ɯ ⁵⁵
+656-9	Tuoluo	g ʯ ³⁵	g ʯ ³⁵
+678-9	Tuoluo	g ʯ ³⁵	g ʯ ³⁵
+689-9	Tuoluo	m a ²¹	m a ²¹
+700-9	Tuoluo	m ɛ ²¹	m ɛ ²¹
+775-9	Tuoluo	tɕ ɥ e n ²¹	p j e n ²¹
+786-9	Tuoluo	q ɛ ⁵⁵	q ɛ ⁵⁵
+820-9	Tuoluo	ʐ ʯ ²¹	ʐ y ²¹
+839-9	Tuoluo	d j ɯ ³⁵	d j ɯ ³⁵
+863-9	Tuoluo	qʰ ɔ ³³	qʰ ɔ ³³
+896-9	Tuoluo	q a ŋ ⁵⁵	q a ŋ ⁵⁵
+929-9	Tuoluo	d j ɯ ²¹	d j ɯ ²¹
+1015-9	Tuoluo	ʂ ʯ ⁵⁵	ʂ ʯ ⁵⁵
+1035-9	Tuoluo	ʈʂ ʯ ³³	ʈʂ ʯ ³³
+1107-9	Tuoluo	ɕ a ⁴²	ʂ j a ⁴²
+1173-9	Tuoluo	ɕ i ³³	ɕ i ³³
+1195-9	Tuoluo	ɕ i ³³	ɕ i ³³
+1241-9	Tuoluo	m ɛ ³⁵	m ɛ ³⁵
+1252-9	Tuoluo	l o ŋ ³⁵	l o ŋ ³⁵
+1294-9	Tuoluo	q ɔ ŋ ⁵⁵	q ɔ ŋ ⁵⁵
+1326-9	Tuoluo	tɕ ɥ i ³³	ts y ³³
+1348-9	Tuoluo	ʑ i ²¹	ʑ i ²¹
+1401-9	Tuoluo	s e n ²¹	s e n ²¹
+1451-9	Tuoluo	ʂ i ³³	ʂ i ³³
+1473-9	Tuoluo	t w e ³³	t w e ³³ ³³
+1507-9	Tuoluo	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
+1532-9	Tuoluo	q ə˞ ⁵⁵	q ə˞ ⁵⁵
+1543-9	Tuoluo	ɕ j ɯ ³³	ʂ j ³³
+1575-9	Tuoluo	ɕ j e n ⁵⁵	ɕ j e n ⁵⁵
+1618-9	Tuoluo	b ɯ ³⁵	b ɯ ³⁵
+1640-9	Tuoluo	k o ⁴²	k o ⁴²
+1671-9	Tuoluo	ɕ i ⁴²	ɕ i ⁴²
+1731-9	Tuoluo	ɕ j o ŋ ⁵⁵	ʂ ʯ ŋ ⁵⁵
+1762-9	Tuoluo	s o ŋ ²¹	s w a ŋ ²¹
+1773-9	Tuoluo	t ɯ ⁴²	t j ⁴²
+1794-9	Tuoluo	k o ŋ ⁵⁵	k o ŋ ⁵⁵
+1805-9	Tuoluo	z i ²¹	z i ²¹
+1816-9	Tuoluo	s ʯ ³³	s ʯ ³³
+1862-9	Tuoluo	ʈʂ i ⁵⁵	ʈʂ ə̃˞ ⁵⁵
+1885-9	Tuoluo	qʰ a ⁴²	qʰ a ⁴²
+1914-9	Tuoluo	ɕ j ɯ ³³	ʂ j ³³
+1936-9	Tuoluo	p ɯ ³³	p ɯ ³³
+1969-9	Tuoluo	ɕ j e n ⁵⁵	ɕ j n ⁵⁵
+2018-9	Tuoluo	z o ŋ ³⁵	z o ŋ ³⁵
+2029-9	Tuoluo	q ɔ ŋ ⁵⁵	q ɔ ŋ ⁵⁵
+2051-9	Tuoluo	ʐ ʯ ŋ ³⁵	ʐ ʯ ³⁵
+2074-9	Tuoluo	q o ⁴²	q ɔ ⁴²
+2085-9	Tuoluo	m a ³³	m a ³³
+2130-9	Tuoluo	p a ⁴²	p a ⁴²
+32-10	Zhoucheng	m ɛ ⁴⁴	m ɛ ⁴⁴
+53-10	Zhoucheng	ts i ²¹	ts i ²¹
+93-10	Zhoucheng	k ɯ ²¹	k ɯ ²¹
+216-10	Zhoucheng	s w a ⁴⁴	s w a ⁴⁴
+236-10	Zhoucheng	ts i ³³	ts ʯ ³³
+267-10	Zhoucheng	tɕ i ⁵³	tɕ j e ⁴²
+316-10	Zhoucheng	p ɯ ³³	p ɯ ³³
+327-10	Zhoucheng	ɣ ɯ ³³	ɣ ɯ ³³
+348-10	Zhoucheng	ts ʯ ⁴⁴	ts ʯ ⁴⁴
+400-10	Zhoucheng	z o ²¹	z o ²¹
+452-10	Zhoucheng	k ɛ ⁵⁵	k ɛ ⁴⁴
+463-10	Zhoucheng	kʰ a ⁴⁴	kʰ a ⁴⁴
+512-10	Zhoucheng	t o ⁴²	t o ⁴²
+534-10	Zhoucheng	ts ou ⁴⁴	ts o ⁴⁴
+556-10	Zhoucheng	kʰ u ³¹	kʰ u ³³
+568-10	Zhoucheng	x ɯ ⁴⁴	x ɯ ⁴⁴
+588-10	Zhoucheng	s w a ⁴⁴	s w a ⁴⁴
+599-10	Zhoucheng	pʰ əɯ ⁵⁵	pʰ ɯ ⁵⁵
+656-10	Zhoucheng	k u ²¹	k u ²¹
+678-10	Zhoucheng	k ʯ ²¹	k ʯ ²¹
+689-10	Zhoucheng	m ɛ ⁴²	m ɛ ⁴²
+700-10	Zhoucheng	m e ²¹	m e ⁴²
+775-10	Zhoucheng	p i ⁴²	p j e ⁴²
+786-10	Zhoucheng	k e ³⁵	k ɛ ³⁵
+820-10	Zhoucheng	ts ʯ ³¹	ts ʯ ⁴²
+839-10	Zhoucheng	t ɯ ²¹	t ɯ ²¹
+863-10	Zhoucheng	kʰ w o ³³	kʰ o ³³
+896-10	Zhoucheng	k ɛ ⁵⁵	k ɛ ³⁵
+929-10	Zhoucheng	ts ɯ ³¹	ts ɯ ³¹
+1015-10	Zhoucheng	s ʯ ³⁵	s ʯ ³⁵
+1035-10	Zhoucheng	ts ʯ ³³	ts ʯ ³³
+1107-10	Zhoucheng	s ɛ ⁴⁴	s ɛ ⁴⁴
+1173-10	Zhoucheng	ɕ i ³³	ɕ i ³³
+1195-10	Zhoucheng	ɕ i ³³	ɕ i ³³
+1241-10	Zhoucheng	m e ²¹	m e ²¹
+1252-10	Zhoucheng	l ʯ ²¹	l o ²¹
+1294-10	Zhoucheng	k a ³⁵	k a ³⁵
+1326-10	Zhoucheng	ts u ³³	ts u ³³
+1348-10	Zhoucheng	tɕ i ³¹	tɕ i ³¹
+1401-10	Zhoucheng	s e ⁴²	s e ⁴²
+1451-10	Zhoucheng	s i ³³	s i ³³
+1473-10	Zhoucheng	t w e ³³	t w e ³³
+1507-10	Zhoucheng	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
+1532-10	Zhoucheng	k ɯ ³⁵	k ɯ ³⁵
+1543-10	Zhoucheng	s ɯ ³³	s ɯ ³³
+1575-10	Zhoucheng	ɕ i ³⁵	ɕ j e ⁵⁵
+1618-10	Zhoucheng	p ɯ ²¹	p ɯ ²¹
+1640-10	Zhoucheng	k o ⁴⁴	k o ⁴⁴
+1671-10	Zhoucheng	ɕ i ⁴⁴	ɕ i ⁴⁴
+1731-10	Zhoucheng	s ou ⁵⁵	s o ⁵⁵
+1762-10	Zhoucheng	s w a ³¹	s w a ³¹
+1773-10	Zhoucheng	t ɯ ⁴⁴	t ɯ ⁴⁴
+1794-10	Zhoucheng	k ou ³⁵	k o ⁵⁵
+1805-10	Zhoucheng	z ɯ ⁴²	z i ³¹
+1816-10	Zhoucheng	s i ⁵⁵	s ʯ ³³
+1862-10	Zhoucheng	ts i ³⁵	ts i ⁵⁵
+1885-10	Zhoucheng	kʰ ɛ ⁴⁴	kʰ ɛ ⁴⁴
+1914-10	Zhoucheng	s ɯ ³³	s ɯ ³³
+1936-10	Zhoucheng	p u ³³	p u ³³
+1969-10	Zhoucheng	ɕ i ³⁵	ɕ j e ⁵⁵
+2018-10	Zhoucheng	ts ou ²¹	ts ou ²¹
+2029-10	Zhoucheng	k a ³⁵	k a ³⁵
+2051-10	Zhoucheng	ts ʯ ²¹	ts ʯ ²¹
+2074-10	Zhoucheng	k ʯ ⁴⁴	k ʯ ⁴⁴
+2085-10	Zhoucheng	m ɛ ³³	m ɛ ³³
+2130-10	Zhoucheng	p ə ⁴⁴	p ɛ ⁴⁴

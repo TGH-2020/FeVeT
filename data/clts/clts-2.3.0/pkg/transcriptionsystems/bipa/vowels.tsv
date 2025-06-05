@@ -1,0 +1,327 @@
+GRAPHEME	ROUNDEDNESS	HEIGHT	CENTRALITY	ALIAS	EXTRA	NOTE
+a	unrounded	open	front			
+ä	unrounded	open	front		relative_articulation:centralized	
+a̟	unrounded	open	front		relative_articulation:advanced	
+a̟ː	unrounded	open	front		relative_articulation:advanced,duration:long	
+äː	unrounded	open	front		relative_articulation:centralized,duration:long	
+aː	unrounded	open	front		duration:long	
+aːː	unrounded	open	front		duration:ultra-long	
+a̤ːː	unrounded	open	front		breathiness:breathy,duration:ultra-long	
+aˑ	unrounded	open	front		duration:mid-long	
+a˞	unrounded	open	front		rhotacization:rhotacized	
+ã	unrounded	open	front		nasalization:nasalized	
+ãː	unrounded	open	front		nasalization:nasalized,duration:long	
+ă	unrounded	open	front		duration:ultra-short	
+ḁ	unrounded	open	front		voicing:devoiced	
+a̯	unrounded	open	front		syllabicity:non-syllabic	
+a̰	unrounded	open	front		creakiness:creaky	
+a̰ːː	unrounded	open	front		creakiness:creaky,duration:ultra-long	
+e	unrounded	close-mid	front			
+eː	unrounded	close-mid	front		duration:long	
+eːː	unrounded	close-mid	front		duration:ultra-long	
+e̤ːː	unrounded	close-mid	front		breathiness:breathy,duration:ultra-long	
+eˑ	unrounded	close-mid	front		duration:mid-long	
+ẽ	unrounded	close-mid	front		nasalization:nasalized	
+ẽː	unrounded	close-mid	front		nasalization:nasalized,duration:long	
+ĕ	unrounded	close-mid	front		duration:ultra-short	
+e̞	unrounded	mid	front			
+e̞ː	unrounded	mid	front		duration:long	
+ɑːː	unrounded	open	back		duration:ultra-long	
+ɑ̟	unrounded	open	back		relative_articulation:advanced	
+ᴀ	unrounded	open	back	+	relative_articulation:advanced	
+e̞ˑ	unrounded	mid	front		duration:mid-long	
+ẽ̞	unrounded	mid	front		nasalization:nasalized	
+ẽ̞ː	unrounded	mid	front		nasalization:nasalized,duration:long	
+e̤	unrounded	close-mid	front		breathiness:breathy	
+e̥	unrounded	close-mid	front		voicing:devoiced	
+e̯	unrounded	close-mid	front		syllabicity:non-syllabic	
+ḛ	unrounded	close-mid	front		creakiness:creaky	
+e̹	rounded	close-mid	front	+		
+e̹ː	rounded	close-mid	front	+	duration:long	
+i	unrounded	close	front			
+iː	unrounded	close	front		duration:long	
+iːː	unrounded	close	front		duration:ultra-long	
+i̤ːː	unrounded	close	front		breathiness:breathy,duration:ultra-long	
+iˑ	unrounded	close	front		duration:mid-long	
+ĩ	unrounded	close	front		nasalization:nasalized	
+ĩː	unrounded	close	front		nasalization:nasalized,duration:long	
+i̤	unrounded	close	front		breathiness:breathy	
+i̥	unrounded	close	front		voicing:devoiced	
+ḭ	unrounded	close	front		creakiness:creaky	
+ḭː	unrounded	close	front		creakiness:creaky,duration:long	
+ḭːː	unrounded	close	front		creakiness:creaky,duration:ultra-long	
+i̹	rounded	close	front	+		
+i͓	unrounded	close	front		friction:with-friction	
+o	rounded	close-mid	back			
+oː	rounded	close-mid	back		duration:long	
+oːː	rounded	close-mid	back		duration:ultra-long	
+o̤ːː	rounded	close-mid	back		breathiness:breathy,duration:ultra-long	
+oˑ	rounded	close-mid	back		duration:mid-long	
+oˤ	rounded	close-mid	back		pharyngealization:pharyngealized	
+õ	rounded	close-mid	back		nasalization:nasalized	
+õː	rounded	close-mid	back		nasalization:nasalized,duration:long	
+ŏ	rounded	close-mid	back		duration:ultra-short	
+o̞	rounded	mid	back			
+o̞ː	rounded	mid	back		duration:long	
+õ̞	rounded	mid	back		nasalization:nasalized	
+õ̞ː	rounded	mid	back		nasalization:nasalized,duration:long	
+o̤	rounded	close-mid	back		breathiness:breathy	
+o̥	rounded	close-mid	back		voicing:devoiced	
+o̯	rounded	close-mid	back		syllabicity:non-syllabic	
+o̰	rounded	close-mid	back		creakiness:creaky	
+u	rounded	close	back			
+uː	rounded	close	back		duration:long	
+uːː	rounded	close	back		duration:ultra-long	
+ṳːː	rounded	close	back		breathiness:breathy,duration:ultra-long	
+uˑ	rounded	close	back		duration:mid-long	
+ũ	rounded	close	back		nasalization:nasalized	
+ũː	rounded	close	back		nasalization:nasalized,duration:long	
+ṳ	rounded	close	back		breathiness:breathy	
+u̥	rounded	close	back		voicing:devoiced	
+ṵ	rounded	close	back		creakiness:creaky	
+y	rounded	close	front			
+yː	rounded	close	front		duration:long	
+yːː	rounded	close	front		duration:ultra-long	
+yˑ	rounded	close	front		duration:mid-long	
+ỹ	rounded	close	front		nasalization:nasalized	
+ỹː	rounded	close	front		nasalization:nasalized,duration:long	
+æ	unrounded	near-open	front			
+æː	unrounded	near-open	front		duration:long	
+æːː	unrounded	near-open	front		duration:ultra-long	
+æ̤ːː	unrounded	near-open	front		breathiness:breathy,duration:ultra-long	
+æˑ	unrounded	near-open	front		duration:mid-long	
+æ̃	unrounded	near-open	front		nasalization:nasalized	
+æ̃ː	unrounded	near-open	front		nasalization:nasalized,duration:long	
+æ̰	unrounded	near-open	front		creakiness:creaky	
+ø	rounded	close-mid	front			
+øː	rounded	close-mid	front		duration:long	
+øːː	rounded	close-mid	front		duration:ultra-long	
+øˑ	rounded	close-mid	front		duration:mid-long	
+ø̃	rounded	close-mid	front		nasalization:nasalized	
+ø̃ː	rounded	close-mid	front		nasalization:nasalized,duration:long	
+ø̞	rounded	mid	front			
+ø̞ː	rounded	mid	front		duration:long	
+ø̞̃	rounded	mid	front		nasalization:nasalized	
+ø̞̃ː	rounded	mid	front		nasalization:nasalized,duration:long	
+œ	rounded	open-mid	front			
+œː	rounded	open-mid	front		duration:long	
+œ̃	rounded	open-mid	front		nasalization:nasalized	
+œ̃ː	rounded	open-mid	front		nasalization:nasalized,duration:long	
+ɐ	unrounded	near-open	central			
+ɐː	unrounded	near-open	central		duration:long	
+ɐ̃	unrounded	near-open	central		nasalization:nasalized	
+ɐ̃ː	unrounded	near-open	central		nasalization:nasalized,duration:long	
+ɐ̯	unrounded	near-open	central		syllabicity:non-syllabic	
+ɐ̹	rounded	near-open	central	+		
+ɐ̹ː	rounded	near-open	central	+	duration:long	
+ɑ	unrounded	open	back			
+ɑː	unrounded	open	back		duration:long	
+ɑ̃	unrounded	open	back		nasalization:nasalized	
+ɑ̃ː	unrounded	open	back		nasalization:nasalized,duration:long	
+ɒ	rounded	open	back			
+ɒː	rounded	open	back		duration:long	
+ɒ̃	rounded	open	back		nasalization:nasalized	
+ɒ̃ː	rounded	open	back		nasalization:nasalized,duration:long	
+ɔ	rounded	open-mid	back			
+ɔː	rounded	open-mid	back		duration:long	
+ɔːː	rounded	open-mid	back		duration:ultra-long	
+ɔ̤ːː	rounded	open-mid	back		breathiness:breathy,duration:ultra-long	
+ɔ̃	rounded	open-mid	back		nasalization:nasalized	
+ɔ̃ː	rounded	open-mid	back		nasalization:nasalized,duration:long	
+ɔ̞̈	rounded	near-open	central	+		
+ɔ̞̈ː	rounded	near-open	central	+	duration:long	
+ɔ̰	rounded	open-mid	back		creakiness:creaky	
+ɘ	unrounded	close-mid	central			
+ɘː	unrounded	close-mid	central		duration:long	
+ɘ̃	unrounded	close-mid	central		nasalization:nasalized	
+ɘ̃ː	unrounded	close-mid	central		nasalization:nasalized,duration:long	
+ə	unrounded	mid	central			
+əː	unrounded	mid	central		duration:long	
+əːː	unrounded	mid	central		duration:ultra-long	
+ə̤ːː	unrounded	mid	central		breathiness:breathy,duration:ultra-long	
+ə˞	unrounded	mid	central		rhotacization:rhotacized	
+ə̃	unrounded	mid	central		nasalization:nasalized	
+ə̃ː	unrounded	mid	central		nasalization:nasalized,duration:long	
+ə̆	unrounded	mid	central		duration:ultra-short	
+ə̰	unrounded	mid	central		creakiness:creaky	
+ɛ	unrounded	open-mid	front			
+ɛː	unrounded	open-mid	front		duration:long	
+ɛːː	unrounded	open-mid	front		duration:ultra-long	
+ɛ̤ːː	unrounded	open-mid	front		breathiness:breathy,duration:ultra-long	
+ɛ̃	unrounded	open-mid	front		nasalization:nasalized	
+ɛ̃ː	unrounded	open-mid	front		nasalization:nasalized,duration:long	
+ɛ̹̃	rounded	open-mid	front	+	nasalization:nasalized	
+ɛ̰	unrounded	open-mid	front		creakiness:creaky	
+ɜ	unrounded	open-mid	central			
+ɜː	unrounded	open-mid	central		duration:long	
+ɜ̃	unrounded	open-mid	central		nasalization:nasalized	
+ɜ̃ː	unrounded	open-mid	central		nasalization:nasalized,duration:long	
+ɞ	rounded	open-mid	central			
+ɞː	rounded	open-mid	central		duration:long	
+ɞ̃	rounded	open-mid	central		nasalization:nasalized	
+ɞ̃ː	rounded	open-mid	central		nasalization:nasalized,duration:long	
+ɞ̞	rounded	near-open	central			
+ɞ̞ː	rounded	near-open	central		duration:long	
+ɞ̞̃	rounded	near-open	central		nasalization:nasalized	
+ɞ̞̃ː	rounded	near-open	central		nasalization:nasalized,duration:long	
+ɤ	unrounded	close-mid	back			
+ɤː	unrounded	close-mid	back		duration:long	
+ɤːː	unrounded	close-mid	back		duration:ultra-long	
+ɤ̃	unrounded	close-mid	back		nasalization:nasalized	
+ɤ̃ː	unrounded	close-mid	back		nasalization:nasalized,duration:long	
+ɤ̆	unrounded	close-mid	back		duration:ultra-short	
+ɤ̞	unrounded	mid	back			
+ɤ̞ː	unrounded	mid	back		duration:long	
+ɤ̞̃	unrounded	mid	back		nasalization:nasalized	
+ɤ̞̃ː	unrounded	mid	back		nasalization:nasalized,duration:long	
+ɨ	unrounded	close	central			
+ɨː	unrounded	close	central		duration:long	
+ɨ̃	unrounded	close	central		nasalization:nasalized	
+ɨ̃ː	unrounded	close	central		nasalization:nasalized,duration:long	
+ɪ	unrounded	near-close	near-front			
+ɪː	unrounded	near-close	near-front		duration:long	
+ɪːː	unrounded	near-close	near-front		duration:ultra-long	
+ɪ̃	unrounded	near-close	near-front		nasalization:nasalized	
+ɪ̃ː	unrounded	near-close	near-front		nasalization:nasalized,duration:long	
+ɪ̈	unrounded	near-close	central			
+ɪ̈ː	unrounded	near-close	central		duration:long	
+ɪ̈̃	unrounded	near-close	central		nasalization:nasalized	
+ɪ̈̃ː	unrounded	near-close	central		nasalization:nasalized,duration:long	
+ɪ̥	unrounded	near-close	near-front		voicing:devoiced	
+ɪ̯	unrounded	near-close	near-front		syllabicity:non-syllabic	
+ɪ̰	unrounded	near-close	near-front		creakiness:creaky	
+ɪ̹	rounded	near-close	near-front	+		
+ɯ	unrounded	close	back			
+ɯː	unrounded	close	back		duration:long	
+ɯ̃	unrounded	close	back		nasalization:nasalized	
+ɯ̃ː	unrounded	close	back		nasalization:nasalized,duration:long	
+ɯ̥̃	unrounded	close	back		voicing:devoiced,nasalization:nasalized	
+ɯ̤	unrounded	close	back		breathiness:breathy	
+ɯ̥	unrounded	close	back		voicing:devoiced	
+ɯ̯	unrounded	close	back		syllabicity:non-syllabic	
+ɯ̽	unrounded	near-close	near-back			
+ɯ̽ː	unrounded	near-close	near-back		duration:long	
+ɯ̽̃	unrounded	near-close	near-back		nasalization:nasalized	
+ɯ̽̃ː	unrounded	near-close	near-back		nasalization:nasalized,duration:long	
+ɵ	rounded	close-mid	central			
+ɵː	rounded	close-mid	central		duration:long	
+ɵ̃	rounded	close-mid	central		nasalization:nasalized	
+ɵ̃ː	rounded	close-mid	central		nasalization:nasalized,duration:long	
+ɵ̞	rounded	mid	central			
+ɵ̞ː	rounded	mid	central		duration:long	
+ɵ̞̃	rounded	mid	central		nasalization:nasalized	
+ɵ̞̃ː	rounded	mid	central		nasalization:nasalized,duration:long	
+ɶ	rounded	open	front			
+ɶː	rounded	open	front		duration:long	
+ɶ̃	rounded	open	front		nasalization:nasalized	
+ɶ̃ː	rounded	open	front		nasalization:nasalized,duration:long	
+ɿ	unrounded	close	back		friction:with-friction	
+ʅ	unrounded	close	central		friction:with-friction	
+ʉ	rounded	close	central			
+ʉː	rounded	close	central		duration:long	
+ʉ̃	rounded	close	central		nasalization:nasalized	
+ʉ̃ː	rounded	close	central		nasalization:nasalized,duration:long	
+ʉ̰	rounded	close	central		creakiness:creaky	
+ʊ	rounded	near-close	near-back			
+ʊː	rounded	near-close	near-back		duration:long	
+ʊ̃	rounded	near-close	near-back		nasalization:nasalized	
+ʊ̃ː	rounded	near-close	near-back		nasalization:nasalized,duration:long	
+ʊ̈	rounded	near-close	central			
+ʊ̈ː	rounded	near-close	central		duration:long	
+ʊ̈̃	rounded	near-close	central		nasalization:nasalized	
+ʊ̈̃ː	rounded	near-close	central		nasalization:nasalized,duration:long	
+ʊ̥	rounded	near-close	near-back		voicing:devoiced	
+ʊ̯	rounded	near-close	near-back		syllabicity:non-syllabic	
+ʊ̰	rounded	near-close	near-back		creakiness:creaky	
+ʌ	unrounded	open-mid	back			
+ʌː	unrounded	open-mid	back		duration:long	
+ʌ̃	unrounded	open-mid	back		nasalization:nasalized	
+ʌ̃ː	unrounded	open-mid	back		nasalization:nasalized,duration:long	
+ʌ̤̃	unrounded	open-mid	back		breathiness:breathy,nasalization:nasalized	
+ʌ̆	unrounded	open-mid	back		duration:ultra-short	
+ʌ̤	unrounded	open-mid	back		breathiness:breathy	
+ʌ̯ː	unrounded	open-mid	back		syllabicity:non-syllabic,duration:long	
+ʏ	rounded	near-close	near-front			
+ʏː	rounded	near-close	near-front		duration:long	
+ʏ̃	rounded	near-close	near-front		nasalization:nasalized	
+ʏ̃ː	rounded	near-close	near-front		nasalization:nasalized,duration:long	
+ʮ	rounded	close	back		friction:with-friction	
+ʯ	rounded	close	central		friction:with-friction	
+ɤ̯	unrounded	close-mid	back		syllabicity:non-syllabic	
+ɔ̑	rounded	open-mid	back	+	syllabicity:non-syllabic	
+ɛ̑	unrounded	open-mid	front	+	syllabicity:non-syllabic	
+ɔ̯	rounded	open-mid	back		syllabicity:non-syllabic	
+ɛ̯	unrounded	open-mid	front		syllabicity:non-syllabic	
+ɤ̑	unrounded	close-mid	back	+	syllabicity:non-syllabic	
+áːː	unrounded	open	front		tone:with-high_tone,duration:ultra-long	
+á̤ːː	unrounded	open	front		breathiness:breathy,tone:with-high_tone,duration:ultra-long	
+âːː	unrounded	open	front		tone:with-falling_tone,duration:ultra-long	
+â̤ːː	unrounded	open	front		breathiness:breathy,tone:with-falling_tone,duration:ultra-long	
+àːː	unrounded	open	front		tone:with-low_tone,duration:ultra-long	
+à̤ːː	unrounded	open	front		breathiness:breathy,tone:with-low_tone,duration:ultra-long	
+ǎːː	unrounded	open	front		tone:with-rising_tone,duration:ultra-long	
+ǎ̤ːː	unrounded	open	front		breathiness:breathy,tone:with-rising_tone,duration:ultra-long	
+éːː	unrounded	close-mid	front		tone:with-high_tone,duration:ultra-long	
+é̤ːː	unrounded	close-mid	front		breathiness:breathy,tone:with-high_tone,duration:ultra-long	
+êːː	unrounded	close-mid	front		tone:with-falling_tone,duration:ultra-long	
+ê̤ːː	unrounded	close-mid	front		breathiness:breathy,tone:with-falling_tone,duration:ultra-long	
+èːː	unrounded	close-mid	front		tone:with-low_tone,duration:ultra-long	
+è̤ːː	unrounded	close-mid	front		breathiness:breathy,tone:with-low_tone,duration:ultra-long	
+ěːː	unrounded	close-mid	front		tone:with-rising_tone,duration:ultra-long	
+ě̤ːː	unrounded	close-mid	front		breathiness:breathy,tone:with-rising_tone,duration:ultra-long	
+íːː	unrounded	close	front		tone:with-high_tone,duration:ultra-long	
+í̤ːː	unrounded	close	front		breathiness:breathy,tone:with-high_tone,duration:ultra-long	
+îːː	unrounded	close	front		tone:with-falling_tone,duration:ultra-long	
+î̤ːː	unrounded	close	front		breathiness:breathy,tone:with-falling_tone,duration:ultra-long	
+ìːː	unrounded	close	front		tone:with-low_tone,duration:ultra-long	
+ì̤ːː	unrounded	close	front		breathiness:breathy,tone:with-low_tone,duration:ultra-long	
+ǐːː	unrounded	close	front		tone:with-rising_tone,duration:ultra-long	
+ǐ̤ːː	unrounded	close	front		breathiness:breathy,tone:with-rising_tone,duration:ultra-long	
+óːː	rounded	close-mid	back		tone:with-high_tone,duration:ultra-long	
+ó̤ːː	rounded	close-mid	back		breathiness:breathy,tone:with-high_tone,duration:ultra-long	
+ôːː	rounded	close-mid	back		tone:with-falling_tone,duration:ultra-long	
+ô̤ːː	rounded	close-mid	back		breathiness:breathy,tone:with-falling_tone,duration:ultra-long	
+òːː	rounded	close-mid	back		tone:with-low_tone,duration:ultra-long	
+ò̤ːː	rounded	close-mid	back		breathiness:breathy,tone:with-low_tone,duration:ultra-long	
+ǒːː	rounded	close-mid	back		tone:with-rising_tone,duration:ultra-long	
+ǒ̤ːː	rounded	close-mid	back		breathiness:breathy,tone:with-rising_tone,duration:ultra-long	
+úːː	rounded	close	back		tone:with-high_tone,duration:ultra-long	
+ṳ́ːː	rounded	close	back		breathiness:breathy,tone:with-high_tone,duration:ultra-long	
+ûːː	rounded	close	back		tone:with-falling_tone,duration:ultra-long	
+ṳ̂ːː	rounded	close	back		breathiness:breathy,tone:with-falling_tone,duration:ultra-long	
+ùːː	rounded	close	back		tone:with-low_tone,duration:ultra-long	
+ṳ̀ːː	rounded	close	back		breathiness:breathy,tone:with-low_tone,duration:ultra-long	
+ǔːː	rounded	close	back		tone:with-rising_tone,duration:ultra-long	
+ṳ̌ːː	rounded	close	back		breathiness:breathy,tone:with-rising_tone,duration:ultra-long	
+ɔ́ːː	rounded	open-mid	back		tone:with-high_tone,duration:ultra-long	
+ɔ̤́ːː	rounded	open-mid	back		breathiness:breathy,tone:with-high_tone,duration:ultra-long	
+ɔ̂ːː	rounded	open-mid	back		tone:with-falling_tone,duration:ultra-long	
+ɔ̤̂ːː	rounded	open-mid	back		breathiness:breathy,tone:with-falling_tone,duration:ultra-long	
+ɔ̀ːː	rounded	open-mid	back		tone:with-low_tone,duration:ultra-long	
+ɔ̤̀ːː	rounded	open-mid	back		breathiness:breathy,tone:with-low_tone,duration:ultra-long	
+ɔ̌ːː	rounded	open-mid	back		tone:with-rising_tone,duration:ultra-long	
+ɔ̤̌ːː	rounded	open-mid	back		breathiness:breathy,tone:with-rising_tone,duration:ultra-long	
+ə́ːː	unrounded	mid	central		tone:with-high_tone,duration:ultra-long	
+ə̤́ːː	unrounded	mid	central		breathiness:breathy,tone:with-high_tone,duration:ultra-long	
+ə̂ːː	unrounded	mid	central		tone:with-falling_tone,duration:ultra-long	
+ə̤̂ːː	unrounded	mid	central		breathiness:breathy,tone:with-falling_tone,duration:ultra-long	
+ə̀ːː	unrounded	mid	central		tone:with-low_tone,duration:ultra-long	
+ə̤̀ːː	unrounded	mid	central		breathiness:breathy,tone:with-low_tone,duration:ultra-long	
+ə̌ːː	unrounded	mid	central		tone:with-rising_tone,duration:ultra-long	
+ə̤̌ːː	unrounded	mid	central		breathiness:breathy,tone:with-rising_tone,duration:ultra-long	
+ǽːː	unrounded	near-open	front		tone:with-high_tone,duration:ultra-long	
+ǽ̤ːː	unrounded	near-open	front		breathiness:breathy,tone:with-high_tone,duration:ultra-long	
+æ̂ːː	unrounded	near-open	front		tone:with-falling_tone,duration:ultra-long	
+æ̤̂ːː	unrounded	near-open	front		breathiness:breathy,tone:with-falling_tone,duration:ultra-long	
+æ̀ːː	unrounded	near-open	front		tone:with-low_tone,duration:ultra-long	
+æ̤̀ːː	unrounded	near-open	front		breathiness:breathy,tone:with-low_tone,duration:ultra-long	
+æ̌ːː	unrounded	near-open	front		tone:with-rising_tone,duration:ultra-long	
+æ̤̌ːː	unrounded	near-open	front		breathiness:breathy,tone:with-rising_tone,duration:ultra-long	
+ɛ́ːː	unrounded	open-mid	front		tone:with-high_tone,duration:ultra-long	
+ɛ̤́ːː	unrounded	open-mid	front		breathiness:breathy,tone:with-high_tone,duration:ultra-long	
+ɛ̂ːː	unrounded	open-mid	front		tone:with-falling_tone,duration:ultra-long	
+ɛ̤̂ːː	unrounded	open-mid	front		breathiness:breathy,tone:with-falling_tone,duration:ultra-long	
+ɛ̀ːː	unrounded	open-mid	front		tone:with-low_tone,duration:ultra-long	
+ɛ̤̀ːː	unrounded	open-mid	front		breathiness:breathy,tone:with-low_tone,duration:ultra-long	
+ɛ̌ːː	unrounded	open-mid	front		tone:with-rising_tone,duration:ultra-long	
+ɛ̤̌ːː	unrounded	open-mid	front		breathiness:breathy,tone:with-rising_tone,duration:ultra-long	

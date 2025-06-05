@@ -1,0 +1,129 @@
+BIPA	GRAPHEME	ID	SYMBOLS
+<NA>	  ̀ 	T4NL	
+<NA>	  ́ 	T2NL	
+<NA>	  ̂ 	T7NL	
+<NA>	  ̄ 	T3NL	
+<NA>	  ̋ 	T1NL	
+<NA>	  ̌ 	T6NL	
+<NA>	  ̏ 	T5NL	
+<NA>	  ̣ 	T17NL	
+<NA>	  ̧ 	T18NL	
+<NA>	  ̰ 	T16NL	
+<NA>	  ↑ 	T14NL	
+<NA>	  ↓ 	T15NL	
+<NA>	   	T8NL	
+<NA>	   	T9NL	
+<NA>	   	T10NL	
+<NA>	   	T11NL	
+<NA>	   	T12NL	
+<NA>	   	T13NL	
+ʄ̥	ƈ	C189NL	
+ɠ̥	ƙ	C191NL	
+ɓ̥	ƥ	C177NL	
+ɗ̥	ƭ	C183NL	
+a	a	V103NL	◌a
+b	b	C2NL	◌b
+c	c	C13NL	◌c
+d	d	C8NL	◌d
+e	e	V35NL	◌e
+f	f	C91NL	◌f
+g	g	C16NL	◌g
+h	h	C109NL	◌h
+i	i	V1NL	◌i
+j	j	C146NL	◌j
+k	k	C15NL	◌k
+l	l	C162NL	◌l
+m	m	C24NL	◌m
+n	n	C30NL	◌n
+o	o	V48NL	◌o
+p	p	C1NL	◌p
+q	q	C17NL	◌q
+r	r	C52NL	◌r
+s	s	C95NL	◌s
+t	t	C7NL	◌t
+u	u	V16NL	◌u
+v	v	C92NL	◌v
+w	w	A2NL	◌w
+x	x	C103NL	◌x
+y	y	V3NL	◌y
+z	z	C96NL	◌z
+æ	æ	V86NL	◌æ
+ç	ç	C101NL	◌c ◌̧
+ð	ð	C94NL	◌ð
+ø	ø	V37NL	◌ø
+ħ	ħ	C107NL	◌ħ
+ŋ	ŋ	C38NL	◌ŋ
+œ	œ	V71NL	◌œ
+ɐ	ɐ	V91NL	◌ɐ
+ɑ	ɑ	V110NL	◌ɑ
+ɒ	ɒ	V112NL	◌ɒ
+ɓ	ɓ	C178NL	◌ɓ
+ɔ	ɔ	V80NL	◌ɔ
+ɕ	ɕ	A7NL	◌ɕ
+ɖ	ɖ	C12NL	◌ɖ
+ɗ	ɗ	C184NL	◌ɗ
+ɘ	ɘ	V40NL	◌ɘ
+ə	ə	V58NL	◌ə
+ɛ	ɛ	V69NL	◌ɛ
+ɜ	ɜ	V73NL	◌ɜ
+ɞ	ɞ	V75NL	◌ɞ
+ɟ	ɟ	C14NL	◌ɟ
+ɠ	ɠ	C192NL	◌ɠ
+ɢ	ɢ	C18NL	◌ɢ
+ɣ	ɣ	C104NL	◌ɣ
+ɤ	ɤ	V46NL	◌ɤ
+ɥ	ɥ	A3NL	◌ɥ
+ɦ	ɦ	C110NL	◌ɦ
+ɨ	ɨ	V7NL	◌ɨ
+ɪ	ɪ	V20NL	◌ɪ
+ɬ	ɬ	C117NL	◌ɬ
+ɭ	ɭ	C166NL	◌ɭ
+ɮ	ɮ	C118NL	◌ɮ
+ɯ	ɯ	V14NL	◌ɯ
+ɰ	ɰ	C148NL	◌ɰ
+ɱ	ɱ	C26NL	◌ɱ
+ɲ	ɲ	C36NL	◌ɲ
+ɳ	ɳ	C34NL	◌ɳ
+ɴ	ɴ	C40NL	◌ɴ
+ɵ	ɵ	V42NL	◌ɵ
+ɶ	ɶ	V105NL	◌ɶ
+ɸ	ɸ	C89NL	◌ɸ
+ɹ	ɹ	C140NL	◌ɹ
+ɻ	ɻ	C144NL	◌ɻ
+ɽ	ɽ	C78NL	◌ɽ
+ɾ	ɾ	C74NL	◌ɾ
+ʀ	ʀ	C62NL	◌ʀ
+ʁ	ʁ	C106NL	◌ʁ
+ʂ	ʂ	C99NL	◌ʂ
+ʃ	ʃ	C97NL	◌ʃ
+ʄ	ʄ	C190NL	◌ʄ
+ʈ	ʈ	C11NL	◌ʈ
+ʉ	ʉ	V9NL	◌ʉ
+ʊ	ʊ	V29NL	◌ʊ
+ʋ	ʋ	C136NL	◌ʋ
+ʌ	ʌ	V78NL	◌ʌ
+ʍ	ʍ	A1NL	◌ʍ
+ʎ	ʎ	C168NL	◌ʎ
+ʏ	ʏ	V21NL	◌ʏ
+ʐ	ʐ	C100NL	◌ʐ
+ʑ	ʑ	A8NL	◌ʑ
+ʒ	ʒ	C98NL	◌ʒ
+ʔ	ʔ	C21NL	◌ʔ
+ʕ	ʕ	C108NL	◌ʕ
+ʙ	ʙ	C46NL	◌ʙ
+ʛ	ʛ	C194NL	◌ʛ
+ʜ	ʜ	A4NL	◌ʜ
+ʝ	ʝ	C102NL	◌ʝ
+ʟ	ʟ	C170NL	◌ʟ
+ʛ̥	ʠ	C193NL	◌ʛ ◌̥
+ʡ	ʡ	A6NL	◌ʡ
+ʢ	ʢ	A5NL	◌ʢ
+dz	ʣ	D2NL	◌d ◌z
+dʒ	ʤ	D4NL	◌d ◌ʒ
+dʑ	ʥ	D6NL	◌d ◌ʑ
+ts	ʦ	D1NL	◌t ◌s
+tʃ	ʧ	D3NL	◌t ◌ʃ
+tɕ	ʨ	D5NL	◌t ◌ɕ
+β	β	C90NL	◌β
+θ	θ	C93NL	◌θ
+χ	χ	C105NL	◌χ

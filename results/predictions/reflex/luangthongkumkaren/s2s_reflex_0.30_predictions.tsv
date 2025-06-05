@@ -1,0 +1,913 @@
+COGID	LANGUAGE	GOLD	PREDICTION
+21-1	Kayah	t ɔ ¹¹	t ɔ ¹¹
+33-1	Kayah	t o ¹¹	t o ¹¹
+46-1	Kayah	p l e ¹¹	p l e ¹¹
+126-1	Kayah	s e ³³	s e ³³
+114-1	Kayah	b ɛ ¹¹	b ɛ ¹¹
+149-1	Kayah	p l e ¹¹	p l e ¹¹
+171-1	Kayah	tʰ e ³³	tʰ e ³³
+191-1	Kayah	w ɛ ⁵⁵	k w ɛ ⁵⁵
+203-1	Kayah	n i ³³	n i ³³
+224-1	Kayah	l e ³³	l e ⁵⁵
+275-1	Kayah	kʰ e ¹¹	kʰ e ¹¹
+302-1	Kayah	ʔ u ³³	ʔ u ³³
+315-1	Kayah	tʰ ɛ ⁵⁵	tʰ ɛ ⁵⁵
+394-1	Kayah	n ɔ ³³	n ɔ ³³
+431-1	Kayah	pʰ e ⁵⁵	pʰ e ⁵⁵
+444-1	Kayah	p e ⁵⁵	p u ⁵⁵
+445-1	Kayah	n e ¹¹	n e ¹¹
+514-1	Kayah	s i ⁵⁵	s ɨ ⁵⁵
+555-1	Kayah	kʰ w i ¹¹	kʰ w i ¹¹
+579-1	Kayah	cʰ ɛ ³³	cʰ ɛ ³³
+603-1	Kayah	kʰ e ¹¹	kʰ e ¹¹
+737-1	Kayah	l o ¹¹	l o ¹¹
+763-1	Kayah	cʰ w a ¹¹	cʰ w ɛ ¹¹
+870-1	Kayah	kʰ i ⁵⁵	kʰ i ⁵⁵
+918-1	Kayah	ʔ ɔ ³³	ʔ ɔ ³³
+979-1	Kayah	l ɛ ¹¹	l ɛ ¹¹
+1013-1	Kayah	m e ¹¹	m e ¹¹
+1040-1	Kayah	tʰ w i ¹¹	tʰ w i ¹¹
+1027-1	Kayah	m e ¹¹	m e ¹¹
+1053-1	Kayah	l w i ¹¹	l w i ¹¹
+1065-1	Kayah	m ɛ ¹¹	m ɛ ¹¹
+1091-1	Kayah	m ɨ ¹¹	m ɨ ¹¹
+1116-1	Kayah	ʔ i ¹¹	ʔ i ¹¹
+1129-1	Kayah	n e ¹¹	n e ¹¹
+1173-1	Kayah	d ə ¹¹	d ə ¹¹
+1207-1	Kayah	cʰ ɛ ³³	cʰ ɛ ³³
+1255-1	Kayah	p i ³³	p i ³³
+1277-1	Kayah	t a ³³	t a ³³
+1290-1	Kayah	b ɨ ¹¹	b ɨ ¹¹
+1301-1	Kayah	ɕ ɨ ¹¹	cʰ ɨ ¹¹
+1337-1	Kayah	m ɔ ¹¹	m ɨ ¹¹
+1323-1	Kayah	m u ¹¹	m u ¹¹
+1350-1	Kayah	m i ¹¹	m i ¹¹
+1372-1	Kayah	ŋ ɛ ³³	j a ³³
+1498-1	Kayah	d i ¹¹	d i ¹¹
+1664-1	Kayah	l a ³³	l a ³³
+1652-1	Kayah	ʔ o ¹¹	ʔ o ¹¹
+1687-1	Kayah	s e ⁵⁵	s e ⁵⁵
+1708-1	Kayah	s o ¹¹	s o ɛ ¹¹
+1732-1	Kayah	t ɔ ¹¹	t ɔ ¹¹
+1742-1	Kayah	n ɔ ¹¹	n ɔ ¹¹
+1755-1	Kayah	pʰ l ɨ ³³	pʰ r ɨ ³³
+1767-1	Kayah	s i ⁵⁵	s i ¹¹
+1786-1	Kayah	j e ¹¹	j e ¹¹
+1803-1	Kayah	w e ¹¹	w e ¹¹
+1815-1	Kayah	cʰ e ³³	cʰ e ³³
+1840-1	Kayah	pʰ r a ³³	pʰ r a ³³
+1853-1	Kayah	tʰ e ⁵⁵	tʰ e ⁵⁵
+1866-1	Kayah	s e ⁵⁵	s e ⁵⁵
+1894-1	Kayah	l e ¹¹	l e ¹¹
+1934-1	Kayah	c i ¹¹	c i ¹¹
+1947-1	Kayah	kʰ ɛ ¹¹	kʰ ɛ ¹¹
+1993-1	Kayah	pʰ w i ³³	pʰ w i ³³
+2059-1	Kayah	ʔ o ¹¹	ʔ o ¹¹
+2098-1	Kayah	ŋ j a ³³	j a ³³
+2086-1	Kayah	tʰ u ³³	tʰ u ³³
+2153-1	Kayah	s o ¹¹	s ɨ ¹¹
+2180-1	Kayah	l ɔ ¹¹	l ɔ ¹¹
+2205-1	Kayah	kʰ w u ³³	kʰ w o ³³
+2328-1	Kayah	l e ³³	l e ³³
+2349-1	Kayah	j o ¹¹	j u ¹¹
+2372-1	Kayah	m ə ¹¹	m ə ¹¹
+2388-1	Kayah	m i ¹¹	m i ¹¹
+2413-1	Kayah	d i ³³	d i ³³
+2637-1	Kayah	p l u ¹¹	p l ɔ ¹¹
+2649-1	Kayah	c u ³³	c u ³³
+2693-1	Kayah	p ɔ ¹¹	p o ¹¹
+2755-1	Kayah	s ɛ ⁵⁵	s ɔ ⁵⁵
+2858-1	Kayah	m i ³³	m i ³³
+2953-1	Kayah	cʰ e ³³	cʰ e ³³
+2986-1	Kayah	cʰ e ⁵⁵	cʰ e ⁵⁵
+3034-1	Kayah	kʰ e ⁵⁵	kʰ e ⁵⁵
+3088-1	Kayah	p l a ³³	p l a ³³
+3113-1	Kayah	p l i ³³	p l i ³³
+3154-1	Kayah	r o ¹¹	r o ¹¹
+3179-1	Kayah	cʰ ɛ ¹¹	cʰ ɛ ¹¹
+3246-1	Kayah	d e ³³	d e ³³
+3259-1	Kayah	c i ¹¹	c i ¹¹
+3282-1	Kayah	tʰ ɔ ¹¹	tʰ ɔ ¹¹
+3295-1	Kayah	cʰ e ¹¹	cʰ e ¹¹
+3338-1	Kayah	l ɔ ¹¹	l ɔ ¹¹
+3351-1	Kayah	p l ə ¹¹	p l ə ¹¹
+3375-1	Kayah	m ɔ ¹¹	m ɨ ¹¹
+3410-1	Kayah	j ɛ ⁵⁵	j ɛ ⁵⁵
+3423-1	Kayah	m i ¹¹	m a ¹¹
+3445-1	Kayah	cʰ ə ³³	cʰ ə ³³
+3485-1	Kayah	p i ¹¹	p i ¹¹
+3500-1	Kayah	p l ɔ ¹¹	p l ɔ ¹¹
+3545-1	Kayah	t o ¹¹	t u ¹¹
+3557-1	Kayah	s ɔ ³³	s ɔ ³³
+3581-1	Kayah	c ɔ ³³	c ɔ ³³
+3594-1	Kayah	kʰ i ³³	kʰ i ³³
+3618-1	Kayah	s o ¹¹	s o ¹¹
+3654-1	Kayah	p l i ¹¹	p l i ¹¹
+3667-1	Kayah	t ɨ ³³	t ɛ ³³
+3680-1	Kayah	kʰ l i ⁵⁵	kʰ l i ⁵⁵
+3763-1	Kayah	pʰ r ɛ ⁵⁵	p r ɔ ⁵⁵
+3850-1	Kayah	p l e ¹¹	p l e ¹¹
+3878-1	Kayah	tʰ ə ³³	tʰ ə ³³
+3903-1	Kayah	tʰ a ³³	tʰ a ³³
+3938-1	Kayah	c o ¹¹	c o ¹¹
+3963-1	Kayah	l ɛ ¹¹	l ɛ ¹¹
+3977-1	Kayah	m e ³³	m e ³³
+1464-1	Kayah	l w i ³³	l w i ³³
+21-2	Kayan	t ə ¹¹	t ə ¹¹
+33-2	Kayan	t əɨ ¹¹	t ɔ ¹¹
+46-2	Kayan	p l a ¹¹	p l a ¹¹
+126-2	Kayan	θ a ⁵³	θ a ⁵³
+114-2	Kayan	b a ŋ ¹¹	b a ŋ ¹¹
+149-2	Kayan	b l a ¹¹	p l a ³³
+171-2	Kayan	tʰ a ŋ ⁵³	tʰ a ŋ ⁵³
+191-2	Kayan	h w ɛ ʔ ⁴⁵	h w ɛ ʔ ⁴⁵
+203-2	Kayan	n ai ⁵³	n ai ⁵³
+224-2	Kayan	l a ʔ ⁴⁵	l a ʔ ²¹
+275-2	Kayan	kʰ a ¹¹	kʰ a ¹¹
+302-2	Kayan	ʔ u ⁵³	ʔ u ⁵³
+315-2	Kayan	tʰ au ʔ ⁴⁵	tʰ au ʔ ⁴⁵
+394-2	Kayan	n ɔ ʔ ²¹	n əu ʔ ²¹
+431-2	Kayan	pʰ a ʔ ⁴⁵	pʰ a ʔ ⁴⁵
+444-2	Kayan	b u ʔ ⁴⁵	p a ʔ ²¹
+445-2	Kayan	n a ¹¹	n a ¹¹
+514-2	Kayan	θ ɨ ʔ ⁴⁵	θ i ʔ ⁴⁵
+555-2	Kayan	kʰ w i ¹¹	kʰ w i ¹¹
+579-2	Kayan	ɕ a ŋ ⁵³	ɕ a ŋ ⁵³
+603-2	Kayan	kʰ a ¹¹	kʰ a ¹¹
+737-2	Kayan	l u ¹¹	l u ¹¹
+763-2	Kayan	cʰ w ɛ ¹¹	cʰ w ɛ ¹¹
+870-2	Kayan	kʰ ɨ ʔ ⁴⁵	kʰ i ʔ ⁴⁵
+918-2	Kayan	ʔ ə ŋ ⁵³	ʔ ə ⁵³
+979-2	Kayan	l a ŋ ³³	l a ŋ ³³
+1013-2	Kayan	m a ¹¹	m a ¹¹
+1040-2	Kayan	tʰ w i ¹¹	tʰ w i ¹¹
+1027-2	Kayan	m a ³³	m a ³³
+1053-2	Kayan	l w i ¹¹	l w i ¹¹
+1065-2	Kayan	m a ŋ ¹¹	m a ŋ ¹¹
+1091-2	Kayan	m ɨ ³³	m w ɨ ³³
+1116-2	Kayan	ʔ ai ¹¹	ʔ i ¹¹
+1129-2	Kayan	n a ¹¹	n a ¹¹
+1173-2	Kayan	d ɨ ¹¹	d ɨ ¹¹
+1207-2	Kayan	cʰ a ŋ ⁵³	cʰ a ŋ ⁵³
+1255-2	Kayan	p ɨ ʔ ²¹	p i ʔ ²¹
+1277-2	Kayan	t ɛ ʔ ²¹	t ɛ ʔ ²¹
+1290-2	Kayan	b w a ŋ ¹¹	b w a ŋ ¹¹
+1301-2	Kayan	cʰ w a ŋ ¹¹	ɕ w ¹¹
+1337-2	Kayan	m ɨ ¹¹	m ɨ ¹¹
+1323-2	Kayan	m u ¹¹	m u ¹¹
+1350-2	Kayan	m ai ¹¹	m ai ¹¹
+1372-2	Kayan	ŋ ɛ ʔ ²¹	j a ʔ ²¹
+1498-2	Kayan	d ai ¹¹	d ai ¹¹
+1664-2	Kayan	l i ʔ ²¹	l e ʔ ²¹
+1652-2	Kayan	ʔ au ¹¹	ʔ au ¹¹
+1687-2	Kayan	θ a ʔ ⁴⁵	θ a ʔ ⁴⁵
+1708-2	Kayan	θ au ¹¹	θ au ¹¹
+1732-2	Kayan	t əu ¹¹	t ɔ ¹¹
+1742-2	Kayan	n əu ³³	n əu ³³
+1755-2	Kayan	pʰ r ɨ ⁵³	pʰ r ɨ ⁵³
+1767-2	Kayan	θ i ʔ ⁴⁵	θ ai ⁵³
+1786-2	Kayan	j a ³³	j a ³³
+1803-2	Kayan	g w a ³³	w a ³³
+1815-2	Kayan	cʰ a ⁵³	cʰ a ⁵³
+1840-2	Kayan	p r i ʔ ²¹	p r e ʔ ²¹
+1853-2	Kayan	tʰ a ʔ ⁴⁵	tʰ a ʔ ⁴⁵
+1866-2	Kayan	θ a ʔ ⁴⁵	θ a ʔ ⁴⁵
+1894-2	Kayan	l a ¹¹	l a ¹¹
+1934-2	Kayan	c ai ¹¹	c i ¹¹
+1947-2	Kayan	kʰ a ŋ ¹¹	kʰ a ŋ ¹¹
+1993-2	Kayan	pʰ w i ⁵³	pʰ w i ⁵³
+2059-2	Kayan	ʔ au ¹¹	ʔ au ¹¹
+2098-2	Kayan	ŋ i ʔ ³³	j i ʔ ²¹
+2086-2	Kayan	tʰ au ⁵³	tʰ au ⁵³
+2153-2	Kayan	θ ɨ ¹¹	θ ɨ ¹¹
+2180-2	Kayan	l əu ¹¹	l ɔ ¹¹
+2205-2	Kayan	kʰ w au ⁵³	kʰ w ɔ ⁵³
+2328-2	Kayan	l a ⁵³	l a ⁵³
+2349-2	Kayan	ɟ u ¹¹	j u ¹¹
+2372-2	Kayan	m ɨ ¹¹	m ai ¹¹
+2388-2	Kayan	m j ə ŋ ³³	m i ³³
+2413-2	Kayan	d ai ⁵³	d ai ⁵³
+2637-2	Kayan	b l o ¹¹	p l ɔ ¹¹
+2649-2	Kayan	c u ⁵³	c u ⁵³
+2693-2	Kayan	p ə ³³	p ə ³³
+2755-2	Kayan	θ au ʔ ⁴⁵	θ au ʔ ⁴⁵
+2858-2	Kayan	m j ə ŋ ⁵³	m i ⁵³
+2953-2	Kayan	cʰ a ⁵³	cʰ a ⁵³
+2986-2	Kayan	cʰ a ʔ ⁴⁵	cʰ a ʔ ⁴⁵
+3034-2	Kayan	kʰ a ʔ ⁴⁵	kʰ a ʔ ⁴⁵
+3088-2	Kayan	p l ɛ ʔ ²¹	p l ɛ ʔ ²¹
+3113-2	Kayan	b l ai ⁵³	p l i ⁵³
+3154-2	Kayan	r u ¹¹	r əu ¹¹
+3179-2	Kayan	ɕ a ŋ ¹¹	ɕ a ŋ ¹¹
+3246-2	Kayan	d a ⁵³	d a ⁵³
+3259-2	Kayan	c i ¹¹	c i ¹¹
+3282-2	Kayan	tʰ ə ¹¹	tʰ ə ¹¹
+3295-2	Kayan	cʰ a ¹¹	cʰ a ¹¹
+3338-2	Kayan	l əu ¹¹	l əu ¹¹
+3351-2	Kayan	p l ɨ ³³	p l ai ³³
+3375-2	Kayan	m ɨ ¹¹	m ɨ ¹¹
+3410-2	Kayan	ɟ au ʔ ⁴⁵	j au ʔ ⁴⁵
+3423-2	Kayan	m ai ¹¹	m ai ¹¹
+3445-2	Kayan	tʰ ɨ ⁵³	ɕ ɨ ⁵³
+3485-2	Kayan	p i ¹¹	p i ¹¹
+3500-2	Kayan	b l əu ¹¹	p l əu ¹¹
+3545-2	Kayan	t u ¹¹	t u ¹¹
+3557-2	Kayan	θ ə ⁵³	θ ə ⁵³
+3581-2	Kayan	c ə ⁵³	c ə ŋ
+3594-2	Kayan	kʰ ai ⁵³	kʰ e ⁵³
+3618-2	Kayan	θ u ¹¹	θ u ¹¹
+3654-2	Kayan	p l ai ³³	p l ai ³³
+3667-2	Kayan	t u ʔ ²¹	t ai ʔ ²¹
+3680-2	Kayan	kʰ l ɨ ʔ ⁴⁵	kʰ l i ʔ ⁴⁵
+3763-2	Kayan	pʰ r au ʔ ⁴⁵	p r ɔ ʔ ⁴⁵
+3850-2	Kayan	p l a ¹¹	p l a ¹¹
+3878-2	Kayan	tʰ ɨ ⁵³	tʰ ɨ ⁵³
+3903-2	Kayan	tʰ i ⁵³	tʰ ɛ ⁵³
+3938-2	Kayan	c au ¹¹	c au ¹¹
+3963-2	Kayan	l ɛ ¹¹	l ɛ ¹¹
+3977-2	Kayan	m a ⁵³	m a ⁵³
+1464-2	Kayan	l w i ⁵³	l w ⁵³
+21-3	Kayaw	t ə ¹¹	t ə ¹¹
+33-3	Kayaw	t ə ¹¹	t ə ¹¹
+46-3	Kayaw	p l a ¹¹	p l a ¹¹
+126-3	Kayaw	s a ⁵⁵	s a ⁵⁵
+114-3	Kayaw	b ɔ ¹¹	b ɔ ¹¹
+149-3	Kayaw	p l a ¹¹	p l a ³³
+171-3	Kayaw	tʰ ɔ ⁵⁵	tʰ ɔ ⁵⁵
+191-3	Kayaw	h w ɛ ³³	w ɔ ³³
+203-3	Kayaw	n i ⁵⁵	n i ⁵⁵
+224-3	Kayaw	l ɔ ³³	l a ³³
+275-3	Kayaw	kʰ a ¹¹	kʰ a ¹¹
+302-3	Kayaw	ʔ u ⁵⁵	ʔ u ⁵⁵
+315-3	Kayaw	tʰ o ³³	tʰ o ³³
+394-3	Kayaw	n ə ³³	n ə ³³
+431-3	Kayaw	pʰ ɔ ³³	pʰ a ³³
+444-3	Kayaw	p a ³³	p a ³³
+445-3	Kayaw	n a ¹¹	n a ¹¹
+514-3	Kayaw	s i ³³	s ɨ ³³
+555-3	Kayaw	kʰ w i ¹¹	kʰ w i ¹¹
+579-3	Kayaw	ɕ ɔ ⁵⁵	ɕ ɔ ⁵⁵
+603-3	Kayaw	kʰ a ¹¹	kʰ a ¹¹
+737-3	Kayaw	l u ¹¹	l u ¹¹
+763-3	Kayaw	cʰ ɛ ¹¹	cʰ ɛ ¹¹
+870-3	Kayaw	kʰ i ³³	kʰ i ³³
+918-3	Kayaw	ʔ ə ⁵⁵	ʔ ə ⁵⁵
+979-3	Kayaw	l ɔ ³³	l ɔ ³³
+1013-3	Kayaw	m a ¹¹	m a ¹¹
+1040-3	Kayaw	tʰ i ¹¹	tʰ ʉ ¹¹
+1027-3	Kayaw	m a ³³	m a ³³
+1053-3	Kayaw	l i ¹¹	l i ¹¹
+1065-3	Kayaw	m ɔ ¹¹	m ɔ ¹¹
+1091-3	Kayaw	m ʉ ³³	m ɨ ³³
+1116-3	Kayaw	ʔ i ¹¹	ʔ i ¹¹
+1129-3	Kayaw	n a ¹¹	n a ¹¹
+1173-3	Kayaw	d i ¹¹	d i ¹¹
+1207-3	Kayaw	cʰ ɔ ⁵⁵	cʰ ɔ ⁵⁵
+1255-3	Kayaw	p i ³³	p i ³³
+1277-3	Kayaw	t e ³³	t e ³³
+1290-3	Kayaw	b u ¹¹	b u ¹¹
+1301-3	Kayaw	ɕ u ¹¹	cʰ u ¹¹
+1337-3	Kayaw	m ɨ ¹¹	m ɨ ¹¹
+1323-3	Kayaw	m u ¹¹	m u ¹¹
+1350-3	Kayaw	m i ¹¹	m i ¹¹
+1372-3	Kayaw	j ɛ ³³	j e ³³
+1498-3	Kayaw	d i ¹¹	d i ¹¹
+1664-3	Kayaw	l e ³³	l e ³³
+1652-3	Kayaw	ʔ o ¹¹	ʔ o ¹¹
+1687-3	Kayaw	s ɔ ³³	s a ³³
+1708-3	Kayaw	s o ¹¹	s o ¹¹
+1732-3	Kayaw	t ə ¹¹	t ə ¹¹
+1742-3	Kayaw	n ə ¹¹	n ə ³³
+1755-3	Kayaw	pʰ r ɨ ⁵⁵	pʰ l ɨ ⁵⁵
+1767-3	Kayaw	s i ³³	s i ³³
+1786-3	Kayaw	j a ³³	j a ³³
+1803-3	Kayaw	w a ³³	w a ³³
+1815-3	Kayaw	cʰ a ⁵⁵	cʰ a ⁵⁵
+1840-3	Kayaw	p r e ³³	p r e ³³
+1853-3	Kayaw	tʰ ɔ ³³	tʰ a ³³
+1866-3	Kayaw	s ɔ ³³	s a ³³
+1894-3	Kayaw	l a ¹¹	l a ¹¹
+1934-3	Kayaw	c i ¹¹	c i ¹¹
+1947-3	Kayaw	kʰ ɔ ¹¹	kʰ ɔ ¹¹
+1993-3	Kayaw	pʰ i ⁵⁵	pʰ i ⁵⁵
+2059-3	Kayaw	ʔ o ¹¹	ʔ o ¹¹
+2098-3	Kayaw	j i ³³	j i ³³
+2086-3	Kayaw	tʰ u ⁵⁵	tʰ u ⁵⁵
+2153-3	Kayaw	s ɨ ¹¹	s ə ¹¹
+2180-3	Kayaw	l ə ¹¹	l ə ¹¹
+2205-3	Kayaw	kʰ w u ⁵⁵	kʰ w ɔ ⁵⁵
+2328-3	Kayaw	l a ⁵⁵	l a ⁵⁵
+2349-3	Kayaw	j u ¹¹	j u ¹¹
+2372-3	Kayaw	m i ¹¹	m i ¹¹
+2388-3	Kayaw	m i ³³	m i ³³
+2413-3	Kayaw	d i ³³	d i ⁵⁵
+2637-3	Kayaw	p l ə ¹¹	p l ə ¹¹
+2649-3	Kayaw	c u ⁵⁵	c u ⁵⁵
+2693-3	Kayaw	p ə ³³	p ə ³³
+2755-3	Kayaw	s o ³³	s o ³³
+2858-3	Kayaw	m i ⁵⁵	m i ⁵⁵
+2953-3	Kayaw	cʰ a ⁵⁵	cʰ a ⁵⁵
+2986-3	Kayaw	cʰ ɔ ³³	cʰ a ³³
+3034-3	Kayaw	kʰ a ³³	kʰ a ³³
+3088-3	Kayaw	p l e ³³	p l e ³³
+3113-3	Kayaw	p l i ⁵⁵	p l e ⁵⁵
+3154-3	Kayaw	r u ¹¹	r u ¹¹
+3179-3	Kayaw	ɕ ɔ ¹¹	ɕ ɔ ¹¹
+3246-3	Kayaw	d a ⁵⁵	d a ⁵⁵
+3259-3	Kayaw	c i ¹¹	c i ¹¹
+3282-3	Kayaw	tʰ ə ¹¹	tʰ ə ¹¹
+3295-3	Kayaw	cʰ a ¹¹	cʰ a ¹¹
+3338-3	Kayaw	l ə ¹¹	l ə ¹¹
+3351-3	Kayaw	p l i ³³	p l i ³³
+3375-3	Kayaw	m ɨ ¹¹	m ɨ ¹¹
+3410-3	Kayaw	j o ³³	j o ³³
+3423-3	Kayaw	m i ¹¹	m e ¹¹
+3445-3	Kayaw	ɕ i ⁵⁵	cʰ i ⁵⁵
+3485-3	Kayaw	p i ¹¹	p i ¹¹
+3500-3	Kayaw	p l ə ¹¹	p l ə ¹¹
+3545-3	Kayaw	t u ¹¹	t u ¹¹
+3557-3	Kayaw	s ə ⁵⁵	s ə ⁵⁵
+3581-3	Kayaw	c ə ⁵⁵	c ə ⁵⁵
+3594-3	Kayaw	kʰ i ⁵⁵	kʰ i ⁵⁵
+3618-3	Kayaw	s u ¹¹	s u ¹¹
+3654-3	Kayaw	p l i ³³	p l i ³³
+3667-3	Kayaw	t u ³³	t e ³³
+3680-3	Kayaw	kʰ l i ³³	kʰ l i ³³
+3763-3	Kayaw	p r o ³³	pʰ ə ɔ ³³
+3850-3	Kayaw	p l a ¹¹	p l a ¹¹
+3878-3	Kayaw	tʰ i ⁵⁵	tʰ i ⁵⁵
+3903-3	Kayaw	tʰ i ⁵⁵	tʰ e ⁵⁵
+3938-3	Kayaw	c o ¹¹	c o ¹¹
+3963-3	Kayaw	l ɛ ¹¹	l ɛ ¹¹
+3977-3	Kayaw	m a ⁵⁵	m a ⁵⁵
+1464-3	Kayaw	l i ⁵⁵	l u ³³
+21-4	NorthernPao	tʰ ə ŋ ⁵³	tʰ ə ŋ ⁵³
+33-4	NorthernPao	tʰ ə ⁵⁵	tʰ ə ⁵⁵
+46-4	NorthernPao	pʰ l a ⁵³	pʰ l a ⁵³
+126-4	NorthernPao	s a ɦ ³¹	s a ɦ ³¹
+114-4	NorthernPao	b a ŋ ⁵⁵	b a ŋ ⁵⁵
+149-4	NorthernPao	p l a ɦ ³¹	pʰ l a ɦ ³¹
+171-4	NorthernPao	tʰ a m ɦ ³¹	tʰ a m ɦ ³¹
+191-4	NorthernPao	w a t ²¹	w a t ²¹
+203-4	NorthernPao	n e ɦ ³¹	n e ɦ ³¹
+224-4	NorthernPao	l a ʔ ⁴⁵	l a ʔ ⁴⁵
+275-4	NorthernPao	kʰ a ⁵⁵	kʰ a ⁵⁵
+302-4	NorthernPao	ʔ u ɦ ³¹	ʔ u ɦ ³¹
+315-4	NorthernPao	tʰ ɔ ʔ ²¹	tʰ ɔ ʔ ²¹
+394-4	NorthernPao	n o k ⁴⁵	n o k ⁴⁵
+431-4	NorthernPao	p a ʔ ²¹	pʰ a ʔ ²¹
+444-4	NorthernPao	p a ʔ ²¹	pʰ a ʔ ²¹
+445-4	NorthernPao	n a ⁵³	n a ⁵³
+514-4	NorthernPao	s e ʔ ²¹	s i ʔ ²¹
+555-4	NorthernPao	kʰ w i ⁵⁵	kʰ w i ⁵⁵
+579-4	NorthernPao	ɕ j a n ɦ ³¹	ɕ j a n ɦ ³¹
+603-4	NorthernPao	kʰ a ⁵⁵	kʰ a ⁵⁵
+737-4	NorthernPao	l u ⁵⁵	l u ⁵⁵
+763-4	NorthernPao	cʰ w ɛ ⁵⁵	cʰ w ɛ ⁵⁵
+870-4	NorthernPao	kʰ e ʔ ²¹	kʰ i ʔ ²¹
+918-4	NorthernPao	ʔ ə ŋ ɦ ³¹	ʔ ə ŋ ɦ ³¹
+979-4	NorthernPao	l a ŋ ³³	l a ŋ ³³
+1013-4	NorthernPao	m a ⁵³	m a ⁵³
+1040-4	NorthernPao	tʰ w i ⁵⁵	tʰ w i ⁵⁵
+1027-4	NorthernPao	m a ³³	m a ³³
+1053-4	NorthernPao	l w i ⁵³	l w i ⁵³
+1065-4	NorthernPao	m a ŋ ⁵³	m a ŋ ⁵³
+1091-4	NorthernPao	m u n ³³	m w ɨ n ³³
+1116-4	NorthernPao	ʔ e ⁵⁵	ʔ e ⁵⁵
+1129-4	NorthernPao	n a ⁵³	n a ⁵³
+1173-4	NorthernPao	d i ⁵⁵	d i ⁵⁵
+1207-4	NorthernPao	cʰ a ŋ ɦ ³¹	cʰ a ŋ ɦ ³¹
+1255-4	NorthernPao	p e ʔ ²¹	pʰ i ʔ ²¹
+1277-4	NorthernPao	tʰ ɛ ʔ ⁴⁵	tʰ ɛ ʔ ⁴⁵
+1290-4	NorthernPao	p l ə ŋ ⁵⁵	pʰ w ŋ ⁵⁵
+1301-4	NorthernPao	cʰ ə n ⁵⁵	cʰ u n ⁵⁵
+1337-4	NorthernPao	m ɨ ⁵⁵	m ɨ ⁵⁵
+1323-4	NorthernPao	m u ⁵³	m u ⁵³
+1350-4	NorthernPao	m e ⁵⁵	m e ⁵⁵
+1372-4	NorthernPao	ŋ a t ⁴⁵	n a t ⁴⁵
+1498-4	NorthernPao	d e ⁵⁵	d e ⁵⁵
+1664-4	NorthernPao	l e ʔ ⁴⁵	l e k ⁴⁵
+1652-4	NorthernPao	ʔ au ⁵⁵	ʔ au ⁵⁵
+1687-4	NorthernPao	s a ʔ ²¹	s a ʔ ²¹
+1708-4	NorthernPao	s au ⁵⁵	s au ⁵⁵
+1732-4	NorthernPao	tʰ o ŋ ⁵³	tʰ o ŋ ⁵³
+1742-4	NorthernPao	n o ŋ ³³	n o ŋ ³³
+1755-4	NorthernPao	pʰ r ɨ m ɦ ³¹	pʰ r ɨ n ɦ ³¹
+1767-4	NorthernPao	s e ɦ ³¹	s e ɦ ³¹
+1786-4	NorthernPao	r j a ³³	r j a ³³
+1803-4	NorthernPao	w a ³³	w a ³³
+1815-4	NorthernPao	cʰ a ɦ ³¹	cʰ a ɦ ³¹
+1840-4	NorthernPao	pʰ r e ʔ ⁴⁵	pʰ r e ʔ ⁴⁵
+1853-4	NorthernPao	tʰ a ʔ ²¹	tʰ a ʔ ²¹
+1866-4	NorthernPao	s a ʔ ²¹	s a ʔ ²¹
+1894-4	NorthernPao	l a ⁵⁵	l a ⁵⁵
+1934-4	NorthernPao	c e ⁵⁵	c e ⁵⁵
+1947-4	NorthernPao	kʰ a ŋ ⁵⁵	kʰ a ŋ ⁵⁵
+1993-4	NorthernPao	pʰ w i ɦ ³¹	pʰ w i ɦ ³¹
+2059-4	NorthernPao	ʔ o ŋ ⁵⁵	ʔ o ŋ ⁵⁵
+2098-4	NorthernPao	ŋ j a ʔ ⁴⁵	ŋ j a ʔ ⁴⁵
+2086-4	NorthernPao	tʰ o ɦ ³¹	tʰ o ɦ ³¹
+2153-4	NorthernPao	s ɨ ⁵⁵	s ɨ ⁵⁵
+2180-4	NorthernPao	l o ŋ ⁵⁵	l o ŋ ⁵⁵
+2205-4	NorthernPao	kʰ w o ɦ ³¹	kʰ w o ɦ ³¹
+2328-4	NorthernPao	l a ɦ ³¹	l a ɦ ³¹
+2349-4	NorthernPao	j u ⁵³	j u ⁵³
+2372-4	NorthernPao	m i ⁵⁵	m i ⁵⁵
+2388-4	NorthernPao	m i n ³³	m i n ³³
+2413-4	NorthernPao	d e ɦ ³¹	d e ɦ ³¹
+2637-4	NorthernPao	p l o m ⁵⁵	pʰ l o m ⁵⁵
+2649-4	NorthernPao	c u ɦ ³¹	k j u ɦ ³¹
+2693-4	NorthernPao	pʰ ə ŋ ³³	pʰ ə ŋ ³³
+2755-4	NorthernPao	s ɔ ʔ ²¹	s ɔ ʔ ²¹
+2858-4	NorthernPao	m i n ɦ ³¹	m i n ɦ ³¹
+2953-4	NorthernPao	c a ɦ ³¹	cʰ a ɦ ³¹
+2986-4	NorthernPao	cʰ a ʔ ²¹	cʰ a ʔ ²¹
+3034-4	NorthernPao	kʰ a ʔ ²¹	kʰ a ʔ ²¹
+3088-4	NorthernPao	pʰ l ɛ ʔ ⁴⁵	pʰ l ɛ ʔ ⁴⁵
+3113-4	NorthernPao	p l e ɦ ³¹	pʰ l e ɦ ³¹
+3154-4	NorthernPao	r u ⁵³	r u ⁵³
+3179-4	NorthernPao	ɕ j a n ⁵⁵	ɕ j a n ⁵⁵
+3246-4	NorthernPao	d a ɦ ³¹	d a ɦ ³¹
+3259-4	NorthernPao	c i m ⁵³	c i m ⁵³
+3282-4	NorthernPao	tʰ ə ŋ ⁵⁵	tʰ ə ŋ ⁵⁵
+3295-4	NorthernPao	cʰ a ⁵⁵	cʰ a ⁵⁵
+3338-4	NorthernPao	l o ŋ ⁵³	l o ŋ ⁵³
+3351-4	NorthernPao	pʰ l i ³³	pʰ l i ³³
+3375-4	NorthernPao	m ɨ ⁵³	m ɨ ⁵³
+3410-4	NorthernPao	j ɔ ʔ ²¹	j ɔ ʔ ²¹
+3423-4	NorthernPao	m e ⁵³	m e ⁵³
+3445-4	NorthernPao	ɕ i ɦ ³¹	ɕ i ɦ ³¹
+3485-4	NorthernPao	pʰ i ⁵³	pʰ i ⁵³
+3500-4	NorthernPao	p l o ŋ ⁵⁵	pʰ l o ŋ ⁵⁵
+3545-4	NorthernPao	tʰ u ⁵³	tʰ u ⁵³
+3557-4	NorthernPao	s ə m ɦ ³¹	s ə m ɦ ³¹
+3581-4	NorthernPao	c ə ŋ ɦ ³¹	c ə ŋ ɦ ³¹
+3594-4	NorthernPao	kʰ e ɦ ³¹	kʰ e ɦ ³¹
+3618-4	NorthernPao	s u ⁵⁵	s u ⁵⁵
+3654-4	NorthernPao	pʰ l e ³³	pʰ l e ³³
+3667-4	NorthernPao	tʰ ɛ ʔ ⁴⁵	tʰ ɛ ʔ ⁴⁵
+3680-4	NorthernPao	kʰ l e ʔ ²¹	kʰ l i ʔ ²¹
+3763-4	NorthernPao	p r ɔ ʔ ²¹	pʰ r ɔ ʔ ²¹
+3850-4	NorthernPao	pʰ l a ⁵³	pʰ l a ⁵³
+3878-4	NorthernPao	tʰ i ɦ ³¹	tʰ i ɦ ³¹
+3903-4	NorthernPao	tʰ ɛ ŋ ɦ ³¹	tʰ ɛ ŋ ɦ ³¹
+3938-4	NorthernPao	c au ⁵⁵	c au ⁵⁵
+3963-4	NorthernPao	l ai ⁵³	l ai ⁵³
+3977-4	NorthernPao	m a ɦ ³¹	m a ɦ ³¹
+1464-4	NorthernPao	l i p ⁴⁵	l i t ⁴⁵
+21-5	NorthernPwo	tʰ ã ɦ ¹¹	tʰ ɑ̃ ³³
+33-5	NorthernPwo	tʰ ɔ ³¹	tʰ əɨ ³³
+46-5	NorthernPwo	pʰ l a ɦ ¹¹	pʰ l a ɦ ¹¹
+126-5	NorthernPwo	s j a ³⁵	s a ³⁵
+114-5	NorthernPwo	b ɛ̃ ³³	b ɛ̃ ³³
+149-5	NorthernPwo	pʰ l a ³³	b l a ⁵⁵
+171-5	NorthernPwo	tʰ ã ³⁵	tʰ ɛ̃ ³⁵
+191-5	NorthernPwo	k w ɛ ⁵⁵	w ɛ ʔ ⁴⁵
+203-5	NorthernPwo	n i ³⁵	n i ³⁵
+224-5	NorthernPwo	l a ʔ ²¹	l a ʔ ²¹
+275-5	NorthernPwo	kʰ a ³³	kʰ a ³³
+302-5	NorthernPwo	ʔ u ⁵⁵	ʔ u ³⁵
+315-5	NorthernPwo	tʰ o ʔ ⁴⁵	tʰ o ʔ ⁴⁵
+394-5	NorthernPwo	n au ʔ ²¹	n au ʔ ²¹
+431-5	NorthernPwo	pʰ a ʔ ⁴⁵	pʰ a ʔ ⁴⁵
+444-5	NorthernPwo	p a ʔ ²¹	p a ʔ ²¹
+445-5	NorthernPwo	n a ɦ ¹¹	n a ɦ ¹¹
+514-5	NorthernPwo	s ɨ ³⁵	s i ʔ ⁴⁵
+555-5	NorthernPwo	kʰ w i ³³	kʰ w i ³³
+579-5	NorthernPwo	cʰ ɛ̃ ³⁵	cʰ ɛ̃ ³⁵
+603-5	NorthernPwo	kʰ a ³³	kʰ a ³³
+737-5	NorthernPwo	l ou ³³	l ou ³³
+763-5	NorthernPwo	cʰ w ɛ ³³	cʰ w ɛ ³³
+870-5	NorthernPwo	kʰ ai ʔ ⁴⁵	kʰ ei ʔ ⁴⁵
+918-5	NorthernPwo	ʔ ɑ̃ ⁵⁵	ʔ ɑ̃ ³⁵
+979-5	NorthernPwo	l ɛ̃ ⁵⁵	l ɛ̃ ⁵⁵
+1013-5	NorthernPwo	m a ɦ ¹¹	m a ɦ ¹¹
+1040-5	NorthernPwo	tʰ w i ³³	tʰ w i ³³
+1027-5	NorthernPwo	m a ⁵⁵	m a ⁵⁵
+1053-5	NorthernPwo	l ei ɦ ¹¹	l w i ɦ
+1065-5	NorthernPwo	m ɛ̃ ɦ ¹¹	m ɛ̃ ɦ ¹¹
+1091-5	NorthernPwo	m ɑ̃ ⁵⁵	m ɑ̃ ɦ
+1116-5	NorthernPwo	ʔ i ³³	ʔ ãi ³³
+1129-5	NorthernPwo	n a ɦ ¹¹	n a ɦ ¹¹
+1173-5	NorthernPwo	d ei ³³	d ei ³³
+1207-5	NorthernPwo	cʰ ɛ̃ ³⁵	cʰ ɛ̃ ³⁵
+1255-5	NorthernPwo	pʰ ai ʔ ²¹	p i ʔ ²¹
+1277-5	NorthernPwo	tʰ e ʔ ²¹	tʰ e ʔ ²¹
+1290-5	NorthernPwo	b ɑ̃ ³³	b w ɑ̃ ³³
+1301-5	NorthernPwo	cʰ ɑ̃ ³³	cʰ ɑ̃ ɦ
+1337-5	NorthernPwo	m əɨ̯ ³³	m əɨ̯ ³³
+1323-5	NorthernPwo	m u ɦ ¹¹	m u ɦ ¹¹
+1350-5	NorthernPwo	m i ³³	m i ³³
+1372-5	NorthernPwo	j ɛ ɦ ¹¹	ŋ ɛ ʔ ²¹
+1498-5	NorthernPwo	d i ³³	d i ³³
+1664-5	NorthernPwo	l ai ʔ ²¹	l ai ⁵⁵
+1652-5	NorthernPwo	ʔ ɔ ³³	ʔ ɔ ³³
+1687-5	NorthernPwo	s a ʔ ⁴⁵	s a ʔ ⁴⁵
+1708-5	NorthernPwo	ɕ j ɔ ³³	s o ³³
+1732-5	NorthernPwo	tʰ ãu ɦ ¹¹	tʰ ɔ̃ ɦ
+1742-5	NorthernPwo	n ãu ⁵⁵	n ɔ̃ ⁵⁵
+1755-5	NorthernPwo	pʰ l ɑ̃ ³⁵	pʰ l ɑ̃ ³⁵
+1767-5	NorthernPwo	s i ³³	s i ³³
+1786-5	NorthernPwo	j a ⁵⁵	j a ⁵⁵
+1803-5	NorthernPwo	w a ⁵⁵	w a ɦ
+1815-5	NorthernPwo	cʰ a ³⁵	cʰ a ³⁵
+1840-5	NorthernPwo	p ɣ ai ʔ ²¹	pʰ ɣ ai ʔ ²¹
+1853-5	NorthernPwo	tʰ a ʔ ⁴⁵	tʰ a ʔ ⁴⁵
+1866-5	NorthernPwo	s a ʔ ⁴⁵	s a ʔ ⁴⁵
+1894-5	NorthernPwo	l a ³³	l a ³³
+1934-5	NorthernPwo	c i ³³	c i ³³
+1947-5	NorthernPwo	kʰ ɛ̃ ³³	kʰ ɛ̃ ³³
+1993-5	NorthernPwo	kʰ w i ³⁵	pʰ w i ³⁵
+2059-5	NorthernPwo	ʔ ɔ̃ ³³	ʔ ɔ̃ ³³
+2098-5	NorthernPwo	j ai ʔ ²¹	ŋ ei ʔ ²¹
+2086-5	NorthernPwo	tʰ ɔ ³⁵	tʰ u ³⁵
+2153-5	NorthernPwo	s ɑ̃ ³³	s ɑ̃ ³³
+2180-5	NorthernPwo	l ãu ³³	l ɔ̃ ³³
+2205-5	NorthernPwo	kʰ w ɔ ³⁵	kʰ w u ³⁵
+2328-5	NorthernPwo	l a ⁵⁵	l a ³⁵
+2349-5	NorthernPwo	j ou ɦ ¹¹	j ou ɦ ¹¹
+2372-5	NorthernPwo	m ei ³³	m ei ³³
+2388-5	NorthernPwo	m ãi ⁵⁵	m ãi ³³
+2413-5	NorthernPwo	d i ⁵⁵	d i ⁵⁵
+2637-5	NorthernPwo	pʰ l ãu ³³	pʰ l u ³³
+2649-5	NorthernPwo	c u ⁵⁵	k u ³⁵
+2693-5	NorthernPwo	pʰ ɑ̃ ⁵⁵	pʰ ɑ̃ ⁵⁵
+2755-5	NorthernPwo	s o ʔ ⁴⁵	s o ʔ ⁴⁵
+2858-5	NorthernPwo	m ãi ⁵⁵	m ãi ³⁵
+2953-5	NorthernPwo	cʰ a ³⁵	cʰ a ³⁵
+2986-5	NorthernPwo	cʰ a ʔ ⁴⁵	cʰ a ʔ ⁴⁵
+3034-5	NorthernPwo	kʰ a ʔ ⁴⁵	kʰ a ʔ ⁴⁵
+3088-5	NorthernPwo	pʰ l e ʔ ²¹	pʰ l e ʔ ²¹
+3113-5	NorthernPwo	pʰ l i ³⁵	pʰ l ei ³⁵
+3154-5	NorthernPwo	ɣ ou ɦ ¹¹	ɣ ou ɦ ⁴⁵
+3179-5	NorthernPwo	cʰ ɛ̃ ³³	ɕ ɛ̃ ³³
+3246-5	NorthernPwo	d a ⁵⁵	d a ⁵⁵
+3259-5	NorthernPwo	cʰ ãi ɦ ¹¹	c ãi ɦ ¹¹
+3282-5	NorthernPwo	tʰ ɑ̃ ³³	tʰ ɑ̃ ³³
+3295-5	NorthernPwo	s j a ³³	cʰ a ³³
+3338-5	NorthernPwo	l ãu ɦ ¹¹	l ɔ̃ ɦ
+3351-5	NorthernPwo	pʰ l ei ⁵⁵	pʰ l ei ⁵⁵
+3375-5	NorthernPwo	m əɨ ɦ ¹¹	m ɑ̃ ɦ ¹¹
+3410-5	NorthernPwo	j o ʔ ⁴⁵	j o ʔ ⁴⁵
+3423-5	NorthernPwo	m ɛ ɦ ¹¹	m i ɦ ¹¹
+3445-5	NorthernPwo	cʰ ei ³⁵	cʰ ei ³⁵
+3485-5	NorthernPwo	pʰ ai ɦ ¹¹	pʰ ei ɦ
+3500-5	NorthernPwo	pʰ l ãu ³³	pʰ l ãu ³³
+3545-5	NorthernPwo	tʰ ou ɦ ¹¹	tʰ ou ɦ ¹¹
+3557-5	NorthernPwo	s ɑ̃ ³⁵	s ɑ̃ ³⁵
+3581-5	NorthernPwo	c ɑ̃ ⁵⁵	x ãi ³⁵
+3594-5	NorthernPwo	kʰ i ³⁵	kʰ i ³⁵
+3618-5	NorthernPwo	s ou ³³	s ou ³³
+3654-5	NorthernPwo	pʰ l i ⁵⁵	pʰ l i ⁵⁵
+3667-5	NorthernPwo	tʰ e ʔ ²¹	tʰ ãi ʔ ²¹
+3680-5	NorthernPwo	kʰ l ai ʔ ⁴⁵	kʰ l ei ʔ
+3763-5	NorthernPwo	p j o ʔ ⁴⁵	pʰ ɣ ɔ ʔ ⁴⁵
+3850-5	NorthernPwo	pʰ l a ɦ ¹¹	pʰ l a ɦ ¹¹
+3878-5	NorthernPwo	tʰ ei ³⁵	tʰ ei ³⁵
+3903-5	NorthernPwo	tʰ ãi ³⁵	tʰ ãi ³⁵
+3938-5	NorthernPwo	c ɔ ³³	c ɔ ³³
+3963-5	NorthernPwo	l ɛ ɦ ¹¹	l ai ɦ ¹¹
+3977-5	NorthernPwo	m a ³⁵	m a ³⁵
+1464-5	NorthernPwo	l w i ɦ ¹¹	l w ³⁵ ³⁵
+21-6	ProtoKaren	d ə ŋ ¹¹	d ə ŋ ¹¹
+33-6	ProtoKaren	d ə ¹¹	d ə ¹¹
+46-6	ProtoKaren	b l a ¹¹	b l a ¹¹
+126-6	ProtoKaren	s r a ⁵⁵	s a a ⁵⁵
+114-6	ProtoKaren	ˀb a ŋ ¹¹	ˀb a ŋ ¹¹
+149-6	ProtoKaren	p l a ⁵⁵	p l a ¹¹
+171-6	ProtoKaren	tʰ a m ⁵⁵	tʰ a m ⁵⁵
+191-6	ProtoKaren	k w a t̚ ⁵¹	k w ɛ t ⁵¹
+203-6	ProtoKaren	n̥ e ⁵⁵	n e ⁵⁵
+224-6	ProtoKaren	l a ʔ̚ ⁵¹	l a ʔ̚ ⁵¹
+275-6	ProtoKaren	kʰ a ¹¹	kʰ a ¹¹
+302-6	ProtoKaren	ʔ u ⁵⁵	ʔ u ⁵⁵
+315-6	ProtoKaren	tʰ ɔ ʔ̚ ⁵¹	tʰ ɔ ʔ̚ ⁵¹
+394-6	ProtoKaren	n o k̚ ⁵¹	n o k̚ ⁵¹
+431-6	ProtoKaren	p a ʔ̚ ⁵¹	p a ʔ̚ ⁵¹
+444-6	ProtoKaren	p ə ʔ̚ ⁰	p a ʔ̚ ⁵¹
+445-6	ProtoKaren	n a ¹¹	n a ¹¹
+514-6	ProtoKaren	s i ʔ ⁵¹	s i ʔ̚ ⁵¹
+555-6	ProtoKaren	kʰ w i ¹¹	kʰ w i ¹¹
+579-6	ProtoKaren	cʰ j a ɴ ⁵⁵	cʰ j a ɴ ⁵⁵
+603-6	ProtoKaren	kʰ a ¹¹	kʰ a ¹¹
+737-6	ProtoKaren	l̥ ou ¹¹	l ou ¹¹
+763-6	ProtoKaren	cʰ w ɛ ¹¹	cʰ w ɛ ¹¹
+870-6	ProtoKaren	kʰ i ʔ̚ ⁵¹	kʰ e ʔ̚ ⁵¹
+918-6	ProtoKaren	ʔ ə ŋ ⁵⁵	ʔ ə ŋ ⁵⁵
+979-6	ProtoKaren	l a ŋ ⁵⁵	l a ŋ ⁵⁵
+1013-6	ProtoKaren	m a ¹¹	m a ¹¹
+1040-6	ProtoKaren	tʰ w i ¹¹	tʰ w i ¹¹
+1027-6	ProtoKaren	m a ⁵⁵	m a ⁵⁵
+1053-6	ProtoKaren	l w i ¹¹	l w i ¹¹
+1065-6	ProtoKaren	m a ŋ ¹¹	m a ŋ ¹¹
+1091-6	ProtoKaren	m w ɨ ɴ ⁵⁵	m w ɴ ⁵⁵
+1116-6	ProtoKaren	ʔ e ¹¹	ʔ e ¹¹
+1129-6	ProtoKaren	n a ¹¹	n a ¹¹
+1173-6	ProtoKaren	ˀd ei ¹¹	ˀd ei ¹¹
+1207-6	ProtoKaren	cʰ a ŋ ⁵⁵	cʰ a ŋ ⁵⁵
+1255-6	ProtoKaren	p i ʔ̚ ⁵¹	p e ʔ̚ ⁵¹
+1277-6	ProtoKaren	d ɛ ʔ̚ ⁵¹	d ɛ ʔ̚ ⁵¹
+1290-6	ProtoKaren	ˀb l u ŋ ¹¹	p l ə ŋ ¹¹
+1301-6	ProtoKaren	cʰ u ɴ ¹¹	cʰ u ɴ ¹¹
+1337-6	ProtoKaren	m̥ ɨ ¹¹	m ɨ ¹¹
+1323-6	ProtoKaren	m u ¹¹	m u ¹¹
+1350-6	ProtoKaren	m̥ e ¹¹	m e ¹¹
+1372-6	ProtoKaren	ŋ j a t̚ ⁵¹	ŋ a t̚ ⁵¹
+1498-6	ProtoKaren	ˀd e ¹¹	ˀd e ¹¹
+1664-6	ProtoKaren	l e k̚ ⁵¹	l e ʔ̚ ⁵¹
+1652-6	ProtoKaren	ʔ ɔ ¹¹	ʔ ɔ ¹¹
+1687-6	ProtoKaren	s a ʔ̚ ⁵¹	s a ʔ̚ ⁵¹
+1708-6	ProtoKaren	s r ɔ ¹¹	s j ɔ ¹¹
+1732-6	ProtoKaren	d o ŋ ¹¹	d ə ŋ ¹¹
+1742-6	ProtoKaren	n o ŋ ⁵⁵	n o ŋ ⁵⁵
+1755-6	ProtoKaren	pʰ r ɨ ɴ ⁵⁵	pʰ l ɨ ɴ ⁵⁵
+1767-6	ProtoKaren	s r e ³³	s e ⁵⁵ ⁵¹
+1786-6	ProtoKaren	r j a ⁵⁵	j a ⁵⁵
+1803-6	ProtoKaren	g w a ⁵⁵	w a ⁵⁵
+1815-6	ProtoKaren	cʰ a ⁵⁵	cʰ a ⁵⁵
+1840-6	ProtoKaren	b r e ʔ̚ ⁵¹	b r e ʔ ⁵¹
+1853-6	ProtoKaren	tʰ a ʔ̚ ⁵¹	tʰ a ʔ̚ ⁵¹
+1866-6	ProtoKaren	s a ʔ̚ ⁵¹	s a ʔ̚ ⁵¹
+1894-6	ProtoKaren	l̥ a ¹¹	l a ¹¹
+1934-6	ProtoKaren	c e ¹¹	ɟ e ¹¹
+1947-6	ProtoKaren	kʰ a ŋ ¹¹	kʰ a ŋ ¹¹
+1993-6	ProtoKaren	pʰ w i ⁵⁵	pʰ w i ⁵⁵
+2059-6	ProtoKaren	ʔ ɔ ɴ ¹¹	ʔ o ŋ ¹¹
+2098-6	ProtoKaren	ŋ j a ʔ̚ ⁵¹	ŋ j a ʔ̚ ⁵¹
+2086-6	ProtoKaren	tʰ au ⁵⁵	tʰ o ⁵⁵
+2153-6	ProtoKaren	s w ɨ ɴ ¹¹	s ɨ ¹¹
+2180-6	ProtoKaren	l̥ o ŋ ¹¹	l o ŋ ¹¹
+2205-6	ProtoKaren	kʰ w au ⁵⁵	kʰ w o ⁵⁵
+2328-6	ProtoKaren	ˀl a ⁵⁵	l a ⁵⁵
+2349-6	ProtoKaren	j ou ¹¹	j ou ¹¹
+2372-6	ProtoKaren	m̥ ei ¹¹	m ei ¹¹
+2388-6	ProtoKaren	m i n ⁵⁵	m i ɨ n ⁵⁵
+2413-6	ProtoKaren	ˀd e ⁵⁵	ˀd e ⁵⁵
+2637-6	ProtoKaren	p l o m ¹¹	p l o m ¹¹
+2649-6	ProtoKaren	c u ⁵⁵	c j u ⁵⁵
+2693-6	ProtoKaren	b ə ŋ ⁵⁵	b ə ŋ ⁵⁵
+2755-6	ProtoKaren	s ɔ ʔ̚ ⁵¹	s ɔ ʔ̚ ⁵¹
+2858-6	ProtoKaren	ˀm i n ⁵⁵	m j ɨ ɴ ⁵⁵
+2953-6	ProtoKaren	c a ⁵⁵	cʰ a ⁵⁵
+2986-6	ProtoKaren	cʰ a ʔ̚ ⁵¹	cʰ a ʔ̚ ⁵¹
+3034-6	ProtoKaren	kʰ a ʔ̚ ⁵¹	kʰ a ʔ̚ ⁵¹
+3088-6	ProtoKaren	b l ɛ ʔ̚ ⁵¹	b l ɛ ʔ ⁵¹
+3113-6	ProtoKaren	p l e ⁵⁵	p l e ⁵⁵
+3154-6	ProtoKaren	r ou ¹¹	r ou ¹¹
+3179-6	ProtoKaren	cʰ j a ɴ ¹¹	cʰ j a ɴ ¹¹
+3246-6	ProtoKaren	ˀd a ⁵⁵	ˀd a ⁵⁵
+3259-6	ProtoKaren	ɟ i m ¹¹	ɟ i m ¹¹
+3282-6	ProtoKaren	tʰ ə ŋ ¹¹	tʰ ə ŋ ¹¹
+3295-6	ProtoKaren	cʰ a ¹¹	cʰ a ¹¹
+3338-6	ProtoKaren	l o ŋ ¹¹	l o ŋ ¹¹
+3351-6	ProtoKaren	b l ei ⁵⁵	b l ei ⁵⁵
+3375-6	ProtoKaren	m ɨ ¹¹	m ɨ ¹¹
+3410-6	ProtoKaren	ɲ̊ ɔ ʔ̚ ⁵¹	j ɔ ʔ̚ ⁵¹
+3423-6	ProtoKaren	m e ¹¹	m e ¹¹
+3445-6	ProtoKaren	cʰ ei ⁵⁵	tʰ ei ⁵⁵
+3485-6	ProtoKaren	b i ¹¹	b i ¹¹
+3500-6	ProtoKaren	p l o ŋ ¹¹	p l o ŋ ¹¹
+3545-6	ProtoKaren	d ou ¹¹	d ou ¹¹
+3557-6	ProtoKaren	s ə m ⁵⁵	s ə m ⁵⁵
+3581-6	ProtoKaren	c ə ŋ ⁵⁵	c ə ŋ ⁵⁵
+3594-6	ProtoKaren	kʰ e ⁵⁵	kʰ e ⁵⁵
+3618-6	ProtoKaren	s ou ¹¹	s ou ¹¹
+3654-6	ProtoKaren	b l e ⁵⁵	b l e ⁵⁵
+3667-6	ProtoKaren	d ɛ ʔ̚ ⁵¹	d ɛ ʔ̚ ⁵¹
+3680-6	ProtoKaren	kʰ l i ʔ̚ ⁵¹	kʰ l e ʔ ⁵¹
+3763-6	ProtoKaren	p r ɔ ʔ̚ ⁵¹	p r ɔ ʔ ⁵¹
+3850-6	ProtoKaren	b l a ¹¹	b l a ¹¹
+3878-6	ProtoKaren	tʰ ei ⁵⁵	tʰ ei ⁵⁵
+3903-6	ProtoKaren	tʰ ɛ ŋ ⁵⁵	tʰ ɛ ŋ ⁵⁵
+3938-6	ProtoKaren	c ɔ ¹¹	c ɔ ¹¹
+3963-6	ProtoKaren	l ɛ ¹¹	l ai ¹¹
+3977-6	ProtoKaren	m̥ a ⁵⁵	m a ⁵⁵
+1464-6	ProtoKaren	l̥ w i t̚ ⁵⁵	l i p ⁵⁵
+21-7	SouthernPao	t ə ŋ ⁵⁵	t ə ŋ ⁵⁵
+33-7	SouthernPao	t ə ³³	t ə ³³
+46-7	SouthernPao	p l a ⁵⁵	p l a ⁵⁵
+126-7	SouthernPao	s a ɦ ³¹	s a ɦ ³¹
+114-7	SouthernPao	b a ŋ ³³	b a ŋ ³³
+149-7	SouthernPao	p l a ɦ ³¹	p l a ɦ ³¹
+171-7	SouthernPao	tʰ a m ɦ ³¹	tʰ a m ɦ ³¹
+191-7	SouthernPao	w a p ²¹	w a t ²¹
+203-7	SouthernPao	n e ɦ ³¹	n e ɦ ³¹
+224-7	SouthernPao	l a ʔ ⁴⁵	l a ʔ ⁴⁵
+275-7	SouthernPao	kʰ a ³³	kʰ a ³³
+302-7	SouthernPao	ʔ u ɦ ³¹	ʔ u ɦ ³¹
+315-7	SouthernPao	tʰ ɔ ʔ ²¹	tʰ ɔ ʔ ²¹
+394-7	SouthernPao	n u ʔ ⁴⁵	n o ʔ ⁴⁵
+431-7	SouthernPao	p a ʔ ²¹	p a ʔ ²¹
+444-7	SouthernPao	p a ʔ ²¹	p a ¹¹ ²¹
+445-7	SouthernPao	n a ⁵⁵	n a ⁵⁵
+514-7	SouthernPao	s i ʔ ²¹	s e ʔ ²¹
+555-7	SouthernPao	kʰ w i ³³	kʰ w i ³³
+579-7	SouthernPao	ɕ j a n ɦ ³¹	ɕ j a n ɦ ³¹
+603-7	SouthernPao	kʰ a ³³	kʰ a ³³
+737-7	SouthernPao	l u ³³	l u ³³
+763-7	SouthernPao	cʰ w ɛ ³³	cʰ w ɛ ³³
+870-7	SouthernPao	kʰ i ʔ ²¹	kʰ e ʔ ²¹
+918-7	SouthernPao	ʔ ə ŋ ɦ ³¹	ʔ ə ŋ ɦ ³¹
+979-7	SouthernPao	l a ŋ ⁵³	l a ŋ ⁵³
+1013-7	SouthernPao	m a ⁵⁵	m a ⁵⁵
+1040-7	SouthernPao	tʰ w i ³³	tʰ w i ³³
+1027-7	SouthernPao	m a ⁵³	m a ⁵³
+1053-7	SouthernPao	l w i ⁵⁵	l w i ⁵⁵
+1065-7	SouthernPao	m a ŋ ⁵⁵	m a ŋ ⁵⁵
+1091-7	SouthernPao	m w ə m ⁵³	m w ə m ⁵³
+1116-7	SouthernPao	ʔ e ³³	ʔ e ³³
+1129-7	SouthernPao	n a ⁵⁵	n a ⁵⁵
+1173-7	SouthernPao	d i ³³	d i ³³
+1207-7	SouthernPao	cʰ a ŋ ɦ ³¹	cʰ a ŋ ɦ ³¹
+1255-7	SouthernPao	p i ʔ ²¹	p e ʔ ²¹
+1277-7	SouthernPao	t ɛ ʔ ⁴⁵	t ɛ ʔ ⁴⁵
+1290-7	SouthernPao	p w ə ŋ ³³	p l ə ŋ ³³
+1301-7	SouthernPao	cʰ w ə m ³³	cʰ w ə m ³³
+1337-7	SouthernPao	m ɨ ³³	m ə ³³
+1323-7	SouthernPao	m u ⁵⁵	m u ⁵⁵
+1350-7	SouthernPao	m e ³³	m e ³³
+1372-7	SouthernPao	n a p ⁴⁵	ŋ a t ⁴⁵
+1498-7	SouthernPao	d e ³³	d e ³³
+1664-7	SouthernPao	l e k ⁴⁵	l e ʔ ⁴⁵
+1652-7	SouthernPao	ʔ au ³³	ʔ au ³³
+1687-7	SouthernPao	s a ʔ ²¹	s a ʔ ²¹
+1708-7	SouthernPao	ɕ au ³³	s au ³³
+1732-7	SouthernPao	t o ŋ ⁵⁵	t o ŋ ⁵⁵
+1742-7	SouthernPao	n o ŋ ⁵³	n o ŋ ⁵³
+1755-7	SouthernPao	pʰ r ɨ n ɦ ³¹	pʰ r ɨ ŋ ɦ ³¹
+1767-7	SouthernPao	s e ɦ ³¹	s e ɦ ³¹
+1786-7	SouthernPao	r j a ⁵³	j a ⁵³
+1803-7	SouthernPao	w a ⁵³	w a ⁵³
+1815-7	SouthernPao	cʰ a ɦ ³¹	cʰ a ɦ ³¹
+1840-7	SouthernPao	pʰ r i ʔ ⁴⁵	pʰ r e ʔ ⁴⁵
+1853-7	SouthernPao	tʰ a ʔ ²¹	tʰ a ʔ ²¹
+1866-7	SouthernPao	s a ʔ ²¹	s a ʔ ²¹
+1894-7	SouthernPao	l a ³³	l a ³³
+1934-7	SouthernPao	c e ³³	c e ³³
+1947-7	SouthernPao	kʰ a ŋ ³³	kʰ a ŋ ³³
+1993-7	SouthernPao	pʰ w i ɦ ³¹	pʰ w i ɦ ³¹
+2059-7	SouthernPao	ʔ o ŋ ³³	ʔ o ŋ ³³
+2098-7	SouthernPao	ŋ j a ʔ ⁴⁵	ŋ j a ʔ ⁴⁵
+2086-7	SouthernPao	tʰ o ɦ ³¹	tʰ o ɦ ³¹
+2153-7	SouthernPao	s ɨ ³³	s w ə ³³
+2180-7	SouthernPao	l o ŋ ³³	l o ŋ ³³
+2205-7	SouthernPao	kʰ w o ɦ ³¹	kʰ w o ɦ ³¹
+2328-7	SouthernPao	l a ɦ ³¹	l a ɦ ³¹
+2349-7	SouthernPao	j u ⁵⁵	j u ⁵⁵
+2372-7	SouthernPao	m i ³³	m i ³³
+2388-7	SouthernPao	m i n ⁵³	m i n ⁵³
+2413-7	SouthernPao	d e ɦ ³¹	d e ɦ ³¹
+2637-7	SouthernPao	p l o m ³³	p l o m ³³
+2649-7	SouthernPao	k j u ɦ ³¹	c u ɦ ³¹
+2693-7	SouthernPao	p ə ŋ ⁵³	p ə ŋ ⁵³
+2755-7	SouthernPao	s ɔ ʔ ²¹	s ɔ ʔ ²¹
+2858-7	SouthernPao	m i n ɦ ³¹	m i n ɦ ³¹
+2953-7	SouthernPao	c a ɦ ³¹	c a ɦ ³¹
+2986-7	SouthernPao	cʰ a ʔ ²¹	cʰ a ʔ ²¹
+3034-7	SouthernPao	kʰ a ʔ ²¹	kʰ a ʔ ²¹
+3088-7	SouthernPao	p l ɛ ʔ ⁴⁵	p l ɛ ʔ ⁴⁵
+3113-7	SouthernPao	p l e ɦ ³¹	p l e ɦ ³¹
+3154-7	SouthernPao	r u ⁵⁵	r u ⁵⁵
+3179-7	SouthernPao	ɕ j a n ³³	ɕ j a n ³³
+3246-7	SouthernPao	d a ɦ ³¹	d a ɦ ³¹
+3259-7	SouthernPao	c i m ⁵⁵	c i m ⁵⁵
+3282-7	SouthernPao	tʰ ə ŋ ³³	tʰ ə ŋ ³³
+3295-7	SouthernPao	cʰ a ³³	cʰ a ³³
+3338-7	SouthernPao	l o ŋ ⁵⁵	l o ŋ ⁵⁵
+3351-7	SouthernPao	p l i ⁵³	p l i ⁵³
+3375-7	SouthernPao	m ɨ ⁵⁵	m ə ⁵⁵
+3410-7	SouthernPao	j ɔ ʔ ²¹	j ɔ ʔ ²¹
+3423-7	SouthernPao	m e ⁵⁵	m e ⁵⁵
+3445-7	SouthernPao	ɕ i ɦ ³¹	ɕ i ɦ ³¹
+3485-7	SouthernPao	p i ⁵⁵	p i ⁵⁵
+3500-7	SouthernPao	p l o ŋ ³³	p l o ŋ ³³
+3545-7	SouthernPao	t u ⁵⁵	t u ⁵⁵
+3557-7	SouthernPao	s ə m ɦ ³¹	s ə m ɦ ³¹
+3581-7	SouthernPao	c ə ŋ ɦ ³¹	c ə ŋ ɦ ³¹
+3594-7	SouthernPao	kʰ e ɦ ³¹	kʰ e ɦ ³¹
+3618-7	SouthernPao	s u ³³	s u ³³
+3654-7	SouthernPao	p l e ⁵³	p l e ⁵³
+3667-7	SouthernPao	t ɛ ʔ ⁴⁵	t ɛ ʔ ⁴⁵
+3680-7	SouthernPao	kʰ l i ʔ ²¹	kʰ l e ʔ ²¹
+3763-7	SouthernPao	p r ɔ ʔ ²¹	p r ɔ ʔ ²¹
+3850-7	SouthernPao	p l a ⁵⁵	p l a ⁵⁵
+3878-7	SouthernPao	tʰ i ɦ ³¹	tʰ i ɦ ³¹
+3903-7	SouthernPao	tʰ ɛ ŋ ɦ ³¹	tʰ ɛ ŋ ɦ ³¹
+3938-7	SouthernPao	c au ³³	c au ³³
+3963-7	SouthernPao	l ai ⁵⁵	l ai ⁵⁵
+3977-7	SouthernPao	m a ɦ ³¹	m a ɦ ³¹
+1464-7	SouthernPao	l i p ⁴⁵	l i p ⁵³
+21-8	WesternBwe	d o ³³	d o ³³
+33-8	WesternBwe	d o ³³	d o ³³
+46-8	WesternBwe	b l ɛ ³³	b l ɛ ³³
+126-8	WesternBwe	θ r ɛ ⁵⁵	θ r ⁵⁵
+114-8	WesternBwe	ɓ a ³³	ɓ a ³³
+149-8	WesternBwe	p l ɛ ¹¹	p l ɛ ³³
+171-8	WesternBwe	tʰ ɛ ⁵⁵	tʰ a ⁵⁵
+191-8	WesternBwe	w ɛ ³³	h w ɛ ³³
+203-8	WesternBwe	n ɪ ³³	n i ⁵⁵
+224-8	WesternBwe	l a ¹¹	l ɛ ¹¹
+275-8	WesternBwe	kʰ ɛ ³³	kʰ a ³³
+302-8	WesternBwe	u ³³	o ⁵⁵
+315-8	WesternBwe	tʰ ɔ ³³	tʰ ɔ ³³
+394-8	WesternBwe	n o ¹¹	n o ¹¹
+431-8	WesternBwe	pʰ a ³³	pʰ a ¹¹
+444-8	WesternBwe	b ə ³³	p ə ³³
+445-8	WesternBwe	n ɛ ³³	n ɛ ³³
+514-8	WesternBwe	θ a ³³	θ i ¹¹
+555-8	WesternBwe	kʰ w i ³³	kʰ w i ³³
+579-8	WesternBwe	ʃ a ⁵⁵	ʃ a ⁵⁵
+603-8	WesternBwe	kʰ ɛ ³³	kʰ a ³³
+737-8	WesternBwe	l u ³³	l u ³³
+763-8	WesternBwe	ʃ w ɛ ³³	ʃ w ɛ ³³
+870-8	WesternBwe	kʰ i ³³	kʰ i ³³
+918-8	WesternBwe	o ⁵⁵	ʔ ³³
+979-8	WesternBwe	l a ³³	l a ¹¹
+1013-8	WesternBwe	m ɛ ³³	m ɛ ³³
+1040-8	WesternBwe	tʰ w i ³³	tʰ w i ³³
+1027-8	WesternBwe	m ɛ ⁵⁵	m ɛ ³³
+1053-8	WesternBwe	l w i ³³	l w ³³
+1065-8	WesternBwe	m a ³³	m a ³³
+1091-8	WesternBwe	m u ³³	m u ¹¹
+1116-8	WesternBwe	ɪ ³³	ɓ ³³
+1129-8	WesternBwe	n ɛ ³³	n ɛ ³³
+1173-8	WesternBwe	ɗ i ³³	ɗ i ³³
+1207-8	WesternBwe	ʃ a ⁵⁵	ʃ a ⁵⁵
+1255-8	WesternBwe	b ɪ ¹¹	p i ¹¹
+1277-8	WesternBwe	d e ¹¹	d ɛ ³³
+1290-8	WesternBwe	ɓ ʊ ³³	ɓ l u ³³
+1301-8	WesternBwe	ʃ ʊ ³³	ʃ u ³³
+1337-8	WesternBwe	m o ³³	m u ³³
+1323-8	WesternBwe	m u ³³	m u ³³
+1350-8	WesternBwe	m ɪ ³³	m i ³³
+1372-8	WesternBwe	j ɛ ¹¹	j ɛ ³³
+1498-8	WesternBwe	ɗ i ³³	ɗ e ³³
+1664-8	WesternBwe	l e ¹¹	l ɪ ³³
+1652-8	WesternBwe	ɔ ³³	ɔ ³³
+1687-8	WesternBwe	θ a ³³	θ a ¹¹
+1708-8	WesternBwe	θ r ɔ ³³	θ r o ³³
+1732-8	WesternBwe	d o ³³	d o ³³
+1742-8	WesternBwe	n o ¹¹	n o ³³
+1755-8	WesternBwe	pʰ l u ⁵⁵	pʰ l u ⁵⁵
+1767-8	WesternBwe	θ r ɪ ³³	θ r ³³
+1786-8	WesternBwe	j ɛ ³³	j ɛ ³³
+1803-8	WesternBwe	w ɛ ³³	g w ¹¹
+1815-8	WesternBwe	ʃ ɛ ⁵⁵	ʃ ɛ ⁵⁵
+1840-8	WesternBwe	b w i ¹¹	b w e ³³
+1853-8	WesternBwe	tʰ a ³³	tʰ a ¹¹
+1866-8	WesternBwe	θ a ³³	θ a ¹¹
+1894-8	WesternBwe	l ɛ ³³	l ɛ ³³
+1934-8	WesternBwe	c ɪ ³³	c e ³³
+1947-8	WesternBwe	kʰ a ³³	kʰ a ³³
+1993-8	WesternBwe	pʰ w i ⁵⁵	pʰ w i ⁵⁵
+2059-8	WesternBwe	ɔ ³³	ɔ ³³
+2098-8	WesternBwe	j ɪ ¹¹	j i ¹¹
+2086-8	WesternBwe	tʰ o ⁵⁵	tʰ o ⁵⁵
+2153-8	WesternBwe	θ o ¹¹	θ u ³³
+2180-8	WesternBwe	l o ³³	l o ³³
+2205-8	WesternBwe	kʰ w o ⁵⁵	kʰ w o ⁵⁵
+2328-8	WesternBwe	l ɛ ⁵⁵	l ɛ ⁵⁵
+2349-8	WesternBwe	j u ³³	j u ³³
+2372-8	WesternBwe	m i ³³	m i ³³
+2388-8	WesternBwe	m i ³³	m i ³³
+2413-8	WesternBwe	ɗ i ⁵⁵	ɗ e ³³
+2637-8	WesternBwe	p l o ³³	p l o ³³
+2649-8	WesternBwe	c u ⁵⁵	c u ⁵⁵
+2693-8	WesternBwe	b o ⁵⁵	b o ³³
+2755-8	WesternBwe	θ ɔ ³³	θ ɔ ³³
+2858-8	WesternBwe	m i ⁵⁵	m i ⁵⁵
+2953-8	WesternBwe	ʃ ɛ ⁵⁵	ʃ ɛ ⁵⁵
+2986-8	WesternBwe	ʃ a ³³	ʃ a ¹¹
+3034-8	WesternBwe	kʰ ɛ ³³	kʰ a ¹¹
+3088-8	WesternBwe	b l i ¹¹	b l ɛ ³³
+3113-8	WesternBwe	p l i ⁵⁵	p l i ⁵⁵
+3154-8	WesternBwe	ʀ u ³³	w u ³³
+3179-8	WesternBwe	ʃ a ³³	ʃ a ³³
+3246-8	WesternBwe	ɗ ɛ ⁵⁵	ɗ ɛ ⁵⁵
+3259-8	WesternBwe	c i ³³	j i ³³
+3282-8	WesternBwe	tʰ o ³³	tʰ o ³³
+3295-8	WesternBwe	ʃ ɛ ³³	ʃ ɛ ³³
+3338-8	WesternBwe	l o ³³	l o ³³
+3351-8	WesternBwe	b l i ³³	b l i ³³
+3375-8	WesternBwe	m u ³³	m u ³³
+3410-8	WesternBwe	j ɔ ³³	j ɔ ¹¹
+3423-8	WesternBwe	m e ³³	m i ³³
+3445-8	WesternBwe	ʃ i ⁵⁵	ʃ i ⁵⁵
+3485-8	WesternBwe	b ə ³³	b i ³³
+3500-8	WesternBwe	p l o ³³	p l o ³³
+3545-8	WesternBwe	d u ³³	d o ³³
+3557-8	WesternBwe	θ o ⁵⁵	θ o ⁵⁵
+3581-8	WesternBwe	c o ⁵⁵	c ə ⁵⁵
+3594-8	WesternBwe	kʰ i ⁵⁵	kʰ e ⁵⁵
+3618-8	WesternBwe	θ u ³³	θ u ³³
+3654-8	WesternBwe	b l i ¹¹	b l i ³³
+3667-8	WesternBwe	d ɛ ³³	d ɛ ³³
+3680-8	WesternBwe	kʰ l i ³³	kʰ l i ³³
+3763-8	WesternBwe	p ɔ ³³	p r ɔ ³³
+3850-8	WesternBwe	b l ɛ ³³	b l ɛ ³³
+3878-8	WesternBwe	tʰ i ⁵⁵	tʰ i ⁵⁵
+3903-8	WesternBwe	tʰ e ⁵⁵	tʰ ɛ ⁵⁵
+3938-8	WesternBwe	c ɔ ³³	c o ³³
+3963-8	WesternBwe	l ɛ ³³	l ɛ ³³
+3977-8	WesternBwe	m ɛ ⁵⁵	m ɛ ⁵⁵
+1464-8	WesternBwe	l u ⁵⁵	l w i ³³

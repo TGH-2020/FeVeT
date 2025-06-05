@@ -1,0 +1,2 @@
+Proportion	ED	NED	B3_F1
+0.8	2.6774	0.5794	0.5424

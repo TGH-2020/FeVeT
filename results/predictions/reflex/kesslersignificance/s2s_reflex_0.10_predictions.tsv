@@ -1,0 +1,100 @@
+COGID	LANGUAGE	GOLD	PREDICTION
+560-1	Albanian	v j e n	v j n
+438-1	Albanian	v e ʃ	uː r t
+1222-1	Albanian	v e z	t
+353-1	Albanian	p e ʃ k	p i ʃ t ə
+201-1	Albanian	p e s ə	k i n k
+20-1	Albanian	k a t ə r	k e r t ə r
+503-1	Albanian	p l o t	p l e n
+957-1	Albanian	n ə	i n
+728-1	Albanian	ɟ a t	l o ŋ g
+244-1	Albanian	e m ə r	n o m
+289-1	Albanian	n a t	n o ʃ
+911-1	Albanian	rː ə ɲ	r a r t ə r
+724-1	Albanian	t r e	t r e t o
+145-1	Albanian	d y	d ə
+992-1	Albanian	k	k u
+1181-1	Albanian	c e n	c ə n
+741-1	Albanian	p a k	p o
+560-2	English	k ə m	f j m
+438-2	English	ɪ r	r r
+1222-2	English	ɛ g	ai s o
+353-2	English	f ɪ ʃ	f ɑ ʃ
+201-2	English	f ai v	f ɪ n p
+20-2	English	f ɔ r	f ɪ t
+503-2	English	f ʊ l	f l ɑ n
+957-2	English	ɪ n	i ə n
+728-2	English	l ɔ ŋ	l a ŋ
+244-2	English	n e m	n i m
+289-2	English	n ai t	n o t
+911-2	English	r u t	r ə r t ə l
+724-2	English	θ r i	θ r ɑ
+145-2	English	t u	t w ai
+992-2	English	h u	w ɑ
+706-2	English	ai	au
+106-2	English	f ɑ ð ə r	f ɛ d ə r
+741-2	English	f j u	p o k
+421-2	English	f l au ə r	b l o m
+227-2	English	f ʊ t	f ɑ t
+560-3	French	v j ɛ̃	v j ɑ̃
+438-3	French	ɔ r ɛ j	ɔ r
+1222-3	French	œ f	v r
+353-3	French	p w a s ɔ̃	p w s
+201-3	French	s ɛ̃ k	p y n
+20-3	French	k a t r	k u r e
+503-3	French	p l ɛ n	p l ɛ
+957-3	French	d ɑ̃	ɛ̃
+728-3	French	l ɔ̃ g	l ɔ̃ ŋ
+244-3	French	n ɔ̃	n oː m i n
+289-3	French	n ɥ i	n u
+911-3	French	r a s i n	r ɑ̃ ʒ
+724-3	French	t r w a	t r ɛ
+145-3	French	d ø	d u
+992-3	French	k i	k u
+1181-3	French	ʃ j ɛ n	s ɑ̃ n
+706-3	French	œ j	ʒ
+106-3	French	p ɛ r	p a r
+741-3	French	p ø	p j k
+421-3	French	f l œ r	f l ø m r r
+227-3	French	p j e	p u
+560-4	German	k o m	k u m
+438-4	German	oː r	ai r
+1222-4	German	ai	oi g z
+353-4	German	f i ʃ	f i ʃ
+201-4	German	f y n f	f oi k
+20-4	German	f iː r	f a r ts
+503-4	German	f o l	f l aː n
+957-4	German	i n	e n
+728-4	German	l a ŋ	l o ŋ
+244-4	German	n aː m ə n	n u m
+289-4	German	n a x t	n i s
+911-4	German	v u r ts ə l	r aː s t
+724-4	German	d r ai	d r i
+145-4	German	ts v ai	ts uː
+992-4	German	v eː	h au
+1181-4	German	h u n d	h i n
+706-4	German	au g ə	ai x
+106-4	German	f aː t ə r	f a r ə r
+421-4	German	b l uː m	f l u r ə
+227-4	German	f uː s	f u ts
+560-5	Latin	w e n iː	w e m i
+438-5	Latin	au r i	a r e
+1222-5	Latin	oː w o	o s o
+353-5	Latin	p i s k i	p e ʃ
+201-5	Latin	kʷ iː n kʷ e	p e t k
+20-5	Latin	kʷ a tː u o r	p r e r
+503-5	Latin	p l eː n o	p l o
+957-5	Latin	i n	n n i
+728-5	Latin	l o n g o	l o n gʷ a
+244-5	Latin	n oː m i n	n o m i
+289-5	Latin	n o k t	n uː n e
+911-5	Latin	r aː d iː k	r a g uː
+724-5	Latin	t r i	t r o
+145-5	Latin	d u o	d uː
+992-5	Latin	kʷ o	k iː d
+1181-5	Latin	k a n i	k oː n i
+706-5	Latin	o k u l o	o g o
+106-5	Latin	p a t r	p e nː a r
+741-5	Latin	p au k o	p o k u
+421-5	Latin	f l oː s	p l o m o r
+227-5	Latin	p e d	p u t i

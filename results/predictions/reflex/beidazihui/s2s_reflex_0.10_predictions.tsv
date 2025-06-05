@@ -1,0 +1,989 @@
+COGID	LANGUAGE	GOLD	PREDICTION
+2-1	Beijing	i ⁵⁵	i ⁵⁵
+4-1	Beijing	tɕʰ i ⁵⁵	tɕʰ i ⁵⁵
+5-1	Beijing	ʈʂ a ŋ ⁵¹	ʈʂ a ŋ ⁵¹
+6-1	Beijing	s a n ⁵⁵	s a n ⁵⁵
+7-1	Beijing	ʂ a ŋ ⁵¹	ʂ a ŋ ⁵¹
+8-1	Beijing	ɕ j a ⁵¹	ɕ j a ⁵¹
+9-1	Beijing	p u ⁵¹	p u ⁵¹
+17-1	Beijing	ʈʂ u ŋ ⁵⁵	ʈʂ u ŋ ⁵⁵
+31-1	Beijing	tɕ j ou ²¹⁴	tɕ j ou ²¹⁴
+32-1	Beijing	j e ²¹⁴	j e ²¹⁴
+33-1	Beijing	ʐ u ²¹⁴	ʐ u ²¹⁴
+38-1	Beijing	ə ⁵¹	ə ⁵¹
+40-1	Beijing	y n ³⁵	y n ³⁵
+42-1	Beijing	u ²¹⁴	u ²¹⁴
+43-1	Beijing	tɕ i ŋ ²¹⁴	tɕ i ŋ ²¹⁴
+46-1	Beijing	w a ŋ ³⁵	w a ŋ ³⁵
+52-1	Beijing	l j a ŋ ⁵¹	l j a ŋ ⁵¹
+53-1	Beijing	ʐ ə n ³⁵	ʐ ə n ³⁵
+56-1	Beijing	tɕ i n ⁵⁵	tɕ i n ⁵⁵
+59-1	Beijing	tʰ a ⁵⁵	tʰ a ⁵⁵
+60-1	Beijing	ʈʂ a ŋ ⁵¹	ʈʂ a ŋ ⁵¹
+64-1	Beijing	l i ŋ ⁵¹	l i ŋ ⁵¹
+68-1	Beijing	tɕ j a n ⁵¹	tɕ j a n ⁵¹
+85-1	Beijing	w ei ⁵¹	w ei ⁵¹
+86-1	Beijing	t i ⁵⁵	t i ⁵⁵
+87-1	Beijing	ʈʂ u ⁵¹	ʈʂ u ⁵¹
+93-1	Beijing	n i ²¹⁴	n i ²¹⁴
+98-1	Beijing	l ai ³⁵	l ai ³⁵
+109-1	Beijing	ɕ i n ⁵¹	ɕ i n ⁵¹
+115-1	Beijing	t au ²¹⁴	t au ²¹⁴
+118-1	Beijing	tɕ j e ⁵¹	tɕ j e ⁵¹
+124-1	Beijing	tɕ j a ²¹⁴	tɕ j a ²¹⁴
+127-1	Beijing	ts w o ⁵¹	ts u ⁵¹
+133-1	Beijing	tʰ ou ⁵⁵	tʰ ou ⁵⁵
+144-1	Beijing	ʂ a ²¹⁴	ʂ a ²¹⁴
+161-1	Beijing	ɕ y ŋ ⁵⁵	ɕ y ŋ ⁵⁵
+166-1	Beijing	k w a ŋ ⁵⁵	k w a ŋ ⁵⁵
+170-1	Beijing	ə ³⁵	ə ³⁵
+171-1	Beijing	tʰ u ⁵¹	tʰ u ⁵¹
+173-1	Beijing	ʐ u ⁵¹	ʐ u ⁵¹
+174-1	Beijing	n ei ⁵¹	n ei ⁵¹
+175-1	Beijing	tɕʰ ɥ a n ³⁵	tɕʰ ɥ a n ³⁵
+176-1	Beijing	l j a ŋ ²¹⁴	l j a ŋ ²¹⁴
+177-1	Beijing	p a ⁵⁵	p a ⁵¹
+179-1	Beijing	l j ou ⁵¹	l j ou ⁵¹
+181-1	Beijing	p i ŋ ⁵⁵	p i ŋ ⁵⁵
+182-1	Beijing	tɕʰ i ³⁵	tɕʰ i ³⁵
+189-1	Beijing	k w a n ⁵⁵	k w a n ⁵⁵
+191-1	Beijing	t u ŋ ⁵⁵	t u ŋ ⁵⁵
+193-1	Beijing	l ə ŋ ²¹⁴	l ə ŋ ²¹⁴
+198-1	Beijing	t ə ŋ ⁵¹	t ə ŋ ⁵¹
+199-1	Beijing	ɕ y ŋ ⁵⁵	ɕ y ŋ ⁵⁵
+2-2	Changsha	i ²⁴	i ²⁴
+4-2	Changsha	tsʰ i ²⁴	tsʰ i ²⁴
+5-2	Changsha	ʈʂ a n ⁵⁵	ʈʂ a n ⁵⁵
+6-2	Changsha	s a n ³³	s a n ³³
+7-2	Changsha	ʂ a n ⁵⁵	ʂ a n ⁵⁵
+8-2	Changsha	j a ²¹	ɕ j ⁵⁵
+9-2	Changsha	p u ²⁴	p u ²⁴
+17-2	Changsha	ʈʂ o ŋ ³³	ʈʂ o ŋ ³³
+31-2	Changsha	t ɤu ⁴¹	tɕ j ɤu ⁴¹
+32-2	Changsha	j e ⁴¹	j e ⁴¹
+33-2	Changsha	y ⁴¹	z u ⁴¹
+38-2	Changsha	ɤ ²¹	ɤ ⁵⁵
+40-2	Changsha	y n ¹³	y n ¹³
+42-2	Changsha	u ⁴¹	u ⁴¹
+43-2	Changsha	ts i n ⁴¹	ts i n ⁴¹
+46-2	Changsha	w a n ¹³	w a n ¹³
+52-2	Changsha	n j a n ⁵⁵	n j a n ⁵⁵
+53-2	Changsha	ʐ ə n ¹³	ʐ ə n ¹³
+56-2	Changsha	tɕ i n ³³	tɕ i n ³³
+59-2	Changsha	tʰ a ³³	tʰ a ³³
+60-2	Changsha	ʈʂ a n ⁵⁵	ʈʂ a n ⁵⁵
+64-2	Changsha	n i n ²¹	n i n ⁵⁵
+68-2	Changsha	tɕ ieː ²¹	tɕ ieː ⁵⁵
+85-2	Changsha	w ei ⁵⁵	w ei ⁵⁵
+86-2	Changsha	t i ³³	t i ³³
+87-2	Changsha	tɕ y ⁵⁵	ʈʂ y ²¹
+93-2	Changsha	n i ⁴¹	ɲ i ⁴¹
+98-2	Changsha	n ai ¹³	n ai ¹³
+109-2	Changsha	s i n ⁵⁵	s i n ⁵⁵
+115-2	Changsha	t au ⁴¹	t au ⁴¹
+118-2	Changsha	ts j e ⁵⁵	ts j e ⁵⁵
+124-2	Changsha	tɕ j a ⁴¹	tɕ j a ⁴¹
+127-2	Changsha	ts ɤu ⁵⁵	ts o ⁵⁵
+133-2	Changsha	tʰ ɤu ³³	tʰ ɤu ³³
+144-2	Changsha	s a ⁴¹	ʂ a ⁴¹
+161-2	Changsha	ɕ j o ŋ ³³	ɕ ɥ o ŋ ³³
+166-2	Changsha	k w a n ³³	k w a n ³³
+170-2	Changsha	ɤ ¹³	ɤ ¹³
+171-2	Changsha	tʰ ɤu ⁵⁵	tʰ ɤu ⁵⁵
+173-2	Changsha	y ²⁴	z ɤ ²⁴
+174-2	Changsha	n ei ²¹	n ei ⁵⁵
+175-2	Changsha	ts ieː ¹³	ts yeː ¹³
+176-2	Changsha	n j a n ⁴¹	l j a n ⁴¹
+177-2	Changsha	p a ²⁴	p a ²⁴
+179-2	Changsha	n ou ²⁴	n ɤu ɤu ²⁴
+181-2	Changsha	p i n ³³	p i n ³³
+182-2	Changsha	tɕ i ¹³	tɕ i ¹³
+189-2	Changsha	k oː ³³	k oː ³³
+191-2	Changsha	t o ŋ ³³	t o ŋ ³³
+193-2	Changsha	n ə n ⁴¹	n ə n ⁴¹
+198-2	Changsha	t ə n ⁵⁵	t ə n ⁵⁵
+199-2	Changsha	ɕ j o ŋ ³³	ɕ ɥ o ŋ ³³
+2-3	Chaozhou	i k ²¹	i k ²¹
+4-3	Chaozhou	tsʰ i k ²¹	tsʰ i k ²¹
+5-3	Chaozhou	ts j a ŋ ³⁵	t ieː a ŋ ³⁵
+6-3	Chaozhou	s aː	s a ³³
+7-3	Chaozhou	ts ieː ³⁵	s ieː a ŋ ³⁵
+8-3	Chaozhou	e ³⁵	a ³⁵
+9-3	Chaozhou	p u k ²¹	p u k ²¹
+17-3	Chaozhou	t o ŋ ³³	t e ŋ ³³
+31-3	Chaozhou	k au ⁵³	k j u ⁵³
+32-3	Chaozhou	j a ¹¹	j ⁵³
+33-3	Chaozhou	z u ⁵³	z u ³⁵
+38-3	Chaozhou	z i ¹¹	z i ³⁵
+40-3	Chaozhou	h u ŋ ⁵⁵	uaː ə ŋ ⁵⁵
+42-3	Chaozhou	ŋ ou ³⁵	g ou ⁵³
+43-3	Chaozhou	ts eː ⁵³	ts e ŋ ⁵³
+46-3	Chaozhou	b w a ŋ ⁵⁵	b a ŋ ⁵⁵
+52-3	Chaozhou	l j a ŋ ³⁵	l ieː a ŋ ³⁵
+53-3	Chaozhou	n a ŋ ⁵⁵	j i ŋ ⁵⁵
+56-3	Chaozhou	k i m ³³	k i m ³³
+59-3	Chaozhou	tʰ a ³³	tʰ a ³³
+60-3	Chaozhou	ts j a ŋ ³⁵	t ieː a ŋ ³⁵
+64-3	Chaozhou	l e ŋ ³⁵	l i ŋ ³⁵
+68-3	Chaozhou	k iaː ³⁵	k ieː ³⁵
+85-3	Chaozhou	w i ¹¹	w i ³⁵
+86-3	Chaozhou	t i ³³	t i ³³
+87-3	Chaozhou	ts u ³⁵	ts u ³⁵
+93-3	Chaozhou	l ɯ ⁵³	n i ⁵³
+98-3	Chaozhou	l ai ⁵⁵	l ai ⁵⁵
+109-3	Chaozhou	s i ŋ ²¹³	s i ŋ ²¹³
+115-3	Chaozhou	t o ⁵³	t o ⁵³
+118-3	Chaozhou	ts j e ʔ ²¹	ts j e ¹¹ ²¹
+124-3	Chaozhou	k e ⁵³	k a ⁵³
+127-3	Chaozhou	ts o ²¹³	ts w ³⁵
+133-3	Chaozhou	tʰ au ³³	tʰ au ³³
+144-3	Chaozhou	s a ³⁵	s a ⁵³
+161-3	Chaozhou	h iaː ³³	h i ŋ ³³
+166-3	Chaozhou	k w a ŋ ³³	k w e ŋ ³³
+170-3	Chaozhou	z i ⁵⁵	j i ⁵⁵
+171-3	Chaozhou	tʰ ou ²¹³	tʰ ou ²¹³
+173-3	Chaozhou	z i p ⁴	z i p ⁴
+174-3	Chaozhou	l ai ³⁵	n w e ¹¹
+175-3	Chaozhou	tsʰ w e ŋ ⁵⁵	ts w e ŋ ⁵⁵
+176-3	Chaozhou	l j a ŋ ⁵³	l ieː a ŋ ⁵³
+177-3	Chaozhou	p oi ʔ ²¹	p a ʔ ²¹
+179-3	Chaozhou	l a k ⁴	l j k k ⁴
+181-3	Chaozhou	p iaː ³³	p e ŋ ³³
+182-3	Chaozhou	kʰ i ⁵⁵	k i ⁵⁵
+189-3	Chaozhou	k w e ŋ ³³	k w e ŋ ³³
+191-3	Chaozhou	t a ŋ ³³	t a ŋ ³³
+193-3	Chaozhou	n e ⁵³	l e ŋ ⁵³
+198-3	Chaozhou	t e ŋ ²¹³	t e ŋ ²¹³
+199-3	Chaozhou	h j o ŋ ³³	h ieː ŋ ³³
+2-4	Chengdu	i ³¹	i ³¹
+4-4	Chengdu	tɕʰ i ³¹	tɕʰ i ³¹
+5-4	Chengdu	ts a ŋ ¹³	ts a ŋ ¹³
+6-4	Chengdu	s a n ⁴⁴	s a n ⁴⁴
+7-4	Chengdu	s a ŋ ¹³	s a ŋ ¹³
+8-4	Chengdu	ɕ j a ¹³	ɕ j a ¹³
+9-4	Chengdu	p u ³¹	p u ³¹
+17-4	Chengdu	ts o ŋ ⁴⁴	ts o ŋ ⁴⁴
+31-4	Chengdu	tɕ j əu ⁵³	tɕ j əu ⁵³
+32-4	Chengdu	j e ⁵³	j e ⁵³
+33-4	Chengdu	z u ⁵³	z u ⁵³
+38-4	Chengdu	ə ¹³	ə ¹³
+40-4	Chengdu	y n ³¹	y ə n ³¹
+42-4	Chengdu	v u ⁵³	v u ⁵³
+43-4	Chengdu	tɕ i n ⁵³	tɕ i n ⁵³
+46-4	Chengdu	w a ŋ ³¹	w a ŋ ³¹
+52-4	Chengdu	n j a ŋ ¹³	n j a ŋ ¹³
+53-4	Chengdu	z ə n ³¹	z ə n ³¹
+56-4	Chengdu	tɕ i n ⁴⁴	tɕ i n ⁴⁴
+59-4	Chengdu	tʰ a ⁴⁴	tʰ a ⁴⁴
+60-4	Chengdu	ts a ŋ ¹³	ts a ŋ ¹³
+64-4	Chengdu	n i n ¹³	n i n ¹³
+68-4	Chengdu	tɕ j a n ¹³	tɕ j a n ¹³
+85-4	Chengdu	w ei ¹³	w ei ¹³
+86-4	Chengdu	t i ⁴⁴	t i ⁴⁴
+87-4	Chengdu	ts u ¹³	ts u ¹³
+93-4	Chengdu	ɲ i ⁵³	n i ⁵³
+98-4	Chengdu	n ai ³¹	n ai ³¹
+109-4	Chengdu	ɕ i n ¹³	ɕ i n ¹³
+115-4	Chengdu	t au ⁵³	t au ⁵³
+118-4	Chengdu	tɕ j e ¹³	tɕ j e ¹³
+124-4	Chengdu	tɕ j a ⁵³	tɕ j a ⁵³
+127-4	Chengdu	ts u ¹³	ts o ¹³
+133-4	Chengdu	tʰ əu ⁴⁴	tʰ əu ⁴⁴
+144-4	Chengdu	s a ⁵³	s a ⁵³
+161-4	Chengdu	ɕ ɥ o ŋ ⁴⁴	ɕ ɥ o ŋ ⁴⁴
+166-4	Chengdu	k w a ŋ ⁴⁴	k w a ŋ ⁴⁴
+170-4	Chengdu	ə ³¹	ə ³¹
+171-4	Chengdu	tʰ u ¹³	tʰ u ¹³
+173-4	Chengdu	z u ³¹	z u ³¹
+174-4	Chengdu	n w ei ¹³	n w ei ¹³
+175-4	Chengdu	tɕʰ ɥ a n ³¹	tɕʰ ɥ a n ³¹
+176-4	Chengdu	n j a ŋ ⁵³	n j a ŋ ⁵³
+177-4	Chengdu	p a ³¹	p a ³¹
+179-4	Chengdu	n j əu ³¹	n j əu ³¹
+181-4	Chengdu	p i n ⁴⁴	p i n ⁴⁴
+182-4	Chengdu	tɕʰ i ³¹	tɕʰ i ³¹
+189-4	Chengdu	k w a n ⁴⁴	k w a n ⁴⁴
+191-4	Chengdu	t o ŋ ⁴⁴	t o ŋ ⁴⁴
+193-4	Chengdu	n ə n ⁵³	n ə n ⁵³
+198-4	Chengdu	t ə n ¹³	t ə n ¹³
+199-4	Chengdu	ɕ ɥ o ŋ ⁴⁴	ɕ ɥ o ŋ ⁴⁴
+2-5	Fuzhou	ei ʔ ²³	i ʔ ²³
+4-5	Fuzhou	tsʰ ei ʔ ²³	tsʰ ei ʔ ²³
+5-5	Fuzhou	t w ɔ ŋ ²⁴²	t y ɔ ŋ ²⁴²
+6-5	Fuzhou	s a ŋ ⁴⁴	s a ŋ ⁴⁴
+7-5	Fuzhou	s w ɔ ŋ ²⁴²	s ɥ ɔ ŋ ²⁴²
+8-5	Fuzhou	a ²⁴²	x a ²⁴²
+9-5	Fuzhou	p ou ʔ ²³	p w ʔ ²³
+17-5	Fuzhou	t y ŋ ⁴⁴	t y ŋ ⁴⁴
+31-5	Fuzhou	k j eu ³¹	k j eu ³¹
+32-5	Fuzhou	j a ³¹	j ³¹
+33-5	Fuzhou	y ³¹	y y ³¹
+38-5	Fuzhou	n ei ²⁴²	ŋ i ²⁴²
+40-5	Fuzhou	x u ŋ ⁵²	y ɔ ŋ ⁵²
+42-5	Fuzhou	u ³¹	ŋ u ³¹
+43-5	Fuzhou	ts i ŋ ³¹	ts i ŋ ³¹
+46-5	Fuzhou	w ɔ ŋ ⁵²	w ou ŋ ⁵²
+52-5	Fuzhou	l w ɔ ŋ ²⁴²	l ɥ ɔ ŋ ²⁴²
+53-5	Fuzhou	i ŋ ⁵²	n i ŋ ⁵²
+56-5	Fuzhou	k i ŋ ⁴⁴	k i ŋ ⁴⁴
+59-5	Fuzhou	tʰ a ⁴⁴	tʰ a ⁴⁴
+60-5	Fuzhou	t w ɔ ŋ ²⁴²	t y ɔ ŋ ²⁴²
+64-5	Fuzhou	l ei ŋ ²⁴²	l i ŋ ²⁴²
+68-5	Fuzhou	ɥ ɔ ŋ ²⁴²	k i ŋ ²⁴²
+85-5	Fuzhou	w ei ²⁴²	w ei ²⁴²
+86-5	Fuzhou	t i ⁴⁴	t ɛ ⁴⁴
+87-5	Fuzhou	ts øy ²⁴²	ts y ²⁴²
+93-5	Fuzhou	l i ³¹	n i ³¹
+98-5	Fuzhou	l ai ⁵²	l ai ⁵²
+109-5	Fuzhou	s ei ŋ ²¹³	s i ŋ ²¹³
+115-5	Fuzhou	t ɔ ³¹	t ɔ ³¹
+118-5	Fuzhou	ts w ɔ ʔ ²³	ts j a ²¹³
+124-5	Fuzhou	k a ³¹	k a ³¹
+127-5	Fuzhou	ts ɔ ²¹³	ts u ²⁴²
+133-5	Fuzhou	tʰ eu ⁴⁴	tʰ au ⁴⁴
+144-5	Fuzhou	s a ⁴⁴	s a ³¹
+161-5	Fuzhou	x i ŋ ⁴⁴	x y ŋ ⁴⁴
+166-5	Fuzhou	k w ɔ ŋ ⁴⁴	k w ɔ ŋ ⁴⁴
+170-5	Fuzhou	i ⁵²	ɔ i ⁵²
+171-5	Fuzhou	tʰ ou ²¹³	tʰ u ²¹³
+173-5	Fuzhou	i ʔ ⁴	y i ʔ ⁴
+174-5	Fuzhou	n ɵy ²⁴²	n w ei ²⁴²
+175-5	Fuzhou	ts w ɔ ŋ ⁵²	tsʰ w a ŋ ⁵²
+176-5	Fuzhou	l w ɔ ŋ ³¹	l ɥ ɔ ŋ ³¹
+177-5	Fuzhou	p ai ʔ ²³	p a ʔ ²³
+179-5	Fuzhou	l øy ʔ ⁴	l j ʔ ⁴
+181-5	Fuzhou	p i ŋ ⁴⁴	p i ŋ ⁴⁴
+182-5	Fuzhou	k i ⁵²	k i ⁵²
+189-5	Fuzhou	k w a ŋ ⁴⁴	k w ɔ ŋ ⁴⁴
+191-5	Fuzhou	t u ŋ ⁴⁴	t u ŋ ⁴⁴
+193-5	Fuzhou	l ei ŋ ³¹	l ei ŋ ³¹
+198-5	Fuzhou	t ai ŋ ²¹³	t ei ŋ ²¹³
+199-5	Fuzhou	x y ŋ ⁴⁴	x y ɔ ŋ ⁴⁴
+2-6	Guangzhou	j a t ⁵	j i t ³
+4-6	Guangzhou	tʃʰ a t ⁵	tʃʰ i t ³
+5-6	Guangzhou	tʃ œ ŋ ²²	tʃ œ ŋ ²²
+6-6	Guangzhou	ʃ aː m ⁵⁵	ʃ aː m ⁵⁵
+7-6	Guangzhou	ʃ œ ŋ ²³	ʃ œ ŋ ²²
+8-6	Guangzhou	h a ²³	j a ²³
+9-6	Guangzhou	p a t ⁵	p u t ³
+17-6	Guangzhou	tʃ u ŋ ⁵⁵	tʃ u ŋ ⁵⁵
+31-6	Guangzhou	k au ³⁵	k au ³⁵
+32-6	Guangzhou	j a ²³	j ɛ ³⁵
+33-6	Guangzhou	j y ²³	j y ²³
+38-6	Guangzhou	j i ²²	j i ²²
+40-6	Guangzhou	w a n ²¹	j u n ²¹
+42-6	Guangzhou	ŋ ²³	ŋ ²³
+43-6	Guangzhou	tʃ ɪ ŋ ³⁵	tʃ ɪ ŋ ³⁵
+46-6	Guangzhou	m ɔ ŋ ²¹	m ɔ ŋ ²¹
+52-6	Guangzhou	l œ ŋ ²²	l œ ŋ ²²
+53-6	Guangzhou	j a n ²¹	j a n ²¹
+56-6	Guangzhou	k a m ⁵⁵	k i m ⁵⁵
+59-6	Guangzhou	tʰ a ⁵⁵	tʰ a ⁵⁵
+60-6	Guangzhou	tʃ œ ŋ ²²	tʃ œ ŋ ²²
+64-6	Guangzhou	l ɪ ŋ ²²	l ɪ ŋ ²²
+68-6	Guangzhou	k i n ²²	k i n ²²
+85-6	Guangzhou	w ai ²²	w ai ²²
+86-6	Guangzhou	t ai ⁵⁵	t ai ⁵⁵
+87-6	Guangzhou	tʃ y ²²	tʃ œy ²²
+93-6	Guangzhou	n ei ²³	n ei ³⁵
+98-6	Guangzhou	l ɔi ²¹	l ɔi ²¹
+109-6	Guangzhou	ʃ œ n ³³	ʃ i n ³³
+115-6	Guangzhou	t ou ³³	t ou ³⁵
+118-6	Guangzhou	tʃ ɛ ³³	tʃ j ³³
+124-6	Guangzhou	k a ³⁵	k a ³⁵
+127-6	Guangzhou	tʃ ou ²²	tʃ ɔ ³³
+133-6	Guangzhou	tʰ au ⁵⁵	tʰ au ⁵⁵
+144-6	Guangzhou	ʃ ɔ ²¹	ʃ a ³⁵
+161-6	Guangzhou	h ɪ ŋ ⁵⁵	h a ŋ ⁵⁵
+166-6	Guangzhou	k w ɔ ŋ ⁵⁵	k w ɔ ŋ ⁵⁵
+170-6	Guangzhou	j i ²¹	j i ²¹
+171-6	Guangzhou	tʰ ou ³³	tʰ ou ³³
+173-6	Guangzhou	j a p ²	j a p ²
+174-6	Guangzhou	n ɔi ²²	n œy ²²
+175-6	Guangzhou	tʃʰ y n ²¹	tʃʰ y n ²¹
+176-6	Guangzhou	l œ ŋ ²³	l œ ŋ ²³
+177-6	Guangzhou	p aː t ³	p a t ³
+179-6	Guangzhou	l u k ²	l u k ²
+181-6	Guangzhou	p ɪ ŋ ⁵⁵	p ɪ ŋ ⁵⁵
+182-6	Guangzhou	kʰ ei ²¹	kʰ ei ²¹
+189-6	Guangzhou	k u n ⁵⁵	k y n ⁵⁵
+191-6	Guangzhou	t u ŋ ⁵⁵	t u ŋ ⁵⁵
+193-6	Guangzhou	l aː ŋ ²³	l a ŋ ²³
+198-6	Guangzhou	t a ŋ ³³	t a ŋ ³³
+199-6	Guangzhou	h u ŋ ⁵⁵	h u ŋ ⁵⁵
+2-7	Hankou	i ²¹³	i ²¹³
+4-7	Hankou	tɕʰ i ²¹³	tɕʰ i ²¹³
+5-7	Hankou	ts a ŋ ³⁵	ts a ŋ ³⁵
+6-7	Hankou	s a n ⁵⁵	s a n ⁵⁵
+7-7	Hankou	s a ŋ ³⁵	s a ŋ ³⁵
+8-7	Hankou	ɕ j a ³⁵	ɕ j a ³⁵
+9-7	Hankou	p u ²¹³	p u ²¹³
+17-7	Hankou	ts o ŋ ⁵⁵	ts o ŋ ⁵⁵
+31-7	Hankou	tɕ j ou ⁴²	tɕ j ou ⁴²
+32-7	Hankou	j e ⁴²	j e ⁴²
+33-7	Hankou	y ⁴²	z u ⁴²
+38-7	Hankou	ɯ ³⁵	ə ³⁵
+40-7	Hankou	y n ²¹³	y n ²¹³
+42-7	Hankou	u ⁴²	u ⁴²
+43-7	Hankou	tɕ i n ⁴²	tɕ i n ⁴²
+46-7	Hankou	w a ŋ ²¹³	w a ŋ ²¹³
+52-7	Hankou	n j a ŋ ³⁵	n j a ŋ ³⁵
+53-7	Hankou	n ə n ²¹³	n ə n ²¹³
+56-7	Hankou	tɕ i n ⁵⁵	tɕ i n ⁵⁵
+59-7	Hankou	tʰ a ⁵⁵	tʰ a ⁵⁵
+60-7	Hankou	ts a ŋ ³⁵	ts a ŋ ³⁵
+64-7	Hankou	n i n ³⁵	n i n ³⁵
+68-7	Hankou	tɕ j a n ³⁵	tɕ j a n ³⁵
+85-7	Hankou	w ei ³⁵	w ei ³⁵
+86-7	Hankou	t i ⁵⁵	t i ⁵⁵
+87-7	Hankou	tɕ y ³⁵	tɕ u ³⁵
+93-7	Hankou	n i ⁴²	n i ⁴²
+98-7	Hankou	n ai ²¹³	n ai ²¹³
+109-7	Hankou	ɕ i n ³⁵	ɕ i n ³⁵
+115-7	Hankou	t au ⁴²	t au ⁴²
+118-7	Hankou	tɕ j e ³⁵	tɕ j e ³⁵
+124-7	Hankou	tɕ j a ⁴²	tɕ j a ⁴²
+127-7	Hankou	ts o ³⁵	ts ou ³⁵
+133-7	Hankou	tʰ ou ⁵⁵	tʰ ou ⁵⁵
+144-7	Hankou	s a ⁴²	s a ⁴²
+161-7	Hankou	ɕ j o ŋ ⁵⁵	ɕ j o ŋ ⁵⁵
+166-7	Hankou	k w a ŋ ⁵⁵	k w a ŋ ⁵⁵
+170-7	Hankou	ɯ ²¹³	ə ²¹³
+171-7	Hankou	tʰ ou ³⁵	tʰ ou ³⁵
+173-7	Hankou	y ²¹³	z u ²¹³
+174-7	Hankou	n ei ³⁵	n ei ³⁵
+175-7	Hankou	tɕʰ ɥ a n ²¹³	tɕʰ ɥ a n ²¹³
+176-7	Hankou	n j a ŋ ⁴²	n j a ŋ ⁴²
+177-7	Hankou	p a ²¹³	p a ²¹³
+179-7	Hankou	n ou ²¹³	n j ou ²¹³
+181-7	Hankou	p i n ⁵⁵	p i n ⁵⁵
+182-7	Hankou	tɕʰ i ²¹³	tɕʰ i ²¹³
+189-7	Hankou	k w a n ⁵⁵	k w a n ⁵⁵
+191-7	Hankou	t o ŋ ⁵⁵	t o ŋ ⁵⁵
+193-7	Hankou	n ə n ⁴²	n ə n ⁴²
+198-7	Hankou	t ə n ³⁵	t ə n ³⁵
+199-7	Hankou	ɕ j o ŋ ⁵⁵	ɕ j o ŋ ⁵⁵
+2-8	Jinan	i ²¹³	i ²¹
+4-8	Jinan	tɕʰ i ²¹³	tɕʰ i ²¹³
+5-8	Jinan	ʈʂ a ŋ ²¹	ʈʂ a ŋ ²¹
+6-8	Jinan	s aː ²¹³	s aː ²¹³
+7-8	Jinan	ʂ a ŋ ²¹	ʂ a ŋ ²¹
+8-8	Jinan	ɕ j a ²¹	ɕ j a ²¹
+9-8	Jinan	p u ²¹³	p u ²¹
+17-8	Jinan	ʈʂ u ŋ ²¹³	ʈʂ u ŋ ²¹³
+31-8	Jinan	tɕ j ou ⁵⁵	tɕ j ou ⁵⁵
+32-8	Jinan	j e ⁵⁵	j e ⁵⁵
+33-8	Jinan	l u ⁵⁵	ʐ u ⁵⁵
+38-8	Jinan	ə ²¹	ə ²¹
+40-8	Jinan	yeː ⁴²	yeː ⁴²
+42-8	Jinan	u ⁵⁵	u ⁵⁵
+43-8	Jinan	tɕ i ŋ ⁵⁵	tɕ i ŋ ⁵⁵
+46-8	Jinan	w a ŋ ⁴²	w a ŋ ⁴²
+52-8	Jinan	l j a ŋ ²¹	l j a ŋ ²¹
+53-8	Jinan	ʐ eː ⁴²	ʐ eː ⁴²
+56-8	Jinan	tɕ ieː ²¹³	tɕ ieː ²¹³
+59-8	Jinan	tʰ a ²¹³	tʰ a ²¹³
+60-8	Jinan	ʈʂ a ŋ ²¹	ʈʂ a ŋ ²¹
+64-8	Jinan	l i ŋ ²¹	l i ŋ ²¹
+68-8	Jinan	tɕ iaː ²¹	tɕ iaː ²¹
+85-8	Jinan	w ei ²¹	w ei ²¹
+86-8	Jinan	t i ²¹³	t i ²¹³
+87-8	Jinan	ʈʂ u ²¹	ʈʂ u ²¹
+93-8	Jinan	ɲ i ⁵⁵	ɲ i ⁵⁵
+98-8	Jinan	l ɛ ⁴²	l ɛ ⁴²
+109-8	Jinan	ɕ ieː ²¹	ɕ ieː ²¹
+115-8	Jinan	t ɔ ⁵⁵	t ɔ ⁵⁵
+118-8	Jinan	tɕ j e ²¹	tɕ j e ²¹
+124-8	Jinan	tɕ j a ⁵⁵	tɕ j a ⁵⁵
+127-8	Jinan	ts w ə ²¹	ts w ə ²¹
+133-8	Jinan	tʰ ou ²¹³	tʰ ou ²¹³
+144-8	Jinan	ʂ a ⁵⁵	ʂ a ⁵⁵
+161-8	Jinan	ɕ y ŋ ²¹³	ɕ y ŋ ²¹³
+166-8	Jinan	k w a ŋ ²¹³	k w a ŋ ²¹³
+170-8	Jinan	ə ²¹³	ə ⁴²
+171-8	Jinan	tʰ u ²¹	tʰ u ²¹
+173-8	Jinan	l u ²¹	ʐ u ²¹³
+174-8	Jinan	n ei ²¹	n w ei ²¹
+175-8	Jinan	tɕʰ yaː ⁴²	tɕʰ yaː ⁴²
+176-8	Jinan	l j a ŋ ⁵⁵	l j a ŋ ⁵⁵
+177-8	Jinan	p a ²¹³	p a ²¹³
+179-8	Jinan	l j ou ²¹	l j ou ²¹³
+181-8	Jinan	p i ŋ ²¹³	p i ŋ ²¹³
+182-8	Jinan	tɕʰ i ⁴²	tɕʰ i ⁴²
+189-8	Jinan	k uaː ²¹³	k uaː ²¹³
+191-8	Jinan	t u ŋ ²¹³	t u ŋ ²¹³
+193-8	Jinan	l ə ŋ ⁵⁵	l ə ŋ ⁵⁵
+198-8	Jinan	t ə ŋ ²¹	t ə ŋ ²¹
+199-8	Jinan	ɕ y ŋ ²¹³	ɕ y ŋ ²¹³
+2-9	Meixian	j i t ¹	j i t ¹
+4-9	Meixian	tsʰ i t ¹	tsʰ i t ¹
+5-9	Meixian	tsʰ ɔ ŋ ⁵²	tsʰ ɔ ŋ ⁵²
+6-9	Meixian	s a m ⁴⁴	s a m ⁴⁴
+7-9	Meixian	s ɔ ŋ ⁵²	s ɔ ŋ ⁵²
+8-9	Meixian	h a ⁵²	h j ⁵²
+9-9	Meixian	p u t ¹	p u t ¹
+17-9	Meixian	ts u ŋ ⁴⁴	ts u ŋ ⁴⁴
+31-9	Meixian	k j u ³¹	k j u ³¹
+32-9	Meixian	j a ⁴⁴	j a ³¹
+33-9	Meixian	j i ⁵²	z u ³¹
+38-9	Meixian	ɲ i ⁵²	ɲ i ⁵²
+40-9	Meixian	j u n ¹¹	v u n ¹¹
+42-9	Meixian	ŋ ³¹	ŋ u ³¹
+43-9	Meixian	ts j a ŋ ³¹	ts i n ³¹
+46-9	Meixian	m ɔ ŋ ¹¹	v ɔ ŋ ¹¹
+52-9	Meixian	l j ɔ ŋ ⁵²	l j ɔ ŋ ⁵²
+53-9	Meixian	ɲ i n ¹¹	j a n ¹¹
+56-9	Meixian	k i n ⁴⁴	k j m ⁴⁴
+59-9	Meixian	tʰ a ⁴⁴	tʰ a ⁴⁴
+60-9	Meixian	ts ɔ ŋ ⁵²	tsʰ ɔ ŋ ⁵²
+64-9	Meixian	l i n ⁵²	l i n ⁵²
+68-9	Meixian	kʰ j a n ⁵²	kʰ j n ⁵²
+85-9	Meixian	v w i ⁵²	v i ⁵²
+86-9	Meixian	t ai ⁴⁴	t i ⁴⁴
+87-9	Meixian	tsʰ u ⁵²	tsʰ u ⁵²
+93-9	Meixian	ɲ i ⁴⁴	ɲ i ³¹
+98-9	Meixian	l ɔi ¹¹	l ai ¹¹
+109-9	Meixian	s i n ⁵²	s i n ⁵²
+115-9	Meixian	t au ³¹	t au ³¹
+118-9	Meixian	ts j a ⁵²	ts j a ʔ
+124-9	Meixian	k a ³¹	k a ³¹
+127-9	Meixian	ts ɔ ⁵²	ts u ⁵²
+133-9	Meixian	tʰ ɛu ⁴⁴	tʰ ɛu ⁴⁴
+144-9	Meixian	s a ³¹	s a ³¹
+161-9	Meixian	h j u ŋ ⁴⁴	h j u ŋ ⁴⁴
+166-9	Meixian	k w ɔ ŋ ⁴⁴	k w ɔ ŋ ⁴⁴
+170-9	Meixian	i ¹¹	ɲ i ¹¹
+171-9	Meixian	tʰ u ⁵²	tʰ u ⁵²
+173-9	Meixian	ɲ i p ⁵	z a p ¹
+174-9	Meixian	n w i ⁵²	n w i ⁵²
+175-9	Meixian	tsʰ j ɛ n ¹¹	tsʰ j a n ¹¹
+176-9	Meixian	l j ɔ ŋ ³¹	l j ɔ ŋ ³¹
+177-9	Meixian	p a t ¹	p a t ¹
+179-9	Meixian	l j u k ¹	l j u k ⁵
+181-9	Meixian	p i n ⁴⁴	p j n ⁴⁴
+182-9	Meixian	kʰ i ¹¹	kʰ i ¹¹
+189-9	Meixian	k w ɔ n ⁴⁴	k w ɔ n ⁴⁴
+191-9	Meixian	t u ŋ ⁴⁴	t u ŋ ⁴⁴
+193-9	Meixian	l a ŋ ⁴⁴	l ə n ³¹
+198-9	Meixian	t ɛ n ⁵²	t ɛ n ⁵²
+199-9	Meixian	h j u ŋ ⁴⁴	h j u ŋ ⁴⁴
+2-10	Nanchang	i t ⁵	i t ⁵
+4-10	Nanchang	tɕʰ i t ⁵	tɕʰ i t ⁵
+5-10	Nanchang	tsʰ ɔ ŋ ²¹	tsʰ ɔ ŋ ²¹
+6-10	Nanchang	s a n ⁴²	s a n ⁴²
+7-10	Nanchang	s ɔ ŋ ²¹	s ɔ ŋ ²¹
+8-10	Nanchang	h a ²¹	h j a ²¹
+9-10	Nanchang	p ə t ⁵	p u t ⁵
+17-10	Nanchang	ts u ŋ ⁴²	ts u ŋ ⁴²
+31-10	Nanchang	tɕ j u ²¹³	tɕ j u ²¹³
+32-10	Nanchang	j a ²¹³	j a ²¹³
+33-10	Nanchang	ɞ ²¹³	y i ²¹³
+38-10	Nanchang	ɞ ²¹	l i ²¹
+40-10	Nanchang	y n ⁴⁵	y u n ⁴⁵
+42-10	Nanchang	ŋ ²¹³	u u ²¹³
+43-10	Nanchang	tɕ i n ²¹³	tɕ i n ²¹³
+46-10	Nanchang	w ɔ ŋ ²⁴	w ɔ ŋ ⁴⁵
+52-10	Nanchang	l j ɔ ŋ ²¹	l j ɔ ŋ ²¹
+53-10	Nanchang	l a n ⁴⁵	l ə n ²⁴
+56-10	Nanchang	tɕ i n ⁴²	tɕ i n ⁴²
+59-10	Nanchang	tʰ a ⁴²	tʰ a ⁴²
+60-10	Nanchang	tsʰ ɔ ŋ ²¹	ts ɔ ŋ ²¹
+64-10	Nanchang	l i n ²¹	l i n ²¹
+68-10	Nanchang	tɕʰ ɛ n ²¹	tɕ j ɛ n ²¹
+85-10	Nanchang	w i ⁴⁵	w i ²¹
+86-10	Nanchang	t i ⁴²	t i ⁴²
+87-10	Nanchang	tɕʰ y ²¹	tsʰ u ²¹
+93-10	Nanchang	n ²¹³	ɲ i ²¹³
+98-10	Nanchang	l ai ⁴⁵	l ai ⁴⁵
+109-10	Nanchang	ɕ i n ⁴⁵	ɕ i n ⁴⁵
+115-10	Nanchang	t au ²¹³	t au ²¹³
+118-10	Nanchang	tɕ j a ⁴⁵	tɕ j ɔ ⁴⁵
+124-10	Nanchang	k a ²¹³	k a ²¹³
+127-10	Nanchang	ts u ⁴⁵	ts o ⁴⁵
+133-10	Nanchang	tʰ ɛu ⁴²	tʰ ɛu ⁴²
+144-10	Nanchang	s a ²¹³	s a ²¹³
+161-10	Nanchang	ɕ j u ŋ ⁴²	ɕ j u ŋ ⁴²
+166-10	Nanchang	k w ɔ ŋ ⁴²	k w ɔ ŋ ⁴²
+170-10	Nanchang	ɞ ⁴⁵	j ⁴⁵
+171-10	Nanchang	tʰ u ²¹³	tʰ u ⁴⁵
+173-10	Nanchang	l a t ⁵	z u t ⁵
+174-10	Nanchang	l w i ²¹	l w ²¹
+175-10	Nanchang	tɕʰ ɥ ɔ n ²⁴	tɕʰ ɥ ɛ n ²⁴
+176-10	Nanchang	l j ɔ ŋ ²¹³	l j ɔ ŋ ²¹³
+177-10	Nanchang	p a t ⁵	p a t ⁵
+179-10	Nanchang	l j u k ⁵	l u k ⁵
+181-10	Nanchang	p i n ⁴²	p i n ⁴²
+182-10	Nanchang	tɕʰ i ²⁴	tɕʰ i ²⁴
+189-10	Nanchang	k w ɔ n ⁴²	k w ɔ n ⁴²
+191-10	Nanchang	t u ŋ ⁴²	t u ŋ ⁴²
+193-10	Nanchang	l ə n ²¹³	l ə n ²¹³
+198-10	Nanchang	t ɛ n ⁴⁵	t ɛ n ⁴⁵
+199-10	Nanchang	ɕ j u ŋ ⁴²	ɕ j u ŋ ⁴²
+2-11	Shanghai	j ɪ ʔ ⁵	j ɤ ʔ ⁵
+4-11	Shanghai	tsʰ ɪ ʔ ⁵	tsʰ ɪ ʔ ⁵
+5-11	Shanghai	z aː ¹³	z a ŋ ¹³
+6-11	Shanghai	s ɛ ⁵³	s ɛ ⁵³
+7-11	Shanghai	z ɒː ¹³	z a ŋ ¹³
+8-11	Shanghai	ɦ o ¹³	j a ¹³
+9-11	Shanghai	p ɤ ʔ ⁵	p ɤ ʔ ⁵
+17-11	Shanghai	ts o ŋ ⁵³	ts o ŋ ⁵³
+31-11	Shanghai	tɕ j ɯ ⁵⁵	tɕ j ɯ ⁵⁵
+32-11	Shanghai	i ɛ ¹³	j a ⁵⁵
+33-11	Shanghai	z ɥ ¹³	z ɥ ¹³
+38-11	Shanghai	l iaː ¹³	ŋ i ¹³
+40-11	Shanghai	ɥ i ŋ ¹³	ɥ ɪ ŋ ¹³
+42-11	Shanghai	ŋ ¹³	ŋ u ¹³
+43-11	Shanghai	ts i ŋ ⁵⁵	ts i ŋ ⁵⁵
+46-11	Shanghai	uɒː ¹³	v ɒː ŋ ¹³
+52-11	Shanghai	l iaː ¹³	l iaː ¹³
+53-11	Shanghai	z ə ŋ ¹³	z ə ŋ ¹³
+56-11	Shanghai	tɕ i ŋ ⁵³	tɕ i ŋ ⁵³
+59-11	Shanghai	tʰ a ⁵³	tʰ a ⁵³
+60-11	Shanghai	ts aː ⁵⁵	z a ŋ ¹³
+64-11	Shanghai	l i ŋ ¹³	l i ŋ ¹³
+68-11	Shanghai	tɕ ɪ ¹³	tɕ ɪ ¹³
+85-11	Shanghai	u ɛ ¹³	w ɛ ¹³
+86-11	Shanghai	t i ⁵³	t i ⁵³
+87-11	Shanghai	z ɿ ¹³	z ɥ ¹³
+93-11	Shanghai	ɲ i ⁵³	ɲ i ⁵⁵
+98-11	Shanghai	l ɛ ¹³	l ɛ ¹³
+109-11	Shanghai	s i ŋ ⁵⁵	s i ŋ ⁵⁵
+115-11	Shanghai	t ɔ ⁵⁵	t ɔ ⁵⁵
+118-11	Shanghai	ts j a ⁵⁵	ts ɪ ⁵⁵
+124-11	Shanghai	k a ⁵⁵	tɕ j ⁵⁵
+127-11	Shanghai	ts u ⁵⁵	ts u ⁵⁵
+133-11	Shanghai	tʰ ɤɯ ⁵³	tʰ ɤɯ ⁵³
+144-11	Shanghai	s a ⁵⁵	s a ⁵⁵
+161-11	Shanghai	ɕ j o ŋ ⁵³	ɕ ɥ o ŋ ⁵³
+166-11	Shanghai	k uɒː ⁵³	k w ɔ ŋ ⁵³
+170-11	Shanghai	ɦ ə ¹³	ŋ i ¹³
+171-11	Shanghai	tʰ u ⁵⁵	tʰ u ⁵⁵
+173-11	Shanghai	z ɤ ʔ ¹³	z ɤ ʔ ⁵
+174-11	Shanghai	n ɛ ¹³	n ɛ ¹³
+175-11	Shanghai	z i ¹³	z ɪ ¹³
+176-11	Shanghai	l iaː ¹³	l iaː ¹³
+177-11	Shanghai	p a ʔ ⁵	p o ʔ ⁵
+179-11	Shanghai	l o ʔ ¹³	l o ʔ ¹³
+181-11	Shanghai	p i ŋ ⁵³	p i ŋ ⁵³
+182-11	Shanghai	tɕ i ¹³	tɕ i ¹³
+189-11	Shanghai	k w ø ⁵³	k w ø ⁵³
+191-11	Shanghai	t o ŋ ⁵³	t o ŋ ⁵³
+193-11	Shanghai	l aː ¹³	l ə ŋ ¹³
+198-11	Shanghai	t ə ŋ ⁵⁵	t ə ŋ ⁵⁵
+199-11	Shanghai	ɕ j o ŋ ⁵³	ɕ ɥ o ŋ ⁵³
+2-12	Shuangfeng	i ²³	i ²³
+4-12	Shuangfeng	tɕʰ i ²³	tɕʰ i ²³
+5-12	Shuangfeng	d a ŋ ³³	dʑ a ŋ ³³
+6-12	Shuangfeng	s aː ⁵⁵	s aː ⁵⁵
+7-12	Shuangfeng	ɣ j a ŋ ³³	ɣ a ŋ ³³
+8-12	Shuangfeng	ɣ j o ³³	ɣ o ³³
+9-12	Shuangfeng	p u ²³	p ʊ ²³
+17-12	Shuangfeng	tɕ i n ⁵⁵	tɕ a n ⁵⁵
+31-12	Shuangfeng	tɕ j ʊ ²¹	tɕ j ʊ ²¹
+32-12	Shuangfeng	j o ²¹	j o ²¹
+33-12	Shuangfeng	y ²¹	i ²¹
+38-12	Shuangfeng	j e ³³	i ³³
+40-12	Shuangfeng	w ə n ²³	y n ²³
+42-12	Shuangfeng	əu ²¹	əu ²¹
+43-12	Shuangfeng	tɕ i n ²¹	tɕ i n ²¹
+46-12	Shuangfeng	a ŋ ²³	a ŋ ²³
+52-12	Shuangfeng	n j a ŋ ³³	n j a ŋ ³³
+53-12	Shuangfeng	i n ²³	j ə n ²³
+56-12	Shuangfeng	tɕ i n ²³	tɕ i n ⁵⁵
+59-12	Shuangfeng	tʰ o ⁵⁵	tʰ a ⁵⁵
+60-12	Shuangfeng	d a ŋ ³³	dʑ a ŋ ³⁵
+64-12	Shuangfeng	n i n ³³	n i n ³³
+68-12	Shuangfeng	dʑ ɪː ³³	dʑ ɪː ³³
+85-12	Shuangfeng	w i ³³	w ³³
+86-12	Shuangfeng	t i ⁵⁵	t i ⁵⁵
+87-12	Shuangfeng	d y ³³	dʑ y ³³
+93-12	Shuangfeng	ɲ i ²¹	ɲ i ²¹
+98-12	Shuangfeng	n j e ²³	n j e ²³
+109-12	Shuangfeng	ɕ i n ³⁵	ɕ i n ³⁵
+115-12	Shuangfeng	t ə ²¹	t ə ²¹
+118-12	Shuangfeng	tɕ j o ³⁵	tɕ j o ³⁵
+124-12	Shuangfeng	tɕ j o ²¹	k o ²¹
+127-12	Shuangfeng	ts əu ³⁵	tɕ əu ³⁵
+133-12	Shuangfeng	tʰ j e ⁵⁵	tʰ j e ⁵⁵
+144-12	Shuangfeng	s o ²¹	ɕ a ²¹
+161-12	Shuangfeng	ɕ y n ⁵⁵	ɕ y n ⁵⁵
+166-12	Shuangfeng	k a ŋ ⁵⁵	k w a ŋ ⁵⁵
+170-12	Shuangfeng	j e ²³	i ²³
+171-12	Shuangfeng	tʰ əu ³⁵	tʰ əu ³⁵
+173-12	Shuangfeng	y ³⁵	i ²³
+174-12	Shuangfeng	n w e ³³	n w ³³
+175-12	Shuangfeng	dz uiː ²³	dʑ uiː ²³
+176-12	Shuangfeng	n j a ŋ ²¹	n j a ŋ ²¹
+177-12	Shuangfeng	p a ²³	p o ²³
+179-12	Shuangfeng	n əu ³⁵	n j ʊ ²³
+181-12	Shuangfeng	p i n ⁵⁵	p i n ⁵⁵
+182-12	Shuangfeng	dʑ i ²³	dʑ i ²³
+189-12	Shuangfeng	k uɛː ⁵⁵	k uɛː ⁵⁵
+191-12	Shuangfeng	t a ŋ ⁵⁵	t a ŋ ⁵⁵
+193-12	Shuangfeng	n i n ²¹	n iɛː n ²¹
+198-12	Shuangfeng	t iɛː ³⁵	t iɛː n ³⁵
+199-12	Shuangfeng	ɕ i n ⁵⁵	ɕ y n ⁵⁵
+2-13	Suzhou	j ɤ ʔ ⁴	j ɤ ʔ ⁴
+4-13	Suzhou	tsʰ j ɤ ʔ ⁴	tsʰ j ɤ ʔ ⁴
+5-13	Suzhou	z a ŋ ³¹	z a ŋ ³¹
+6-13	Suzhou	s ɛ ⁴⁴	s ɛ n ⁴⁴
+7-13	Suzhou	z a ŋ ³¹	z ɒ ŋ ³¹
+8-13	Suzhou	j ɒ ³¹	ɦ j ³¹
+9-13	Suzhou	p ɤ ʔ ⁴	p ɤ ʔ ⁴
+17-13	Suzhou	ts o ŋ ⁴⁴	ts o ŋ ⁴⁴
+31-13	Suzhou	tɕ j øy ⁵²	tɕ j øy ⁵²
+32-13	Suzhou	j ɒ ⁵²	ɪ ³¹
+33-13	Suzhou	z ɥ ³¹	z ɥ ³¹
+38-13	Suzhou	l ³¹	l ɛ ³¹
+40-13	Suzhou	ɥ ə n ²⁴	z ə n ²⁴
+42-13	Suzhou	əu ⁴⁴	əu ³¹
+43-13	Suzhou	ts i n ⁵²	ts i n ⁵²
+46-13	Suzhou	v ɒ ŋ ²⁴	ɦ ɒ ŋ ²⁴
+52-13	Suzhou	l j a ŋ ³¹	l j a ŋ ³¹
+53-13	Suzhou	z ə n ²⁴	z ə n ²⁴
+56-13	Suzhou	tɕ i n ⁴⁴	tɕ i n ⁴⁴
+59-13	Suzhou	tʰ a ⁴⁴	tʰ ɒ ⁴⁴
+60-13	Suzhou	z a ŋ ³¹	ts ɒ ŋ ³¹
+64-13	Suzhou	l i n ³¹	l i n ³¹
+68-13	Suzhou	dʑ ɪ ³¹	dʑ ɪ ³¹
+85-13	Suzhou	ɦ u ɛ ³¹	u i ³¹
+86-13	Suzhou	t i ⁴⁴	t i ⁴⁴
+87-13	Suzhou	z ɥ ³¹	z ɥ ³¹
+93-13	Suzhou	ɲ i ⁵²	ɲ i ³¹
+98-13	Suzhou	l ɛ ²⁴	l ɛ ²⁴
+109-13	Suzhou	s i n ⁴¹²	s i n ⁴¹²
+115-13	Suzhou	t æ ⁵²	t æ ⁵²
+118-13	Suzhou	ts j ɒ ⁴¹²	ts j ɒ ʔ ²³
+124-13	Suzhou	tɕ j ɒ ⁵²	tɕ j ɒ ⁵²
+127-13	Suzhou	ts əu ⁴¹²	ts əu ³¹
+133-13	Suzhou	tʰ øy ⁴⁴	tʰ øy ⁴⁴
+144-13	Suzhou	s ɒ ⁵²	s ɒ ⁵²
+161-13	Suzhou	ɕ j o ŋ ⁴⁴	ɕ j o ŋ ⁴⁴
+166-13	Suzhou	k w ɒ ŋ ⁴⁴	k əu a ŋ ⁴⁴
+170-13	Suzhou	l ²⁴	ɦ ɛ ²⁴
+171-13	Suzhou	tʰ əu ⁴¹²	tʰ əu ⁴¹²
+173-13	Suzhou	z ɤ ʔ ⁴	z ɤ ʔ ²³
+174-13	Suzhou	n ɛ ³¹	n ɛ ³¹
+175-13	Suzhou	z ɪ ²⁴	z i ²⁴
+176-13	Suzhou	l j a ŋ ³¹	l j a ŋ ³¹
+177-13	Suzhou	p o ʔ ⁴	p ɒ ʔ ⁴
+179-13	Suzhou	l o ʔ ²³	l o ʔ ²³
+181-13	Suzhou	p i n ⁴⁴	p i n ⁴⁴
+182-13	Suzhou	dʑ i ²⁴	dʑ i ²⁴
+189-13	Suzhou	k w ø ⁴⁴	k w ø ⁴⁴
+191-13	Suzhou	t o ŋ ⁴⁴	t o ŋ ⁴⁴
+193-13	Suzhou	l ə n ³¹	l ə n ³¹
+198-13	Suzhou	t ə n ⁴¹²	t ə n ⁴¹²
+199-13	Suzhou	ɕ j o ŋ ⁴⁴	ɕ j o ŋ ⁴⁴
+2-14	Taiyuan	j ə ʔ ²	j ə ʔ ²
+4-14	Taiyuan	tɕʰ j ə ʔ ²	tɕʰ j ə ʔ ²
+5-14	Taiyuan	ts ɒː ⁴⁵	ts ɒː ŋ ⁴⁵
+6-14	Taiyuan	s æː ¹¹	s æː ¹¹
+7-14	Taiyuan	s ɒː ⁴⁵	s ɒː ŋ ⁴⁵
+8-14	Taiyuan	ɕ j a ⁴⁵	ɕ j a ⁴⁵
+9-14	Taiyuan	p ə ʔ ²	p ə ʔ ²
+17-14	Taiyuan	ts u ŋ ¹¹	ts u ŋ ¹¹
+31-14	Taiyuan	tɕ j ou ⁵³	tɕ j ou ⁵³
+32-14	Taiyuan	j ɛ ⁵³	j ɛ ⁵³
+33-14	Taiyuan	z u ⁵³	l u ⁵³
+38-14	Taiyuan	ə ⁴⁵	ə ⁴⁵
+40-14	Taiyuan	y ŋ ¹¹	y ŋ ¹¹
+42-14	Taiyuan	v u ⁵³	v ⁵³
+43-14	Taiyuan	tɕ i ŋ ⁵³	tɕ i ŋ ⁵³
+46-14	Taiyuan	v ɒː ¹¹	v ɒː ŋ ¹¹
+52-14	Taiyuan	l iɒː ⁴⁵	l iɒː a ŋ ⁴⁵
+53-14	Taiyuan	z ə ŋ ¹¹	z ə ŋ ¹¹
+56-14	Taiyuan	tɕ i ŋ ¹¹	tɕ i ŋ ¹¹
+59-14	Taiyuan	tʰ a ¹¹	tʰ a ¹¹
+60-14	Taiyuan	ts ɒː ⁴⁵	ts ɒː ŋ ⁴⁵
+64-14	Taiyuan	l i ŋ ⁴⁵	l i ŋ ⁴⁵
+68-14	Taiyuan	tɕ j ɛ ⁴⁵	tɕ j ɛ ⁴⁵
+85-14	Taiyuan	v ei ⁴⁵	v ei ⁴⁵
+86-14	Taiyuan	t i ¹¹	t i ¹¹
+87-14	Taiyuan	ts u ⁴⁵	ts u ⁴⁵
+93-14	Taiyuan	n i ⁵³	n i ⁵³
+98-14	Taiyuan	l ai ¹¹	l ai ¹¹
+109-14	Taiyuan	ɕ i ŋ ⁴⁵	ɕ i ŋ ⁴⁵
+115-14	Taiyuan	t au ⁵³	t au ⁵³
+118-14	Taiyuan	tɕ j ɛ ⁴⁵	tɕ j ɛ ⁴⁵
+124-14	Taiyuan	tɕ j a ⁵³	tɕ j a ⁵³
+127-14	Taiyuan	ts w ə ⁴⁵	ts w ə ⁴⁵
+133-14	Taiyuan	tʰ ou ¹¹	tʰ ou ¹¹
+144-14	Taiyuan	s a ⁵³	s a ⁵³
+161-14	Taiyuan	ɕ y ŋ ¹¹	ɕ y ŋ ¹¹
+166-14	Taiyuan	k uɒː ¹¹	k w a ŋ ¹¹
+170-14	Taiyuan	ə ¹¹	ə ¹¹
+171-14	Taiyuan	tʰ u ⁴⁵	tʰ u ⁴⁵
+173-14	Taiyuan	z w ə ʔ ²	l ə ʔ ⁵⁴
+174-14	Taiyuan	n w ei ⁴⁵	n ei ⁴⁵
+175-14	Taiyuan	tɕʰ ɥ ɛ ¹¹	tɕʰ ɥ ɛ ¹¹
+176-14	Taiyuan	l iɒː ⁵³	l iɒː a ŋ ⁵³
+177-14	Taiyuan	p a ʔ ²	p a ʔ ²
+179-14	Taiyuan	l j ou ⁴⁵	l j au ʔ ²
+181-14	Taiyuan	p i ŋ ¹¹	p i ŋ ¹¹
+182-14	Taiyuan	tɕʰ i ¹¹	tɕʰ i ¹¹
+189-14	Taiyuan	k uæː ¹¹	k uæː ¹¹
+191-14	Taiyuan	t u ŋ ¹¹	t u ŋ ¹¹
+193-14	Taiyuan	l ə ŋ ⁵³	l ə ŋ ⁵³
+198-14	Taiyuan	t ə n ⁴⁵	t ə ŋ ⁴⁵
+199-14	Taiyuan	ɕ y ŋ ¹¹	ɕ y ŋ ¹¹
+2-15	Wenzhou	j ai ³²³	ɦ a ³²³
+4-15	Wenzhou	tsʰ ai ³²³	tsʰ ei ³²³
+5-15	Wenzhou	dʑ i ³⁴	dz a ²²
+6-15	Wenzhou	s a ⁴⁴	s a ⁴⁴
+7-15	Wenzhou	ɦ i ²²	ɦ a ²²
+8-15	Wenzhou	ɦ o ³⁴	ɦ a ²²
+9-15	Wenzhou	p ai ³²³	p a ³²³
+17-15	Wenzhou	tɕ ɥ o ŋ ⁴⁴	tɕ ɥ ŋ ⁴⁴
+31-15	Wenzhou	tɕ j au ⁴⁵	tɕ j u ⁴⁵
+32-15	Wenzhou	j ɛ ⁴⁵	ɦ a ³⁴
+33-15	Wenzhou	z ɿ ³⁴	z ɿ ³⁴
+38-15	Wenzhou	ŋ ²²	z ɿ ²²
+40-15	Wenzhou	ɦ ɥ o ŋ ³¹	z a ŋ ³¹
+42-15	Wenzhou	ŋ ³⁴	ŋ u ³⁴
+43-15	Wenzhou	ts e ŋ ⁴⁵	tɕ i ŋ ⁴⁵
+46-15	Wenzhou	ɦ w ɔ ³¹	ɦ w ³¹
+52-15	Wenzhou	l i ²²	l i ²²
+53-15	Wenzhou	z a ŋ ³¹	z a ŋ ³¹
+56-15	Wenzhou	tɕ j a ŋ ⁴⁴	tɕ j ŋ ⁴⁴
+59-15	Wenzhou	tʰ ɔ ⁴⁴	tʰ o ⁴⁴
+60-15	Wenzhou	dʑ i ³⁴	dz a ²²
+64-15	Wenzhou	l e ŋ ²²	l e ŋ ²²
+68-15	Wenzhou	dʑ i ³⁴	dʑ i ²²
+85-15	Wenzhou	v u ²²	v ei ²²
+86-15	Wenzhou	t ei ⁴⁴	t ei ⁴⁴
+87-15	Wenzhou	dz ɿ ²²	z ɿ ²²
+93-15	Wenzhou	ɲ i ³⁴	ɲ i ⁴⁵
+98-15	Wenzhou	l ɛ ³¹	l ɛ ³¹
+109-15	Wenzhou	s a ŋ ⁴²	ɕ e ŋ ⁴²
+115-15	Wenzhou	t ɜ ⁴⁵	t ɜ ⁴⁵
+118-15	Wenzhou	ts ei ⁴²	tɕ j a ⁴²
+124-15	Wenzhou	k o ⁴⁵	tɕ a ⁴⁵
+127-15	Wenzhou	ts u ⁴²	ts əu ²²
+133-15	Wenzhou	tʰ au ⁴⁴	tʰ əu ⁴⁴
+144-15	Wenzhou	s a ⁴⁴	s o ⁴⁵
+161-15	Wenzhou	ɕ ɥ o ŋ ⁴⁴	ɕ ɥ ŋ ⁴⁴
+166-15	Wenzhou	k w ɔ ⁴⁴	k w ɔ ŋ ⁴⁴
+170-15	Wenzhou	ŋ ³¹	z ɿ ³¹
+171-15	Wenzhou	tʰ ɵy ⁴²	tʰ əu ⁴²
+173-15	Wenzhou	z ai ²¹²	z ei ²¹²
+174-15	Wenzhou	n ai ²²	n ɛ ²²
+175-15	Wenzhou	ɦ y ³¹	z y ³¹
+176-15	Wenzhou	l i ³⁴	l i ³⁴
+177-15	Wenzhou	p o ³²³	p a ³²³
+179-15	Wenzhou	l j u ²¹²	l u ²¹²
+181-15	Wenzhou	p e ŋ ⁴⁴	p i ŋ ⁴⁴
+182-15	Wenzhou	dz ɿ ³¹	dʑ i ³¹
+189-15	Wenzhou	k y ⁴⁴	k y ⁴⁴
+191-15	Wenzhou	t o ŋ ⁴⁴	t o ŋ ⁴⁴
+193-15	Wenzhou	l j ɛ ³⁴	l a ŋ ³⁴
+198-15	Wenzhou	t a ŋ ⁴²	t a ŋ ⁴²
+199-15	Wenzhou	ɕ ɥ ɔ ⁴⁴	ɕ ɥ ŋ ⁴⁴
+2-16	Xiamen	i t ³²	i t ³²
+4-16	Xiamen	tsʰ i t ³²	tsʰ i t ³²
+5-16	Xiamen	t j ɔ ŋ ³³	t j ɔ ŋ ³³
+6-16	Xiamen	s a m ⁵⁵	s a m ⁵⁵
+7-16	Xiamen	s j ɔ ŋ ³³	s j ɔ ŋ ³³
+8-16	Xiamen	h a ³³	h j ³³
+9-16	Xiamen	p u t ³²	p u t ³²
+17-16	Xiamen	t j ɔ ŋ ⁵⁵	t j ɔ ŋ ⁵⁵
+31-16	Xiamen	k j u ⁵¹	k j u ⁵¹
+32-16	Xiamen	a ⁵¹	j a ⁵¹
+33-16	Xiamen	dz u ⁵¹	l u ⁵¹
+38-16	Xiamen	dz i ³³	l i ³³
+40-16	Xiamen	u n ²⁴	h u n ²⁴
+42-16	Xiamen	g ɔ ³³	ŋ ɔ ⁵¹
+43-16	Xiamen	ts ɪ ŋ ⁵¹	ts ɪ ŋ ⁵¹
+46-16	Xiamen	b ɔ ŋ ²⁴	b ɔ ŋ ²⁴
+52-16	Xiamen	l j ɔ ŋ ³³	l j ɔ ŋ ³³
+53-16	Xiamen	dz i n ²⁴	l e n ²⁴
+56-16	Xiamen	k i m ⁵⁵	k i m ⁵⁵
+59-16	Xiamen	t o ²⁴	tʰ a ⁵⁵
+60-16	Xiamen	t j ɔ ŋ ³³	t j ɔ ŋ ³³
+64-16	Xiamen	l ɪ ŋ ³³	l ɪ ŋ ³³
+68-16	Xiamen	k iaː ³³	k ɪ n ³³
+85-16	Xiamen	w i ³³	w i ³³
+86-16	Xiamen	t e ⁵⁵	t i ⁵⁵
+87-16	Xiamen	ts u ³³	ts u ³³
+93-16	Xiamen	n iː ⁵¹	l i ⁵¹
+98-16	Xiamen	l ai ²⁴	l ai ²⁴
+109-16	Xiamen	s i n ¹¹	s i n ¹¹
+115-16	Xiamen	t o ⁵¹	t o ⁵¹
+118-16	Xiamen	ts j a ¹¹	ts j a ¹¹
+124-16	Xiamen	k a ⁵¹	k a ⁵¹
+127-16	Xiamen	ts w ə ¹¹	ts ɔ ³³
+133-16	Xiamen	tʰ ɔ ⁵⁵	tʰ ɔ ⁵⁵
+144-16	Xiamen	s a ⁵¹	s a ⁵¹
+161-16	Xiamen	h ɪ ŋ ⁵⁵	h j ɔ ŋ ⁵⁵
+166-16	Xiamen	k w a ŋ ⁵⁵	k w ɔ ŋ ⁵⁵
+170-16	Xiamen	dz i ²⁴	j i ²⁴
+171-16	Xiamen	tʰ ɔ ¹¹	tʰ ɔ ¹¹
+173-16	Xiamen	dz i p ⁵	j i p ⁵
+174-16	Xiamen	l w e ³³	l ai ³³
+175-16	Xiamen	ts w a n ²⁴	tsʰ ɥ a n ²⁴
+176-16	Xiamen	l j ɔ ŋ ⁵¹	l j ɔ ŋ ⁵¹
+177-16	Xiamen	p a t ³²	p a t ³²
+179-16	Xiamen	l j ɔ k ⁵	l j ɔ k ⁵
+181-16	Xiamen	p ɪ ŋ ⁵⁵	p ɪ ŋ ⁵⁵
+182-16	Xiamen	k i ²⁴	kʰ i ²⁴
+189-16	Xiamen	k w a n ⁵⁵	k w a n ⁵⁵
+191-16	Xiamen	t ɔ ŋ ⁵⁵	t ɔ ŋ ⁵⁵
+193-16	Xiamen	l ɪ ŋ	l ɪ ŋ ⁵¹
+198-16	Xiamen	t ɪ ŋ ¹¹	t ɪ ŋ ¹¹
+199-16	Xiamen	h j ɔ ŋ ⁵⁵	h j ɔ ŋ ⁵⁵
+2-17	XiAn	i ²¹	i ²¹
+4-17	XiAn	tɕʰ i ²¹	tɕʰ i ²¹
+5-17	XiAn	ʈʂ a ŋ ⁵⁵	ʈʂ a ŋ ⁵⁵
+6-17	XiAn	s aː ²¹	s aː ²¹
+7-17	XiAn	ʂ a ŋ ⁵⁵	ʂ a ŋ ⁵⁵
+8-17	XiAn	ɕ j a ⁵⁵	ɕ j a ⁵⁵
+9-17	XiAn	p u ²¹	p u ²¹
+17-17	XiAn	pf o ŋ ²¹	ʈʂ o ŋ ²¹
+31-17	XiAn	tɕ j ou ⁵³	tɕ j ou ⁵³
+32-17	XiAn	j e ⁵³	j e ⁵³
+33-17	XiAn	v u ⁵³	y u ⁵³
+38-17	XiAn	ə ⁵⁵	ə ⁵⁵
+40-17	XiAn	yeː ²⁴	y ²⁴
+42-17	XiAn	u ⁵³	u ⁵³
+43-17	XiAn	tɕ i ŋ ⁵³	tɕ i ŋ ⁵³
+46-17	XiAn	v a ŋ ²⁴	v a ŋ ²⁴
+52-17	XiAn	l j a ŋ ⁵⁵	l j a ŋ ⁵⁵
+53-17	XiAn	ʐ eː ²⁴	z eː ²⁴
+56-17	XiAn	tɕ ieː ²¹	tɕ ieː ²¹
+59-17	XiAn	tʰ a ²¹	tʰ a ²¹
+60-17	XiAn	ʈʂ a ŋ ⁵⁵	ʈʂ a ŋ ⁵⁵
+64-17	XiAn	l i ŋ ⁵⁵	l i ŋ ⁵⁵
+68-17	XiAn	tɕ iaː ⁵⁵	tɕ iaː ⁵⁵
+85-17	XiAn	w ei ⁵⁵	w ei ⁵⁵
+86-17	XiAn	t i ²¹	t i ²¹
+87-17	XiAn	pf u ⁵⁵	ʈʂ u ⁵⁵
+93-17	XiAn	ɲ i ⁵³	ɲ i ⁵³
+98-17	XiAn	l ɛ ²⁴	l ɛ ²⁴
+109-17	XiAn	ɕ ieː ⁵⁵	ɕ ieː ⁵⁵
+115-17	XiAn	t au ⁵³	t au ⁵³
+118-17	XiAn	tɕ j e ⁵⁵	tɕ j e ⁵⁵
+124-17	XiAn	tɕ j a ⁵³	tɕ j a ⁵³
+127-17	XiAn	ts w o ⁵⁵	ts w o ⁵⁵
+133-17	XiAn	tʰ ou ²¹	tʰ ou ²¹
+144-17	XiAn	ʂ a ⁵³	ʂ a ⁵³
+161-17	XiAn	ɕ y ŋ ²¹	ɕ y ŋ ²¹
+166-17	XiAn	k w a ŋ ²¹	k w a ŋ ²¹
+170-17	XiAn	ə ²⁴	ə ²⁴
+171-17	XiAn	tʰ ou ⁵⁵	tʰ u ⁵⁵
+173-17	XiAn	v u ²¹	y u ²¹
+174-17	XiAn	n w ei ⁵⁵	n ei ⁵⁵
+175-17	XiAn	tɕʰ yaː ²⁴	tɕʰ yaː ²⁴
+176-17	XiAn	l j a ŋ ⁵³	l j a ŋ ⁵³
+177-17	XiAn	p a ²¹	p a ²¹
+179-17	XiAn	l j ou ²¹	l j ou ²⁴
+181-17	XiAn	p i ŋ ²¹	p i ŋ ²¹
+182-17	XiAn	tɕʰ i ²⁴	tɕʰ i ²⁴
+189-17	XiAn	k uaː ²¹	k uaː ²¹
+191-17	XiAn	t o ŋ ²¹	t o ŋ ²¹
+193-17	XiAn	l ə ŋ ⁵³	l ə ŋ ⁵³
+198-17	XiAn	t ə ŋ ⁵⁵	t ə ŋ ⁵⁵
+199-17	XiAn	ɕ y ŋ ²¹	ɕ y ŋ ²¹
+2-18	Yangzhou	j ə ʔ ⁴	j ə ʔ ⁴
+4-18	Yangzhou	tɕʰ j ə ʔ ⁴	tɕʰ j ə ʔ ⁴
+5-18	Yangzhou	ts ɑ ŋ ⁵⁵	ts ɑ ŋ ⁵⁵
+6-18	Yangzhou	s ɛː ²¹	s ɛː ²¹
+7-18	Yangzhou	s ɑ ŋ ⁵⁵	ɕ ɑ ŋ ⁵⁵
+8-18	Yangzhou	x ɑ ⁵⁵	ɕ ɑ ⁵⁵
+9-18	Yangzhou	p ə ʔ ⁴	p ɔ ʔ ⁴
+17-18	Yangzhou	ts ɔu ŋ ²¹	ts ɔu ŋ ²¹
+31-18	Yangzhou	tɕ j ɤɯ ⁴²	tɕ j ɤɯ ⁴²
+32-18	Yangzhou	ɪ ⁴²	j ɑ ⁴²
+33-18	Yangzhou	l u ⁴²	j u ⁴²
+38-18	Yangzhou	ɑ ⁵⁵	ə ⁵⁵
+40-18	Yangzhou	yiː ³⁴	yiː ³⁴
+42-18	Yangzhou	u ⁴²	u ⁴²
+43-18	Yangzhou	tɕ iː ⁴²	tɕ iː n ⁴²
+46-18	Yangzhou	w ɑ ŋ ³⁴	w a ŋ ³⁴
+52-18	Yangzhou	l j ɑ ŋ ⁵⁵	l j ɑ ŋ ⁵⁵
+53-18	Yangzhou	l ə n ³⁴	l ə n ³⁴
+56-18	Yangzhou	tɕ iː ²¹	tɕ iː ²¹
+59-18	Yangzhou	tʰ ɑ ²¹	tʰ ɑ ²¹
+60-18	Yangzhou	ts ɑ ŋ ⁵⁵	ts ɑ ŋ ⁵⁵
+64-18	Yangzhou	l iː ⁵⁵	l iː n ⁵⁵
+68-18	Yangzhou	tɕ ɪː ⁵⁵	tɕ ɪː ⁵⁵
+85-18	Yangzhou	w əi ⁵⁵	w əi ⁵⁵
+86-18	Yangzhou	t i ²¹	t i ²¹
+87-18	Yangzhou	ts u ⁵⁵	ts u ⁵⁵
+93-18	Yangzhou	n i ⁴²	n i ⁴²
+98-18	Yangzhou	l ɛ ³⁴	l ɛ ³⁴
+109-18	Yangzhou	ɕ iː ⁵⁵	ɕ iː ⁵⁵
+115-18	Yangzhou	t ɔ ⁴²	t ɔ ⁴²
+118-18	Yangzhou	ts ɪ ⁵⁵	tɕ j ɑ ⁵⁵
+124-18	Yangzhou	tɕ j ɑ ⁴²	tɕ j ɑ ⁴²
+127-18	Yangzhou	ts o ⁵⁵	ts o ⁵⁵
+133-18	Yangzhou	tʰ ɤɯ ²¹	tʰ ɤɯ ²¹
+144-18	Yangzhou	s ɑ ⁴²	s ɑ ⁴²
+161-18	Yangzhou	ɕ j ɔu ŋ ²¹	ɕ j ɔu ŋ ²¹
+166-18	Yangzhou	k w ɑ ŋ ²¹	k w ɑ ŋ ²¹
+170-18	Yangzhou	ɑ ³⁴	ə ³⁴
+171-18	Yangzhou	tʰ u ⁵⁵	tʰ u ⁵⁵
+173-18	Yangzhou	l ə ʔ ⁴	l ə ʔ ⁴
+174-18	Yangzhou	n w əi ⁵⁵	n w əi ⁵⁵
+175-18	Yangzhou	tɕʰ yɪː ³⁴	tɕʰ yɪː ³⁴
+176-18	Yangzhou	l j ɑ ŋ ⁴²	l j ɑ ŋ ⁴²
+177-18	Yangzhou	p a ʔ ⁴	p ɑ ʔ ⁴
+179-18	Yangzhou	l ɔ ʔ ⁴	l ɔ ʔ ⁴
+181-18	Yangzhou	p iː ²¹	p iː n ²¹
+182-18	Yangzhou	tɕʰ i ³⁴	tɕʰ i ³⁴
+189-18	Yangzhou	k uoː ²¹	k uoː ²¹
+191-18	Yangzhou	t ɔu ŋ ²¹	t ɔu ŋ ²¹
+193-18	Yangzhou	l ə n ⁴²	l ə n ⁴²
+198-18	Yangzhou	t ə n ⁵⁵	t ə n ⁵⁵
+199-18	Yangzhou	ɕ j ɔu ŋ ²¹	ɕ j ɔu ŋ ²¹
+2-19	ZhongyuanYinyun	i ²¹⁴	i ²¹⁴
+4-19	ZhongyuanYinyun	tsʰ i ²¹⁴	tsʰ i ²¹⁴
+5-19	ZhongyuanYinyun	tʃ j a ŋ ⁵¹	tʃ j a ŋ ⁵¹
+6-19	ZhongyuanYinyun	s a m ⁵¹	s a m ⁵⁵
+7-19	ZhongyuanYinyun	ʃ j a ŋ ⁵¹	ʃ a ŋ ⁵¹
+8-19	ZhongyuanYinyun	x a ⁵¹	x j a ⁵¹
+9-19	ZhongyuanYinyun	p u ²¹⁴	p u ²¹⁴
+17-19	ZhongyuanYinyun	tʃ j u ŋ ⁵⁵	tʃ j u ŋ ⁵⁵
+31-19	ZhongyuanYinyun	k j ou ³⁵	k j ou ³⁵
+32-19	ZhongyuanYinyun	j e ³⁵	j e ³⁵
+33-19	ZhongyuanYinyun	ʒ j u ³⁵	ʒ u ³⁵
+38-19	ZhongyuanYinyun	ʒ ɿ ⁵¹	ʒ ɿ ⁵¹
+40-19	ZhongyuanYinyun	ɥ ə n ⁵⁵	x ə n ⁵⁵
+42-19	ZhongyuanYinyun	u ³⁵	u u ³⁵
+43-19	ZhongyuanYinyun	ts j ə ŋ ³⁵	ts j ə ŋ ³⁵
+46-19	ZhongyuanYinyun	v a ŋ ⁵⁵	m a ŋ ⁵⁵
+52-19	ZhongyuanYinyun	l j a ŋ ⁵¹	l j a ŋ ⁵¹
+53-19	ZhongyuanYinyun	ʒ j ə n ⁵⁵	ʒ ə n ⁵⁵
+56-19	ZhongyuanYinyun	k j ə m ⁵⁵	k j m ⁵⁵
+59-19	ZhongyuanYinyun	tʰ w o ⁵⁵	tʰ a ⁵⁵
+60-19	ZhongyuanYinyun	tʃ j a ŋ ⁵¹	tʃ j a ŋ ⁵¹
+64-19	ZhongyuanYinyun	l j ə ŋ ⁵¹	l i ŋ ⁵¹
+68-19	ZhongyuanYinyun	k j e n ⁵¹	k j e n ⁵¹
+85-19	ZhongyuanYinyun	w ei ⁵¹	w ei ⁵¹
+86-19	ZhongyuanYinyun	t i ⁵⁵	t i ⁵⁵
+87-19	ZhongyuanYinyun	tʃ j u ⁵¹	tʃ j ⁵¹
+93-19	ZhongyuanYinyun	n i ³⁵	n i ³⁵
+98-19	ZhongyuanYinyun	l ai ⁵⁵	l ai ⁵⁵
+109-19	ZhongyuanYinyun	s j ə n ⁵¹	s j n ⁵¹
+115-19	ZhongyuanYinyun	t au ³⁵	t au ³⁵
+118-19	ZhongyuanYinyun	ts j e ⁵¹	ts j e ⁵¹
+124-19	ZhongyuanYinyun	k a ³⁵	k a a ³⁵
+127-19	ZhongyuanYinyun	ts u ⁵¹	ts w ou ⁵¹
+133-19	ZhongyuanYinyun	tʰ ou ⁵⁵	tʰ ou ⁵⁵
+144-19	ZhongyuanYinyun	ʃ w a ³⁵	ʃ a ³⁵
+161-19	ZhongyuanYinyun	x j u ŋ ⁵⁵	x j u ŋ ⁵⁵
+166-19	ZhongyuanYinyun	k w a ŋ ⁵⁵	k w a ŋ ⁵⁵
+170-19	ZhongyuanYinyun	ʒ ɿ ⁵⁵	ʒ ⁵⁵
+171-19	ZhongyuanYinyun	tʰ u ⁵¹	tʰ u ⁵¹
+173-19	ZhongyuanYinyun	ʒ j u ²¹⁴	ʒ u ²¹⁴
+174-19	ZhongyuanYinyun	n w ei ⁵¹	n ei ⁵⁵
+175-19	ZhongyuanYinyun	tsʰ ɥ e n ⁵⁵	tsʰ ɥ e n ⁵⁵
+176-19	ZhongyuanYinyun	l j a ŋ ³⁵	l j a ŋ ³⁵
+177-19	ZhongyuanYinyun	p a ²¹⁴	p a ²¹⁴
+179-19	ZhongyuanYinyun	l j ou ²¹⁴	l j ou ²¹⁴
+181-19	ZhongyuanYinyun	p j ə ŋ ⁵⁵	p j ŋ ⁵⁵
+182-19	ZhongyuanYinyun	kʰ i ⁵⁵	kʰ i ⁵⁵
+189-19	ZhongyuanYinyun	k o n ⁵⁵	k w a n ⁵⁵
+191-19	ZhongyuanYinyun	t u ŋ ⁵⁵	t u ŋ ⁵⁵
+193-19	ZhongyuanYinyun	l ə ŋ ³⁵	l ə ŋ ³⁵
+198-19	ZhongyuanYinyun	t ə ŋ ⁵¹	t ə ŋ ⁵¹
+199-19	ZhongyuanYinyun	x j u ŋ ⁵⁵	x j u ŋ ⁵⁵

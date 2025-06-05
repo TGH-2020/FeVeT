@@ -1,0 +1,77 @@
+{
+    "title": "CLTS. Cross-Linguistic Transcription Systems",
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Cormac Anderson"
+        },
+        {
+            "name": "Tiago Tresoldi"
+        },
+        {
+            "name": "Christoph Rzymski"
+        },
+        {
+            "name": "Robert Forkel"
+        }
+    ],
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics",
+        "reference catalog",
+        "transcription system"
+    ],
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Editor"
+        },
+        {
+            "name": "Cormac Anderson",
+            "type": "Editor"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Editor"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Editor"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Editor"
+        },
+        {
+            "name": "Sacha Beniamine",
+            "type": "Other"
+        },
+        {
+            "name": "Sacha Beniamine",
+            "type": "Researcher"
+        },
+        {
+            "name": "Jeff Good",
+            "type": "Other"
+        },
+        {
+            "name": "Jeff Good",
+            "type": "Researcher"
+        }
+    ],
+    "upload_type": "dataset",
+    "communities": [
+        {
+            "identifier": "calc"
+        },
+        {
+            "identifier": "dighl"
+        }
+    ]
+}

@@ -1,0 +1,817 @@
+COGID	LANGUAGE	GOLD	PREDICTION
+2689-1	1	ɲ a m a	n a m a
+893-1	1	a a n a	a a n a
+1285-1	1	ŋ w a a	n w a
+1303-1	1	ŋ ɔ m a	ŋ ɔ m a
+2197-1	1	z a l a	s a l a
+2828-1	1	l ìì n a	s i n a
+3572-1	1	s ɔ n i	s ɔ n i i
+1095-1	1	l i m a	l i m a
+1755-1	1	n ɛ	n ɛ l
+1789-1	1	k a l a a ŋ g a	k a l a ŋ g a
+3207-1	1	b u l a	b u l a
+3519-1	1	t ʊ m a	t u m a
+3686-1	1	i m b a	i m b a
+4249-1	1	k ʊ m i	k u m i i
+4451-1	1	β i s i	b i s i i
+448-1	1	n ɔ n i	ʊ ɔ n i i
+630-1	1	β ɛ ɛ l ɛ	b e l l ɛ
+814-1	1	ŋ ɔ ɔ m b ɛ	ŋ ɔ ɔ b ɛ
+1216-1	1	g a β a	g a b a
+1228-1	1	b w a a	b w a
+1418-1	1	z i m a	s i m i i l a
+1475-1	1	g w a	g w a
+2026-1	1	t w ɛ ɛ	t w i
+2775-1	1	β ʊ ʊ m b a	b u m b a
+3397-1	1	β ɔ l a	b ɔ l a
+3826-1	1	z ɔ k a	s ɔ ɔ a
+4003-1	1	i β a	i β a
+4040-1	1	g ɛ n i	i e n i i
+4373-1	1	d i m i	l i m i i
+4384-1	1	i n ɔ	i ɲ ɔ
+84-1	1	g ʊ l ʊ̀	ʊ l u g ʊ l
+116-1	1	ʃ i k a	f i k a
+181-1	1	g ɔ ɔ ŋ g ɔ	g ɔ ɔ g ɔ
+419-1	1	l ɔ g a	k ɔ g a
+587-1	1	ɔ ŋ g ɔ	ɔ ɔ g ɔ
+660-1	1	l ɛ l a	l ɛ l a
+848-1	1	k a l a	k a l a
+1083-1	1	l i l a	l i l a
+1122-1	1	f u n a	f i n a
+1159-1	1	ɲ a	ɲ a a
+1350-1	1	l j a a	l j a a
+1374-1	1	n a á n ɛ	n a a n ɛ
+1396-1	1	z ɔ v u	s ɔ f u
+1430-1	1	i s ɔ	i s u
+1666-1	1	t a a n ɔ	t a a n
+1767-1	1	g ɔ k ɔ	g ɔ k ɔ
+1906-1	1	i ŋ g i l a	i i ŋ g i l a
+2177-1	1	ŋ g a	ŋ g a h i
+2286-1	1	l a	l a l
+2317-1	1	β ʊ β a	b u β a
+2419-1	1	s ɛ k a	s ɛ k a
+2750-1	1	ɛ ɛ z i	ɛ s i
+3018-1	1	z i l a	s i l a
+3275-1	1	k a á n a	k a á n a
+3441-1	1	s ɛ ɛ ŋ g a	s a á ŋ g a
+3464-1	1	β ɔ n a	β ɔ n a
+3639-1	1	d i t i m a	t e t t ɛ m a
+3885-1	1	tʃ i m u	s u m ɔ
+3981-1	1	i m a	i m a m a
+4192-1	1	β i i m b a	β i m b a
+4260-1	1	s w a a	s w a
+4350-1	1	l ɛ ɛ l ɔ ɔ	l ɛ l l o
+43-1	1	z i m u	d i m ʊ ʊ
+93-1	1	k ɔ n ɔ	k ɔ ɔ n
+200-1	1	β i i	β i i
+374-1	1	a a l w a a	a l w
+459-1	1	l u m a	k u m a
+508-1	1	h ɔ f u	b ɔ f u
+528-1	1	β i l i	β i l i i
+575-1	1	t a a	t a a
+871-1	1	t a m a	t a a m a
+1137-1	1	ʃ i k ʊ	s i i k ʊ
+1339-1	1	t w i i	t w i
+1585-1	1	a a l a	a l a
+1712-1	1	f u l ɔ	f u l ɔ
+1872-1	1	p a a	p a a
+2088-1	1	β i s a	β i s a
+2166-1	1	n u u m b a	ɲ ʊ b a
+2334-1	1	f i g ɔ	b i k ɔ
+2393-1	1	m a n a	m a n a
+2537-1	1	l ɔ m ɔ	l ɔ m ɔ
+2665-1	1	i ŋ g i	i ŋ g i i
+2738-1	1	β ɛ ɛ l ɛ	b ɛ l l ɛ
+2872-1	1	k ɔ s i	k ɔ ʃ i
+2893-1	1	z i k ʊ	t i k ʊ
+2997-1	1	g a a n z a	g a s a
+3075-1	1	g u l u β ɛ	g u l u b ɛ
+3675-1	1	l w i i l ɛ	l w a a l ɛ
+4028-1	1	w ɛ	b w e
+4137-1	1	m i l a	m i l a
+4238-1	1	i i s ɔ z i	s z ɔ ʃ i
+4316-1	1	d á t ʊ	t a t ʊ
+4429-1	1	β a s a	a s a
+4440-1	1	β i l i	b i l i i
+4485-1	1	s u	s u
+4574-1	1	z w a á l a	β w a a a
+4688-1	1	i i ŋ w ɛ	a e w e
+143-1	1	β u u	f u
+240-1	1	ɔ g a	ɔ ɔ g a
+388-1	1	n u m a	p ʊ n u m
+401-1	1	d a	d a
+599-1	1	t a á m b i	t a a b i
+649-1	1	l ɛ ɛ t a	l ɛ l t a
+755-1	1	g ʊ l a	g u l a
+836-1	1	s ʊ ʊ m b i	s u m b i
+969-1	1	i z a	ʃ a a
+994-1	1	d ɛ ɛ k a	t ɛ l ɛ k a
+1006-1	1	n u u ŋ g ʊ	ɲ u ŋ g u
+1032-1	1	k ɔ l ɔ l a	k ɔ l ɔ l a
+1043-1	1	β a l a	b a l a
+1110-1	1	t ɛ m a	t ɛ m a
+1263-1	1	d a h a	t a p a
+1273-1	1	l ɔ ɔ t a	l ɔ ɔ t a
+1329-1	1	i k a l a	i i k a
+1362-1	1	g i i	g i i
+1606-1	1	ɔ ɔ t ɔ	ɔ t ɔ
+1617-1	1	i k ɔ	d i i k o
+1629-1	1	k w i i	k w i i
+1744-1	1	i β a	i β a
+1895-1	1	dʒ a	dʒ a a a
+1917-1	1	f u m a	f u m a
+1969-1	1	m a á m a	a m a m a
+1989-1	1	ʃ a	s a a a
+2037-1	1	g a t a	k a á a
+2128-1	1	g ɛ ɛ m b ɛ	á ɛ m ɛ b ɛ
+2186-1	1	g a n a	g a a n a
+2483-1	1	g ʊ l ʊ̀	ʊ l u l
+2592-1	1	l ɔ l a	k ɔ ɔ a
+2615-1	1	d a a	d a a
+2700-1	1	g a a ŋ g a	a a ŋ g a
+2784-1	1	g ʊ l ʊ̀	g u l u
+2797-1	1	l ɔ m ɔ	ɔ m ɔ
+2884-1	1	p j a a	p j a a a
+2904-1	1	k ɛ ɛ n d a a	k ɛ n n d a
+2972-1	1	z ɛ ɛ	s ɛ e
+3030-1	1	l i p a	l i p a
+3148-1	1	i t a	i t a
+3160-1	1	l u t a	l u t a
+3261-1	1	d ɛ t ɛ	t e t ɛ
+3364-1	1	ɔ tʃ a	s ɔ t a
+3385-1	1	z i	z i i
+3419-1	1	t ɛ ɛ	t ɛ e
+3430-1	1	n u	ʊ ɲ ʊ
+3583-1	1	n ɔ ɔ l a	n ɔ ɔ
+3664-1	1	β ɛ g a	β ɛ a k a
+3706-1	1	t a a n d a t ʊ	t a á n d ʊ
+3756-1	1	s i i n z a	s i n dʒ a
+3837-1	1	k ɔ l ɔ m a	k ɔ l ɔ m a
+3865-1	1	s a s i	s a s ɛ
+4406-1	1	t i i	t i i
+4530-1	1	l ʊ k a	l u k a l
+4552-1	1	i i n z i	i z i i
+4621-1	1	n a á n i	a n i i
+2689-2	10	ɲ a m a	n a m a
+893-2	10	a a n á tʃ e	a a n a
+1303-2	10	g o m a	ŋ o m
+2197-2	10	s a l a	dʒ a a a
+2828-2	10	i n a	t i n a
+3572-2	10	s o n i	n o n n i
+1095-2	10	d i m a	l i m a
+1789-2	10	k a l a a ŋ g a	k a a a ŋ g a
+3207-2	10	w u l a	v u l a
+3519-2	10	t u m a	t u m a
+3686-2	10	iː m b a	i m b a
+4249-2	10	k u m i	k u m i
+4451-2	10	v i s i	b i s i
+448-2	10	j u n i	u n i n i
+630-2	10	v e e l e	v e e l e
+814-2	10	ŋ o o m b e	ŋ o o m b e
+1216-2	10	g a v a ɲ a	g a v a
+1228-2	10	b w a	b w a
+1418-2	10	s i m a	dʒ i m i s a
+1475-2	10	g w a	g w a
+2026-2	10	t w e	t w e
+3826-2	10	dʒ o k a	z o k a
+4003-2	10	iː v a	i v a
+4373-2	10	d i m i	l i m i
+4384-2	10	i n o	i n o
+84-2	10	s u g u l u	u l u g u
+116-2	10	j i k a	s i k a
+419-2	10	l o g a	l o g a l a
+587-2	10	o o ŋ g o	o ŋ g o
+660-2	10	l e l a	l e l a
+848-2	10	k á l a	k a a a
+1122-2	10	v i n a	v i n a
+1159-2	10	ɲ a	ɲ a
+1350-2	10	d j a	l j a
+1374-2	10	n s a a n á	n a a a n e
+1906-2	10	iː n dʒ i l a	i ŋ g l a
+2419-2	10	s e k a	s e e a
+2750-2	10	a s i	e s i
+3441-2	10	s a a ŋ g a	s e e ŋ g a
+3464-2	10	w o n a	v o o n
+3639-2	10	t e t e m e l a	d e e t e m a
+3981-2	10	iː m a	i e m a n a
+4192-2	10	j i i m b a	v i m b a
+4350-2	10	l e e l o	l e e l o
+278-2	10	v a	v a
+3971-2	10	k a m a	k a m a
+55-2	10	ɲ a m a	ɲ a a a
+43-2	10	s i i m u	d i m u
+93-2	10	k o n o	g o o n o
+459-2	10	l u m a	l u m a
+1137-2	10	s i k u	s i k u
+1585-2	10	a l a	a l a l a
+1872-2	10	p a	p a
+2166-2	10	ɲ u u m b a	t u m b a
+2872-2	10	k o s i	l o s i
+2997-2	10	g a a s a	w a s a
+3075-2	10	g u l u v e	g u l u v e
+3675-2	10	l w e e l e	w w e l e
+4137-2	10	m i l a	m i l a
+4238-2	10	i s o s i	s o s u s i
+4316-2	10	t a t u	t a t u
+4574-2	10	w a a l a	w w a l a
+3067-2	10	n d u	n t u
+3531-2	10	a a n i k a	a a e ŋ g a
+1033-2	10	k o s o m o l a	k o o o l a
+3185-2	10	v i i k a	v i i a
+794-2	10	v e l e k a	v i e k a
+143-2	10	w u	w u
+240-2	10	o o g a	o g a
+388-2	10	p a ɲ u m a	n u m a
+599-2	10	dʒ a a m b i	t a a m b i
+969-2	10	iː s a	s a
+994-2	10	t e l e k a	t e e l a
+1606-2	10	o o t o	o o o
+1629-2	10	k w i	k w i
+1895-2	10	dʒ a	dʒ a
+2592-2	10	l o l a	l o g a
+2884-2	10	m p j a	p j a
+3148-2	10	iː t a	i t a
+3261-2	10	t e t e	t e t e
+3583-2	10	n oː l a	n o l a
+3837-2	10	k o l o m a	l o r o m a
+4621-2	10	a n i	a a i n i
+1929-2	10	b u s i	b u s i
+3940-2	10	v á l a	p a l a
+860-2	10	v i i ŋ g a	b i ŋ g a
+2057-2	10	t i m a	t i m a
+552-2	10	w u p a	p u p a
+959-2	10	b e p o	p e p o
+1495-2	10	w u t a	p u t a
+2689-3	2	ɲ a m a	ɲ a m a
+893-3	2	a a n a	a a n a
+1285-3	2	ɲ w a	ɲ w a
+1303-3	2	ŋ o m a	ŋ o m a
+2197-3	2	dʒ a l a	s a a a
+2828-3	2	s i n a	l i n a
+3572-3	2	s o n i	s o n i
+1095-3	2	l i m a	l i m a
+1755-3	2	n e	n a
+1789-3	2	x a l a a ŋ g a	k a a ŋ g a
+3207-3	2	f u l a	b u l a
+3519-3	2	r u m a	tʰ u m a
+3686-3	2	i i m b a	i m b a
+4249-3	2	x u m i	k u m i
+4451-3	2	β i s i	b i s i
+448-3	2	ɲ u n i	u ɲ i
+630-3	2	β e e l e	β e l e
+1216-3	2	k a β a	k a β a
+1228-3	2	b w a	b w a
+1418-3	2	s i m i s j a	s i m a
+1475-3	2	k w a	k w a
+3397-3	2	β o l o	b o l a
+4003-3	2	i i β a	j a f a
+4040-3	2	k e n i	i e i
+4373-3	2	l i m i	l i m i
+4384-3	2	i n o	i n o
+181-3	2	k o o ŋ g o	k o ŋ g o
+419-3	2	l o k a	l o k a
+587-3	2	o o ŋ g o	o ŋ g o
+660-3	2	l e l a	l e l a
+1083-3	2	l i l a	l i l a
+1350-3	2	l j a	l j a
+1374-3	2	n a a n e	n a a n a
+1396-3	2	dʒ o f u	tʰ o f u
+1666-3	2	r a a n o	tʰ a n o
+1767-3	2	g o x o	k o x o
+1906-3	2	ŋ g i l a	i ŋ g i l a
+2177-3	2	ŋ g a	ŋ g a h i
+2286-3	2	l a	l a
+2317-3	2	β u β a	f u β a
+2750-3	2	e e s i	e s i
+3275-3	2	k a a n a	k a a n a
+3464-3	2	β o n a	f o n a
+3639-3	2	tʰ e r e m a	tʰ e e m b l a
+3981-3	2	i i m a	i m a
+4192-3	2	β ìì m b a	f i m b a
+4260-3	2	s w a	s w a
+4350-3	2	l e e l o	l e l l o
+278-3	2	β a	β a
+745-3	2	tʰ a x o	t a k o
+3971-3	2	x a m a	k a m a
+93-3	2	x o n o	k o n o
+200-3	2	β i	β i
+374-3	2	l w a	a l w l a
+508-3	2	β o f u	f o f u
+528-3	2	β i l i	β i l i
+1137-3	2	s u k u	s i x u
+1585-3	2	a a l a	a l a
+1712-3	2	f u l o	f u l o
+2088-3	2	β ìì x a	v i s a
+2334-3	2	b i k o	f i k o
+2393-3	2	m a ɲ a	m a n a
+2665-3	2	i i ŋ g i	i ŋ g i
+2738-3	2	β e e l e	β e l e
+3675-3	2	l w á a l e	l w e l e
+4137-3	2	m i l a	m i l a
+4440-3	2	β i l i	b i l i
+4574-3	2	f w a a l a	l w a l a
+4688-3	2	w e	a a w e
+2798-3	2	n w a	n w a
+3067-3	2	n tʰ u	n t u
+3531-3	2	a a n i x a	a a i k a
+3767-3	2	l o	l o
+4632-3	2	x a s i	k a s i
+401-3	2	d a	tʰ a
+649-3	2	l e e r a	l e e t a
+755-3	2	k u l a	g u l a
+1032-3	2	x o l o l a	k o l o l a
+1043-3	2	β a l a	b a l a
+1273-3	2	l o o r a	l o t a
+1362-3	2	k i	k i
+1895-3	2	tʃ a	dʒ a
+2615-3	2	d a	tʰ a
+2784-3	2	k u l u	k u l u
+2904-3	2	k e e n d a	k e e n d a
+3385-3	2	s i	s i
+3430-3	2	u ɲ u	u ɲ u
+3664-3	2	β e k a	β e g a
+3756-3	2	s ìì n dʒ a	s i n s a
+24-3	2	tʰ u x a	tʰ u k a
+542-3	2	β i l a	β i l a
+564-3	2	a a x a	h a k a
+928-3	2	x o l o	k o l o
+1181-3	2	f w a	f w a
+1241-3	2	p u u n d a	p u n d a
+1607-3	2	l i l o	l i l o
+1929-3	2	b u s i	b u s i
+2852-3	2	x o f u	k u f u
+3198-3	2	l o m a n a	o m a n a
+3502-3	2	ŋ e n e	i ə̃˞
+3598-3	2	β e k a	β e k a
+3698-3	2	i i x a l a	i x a l a
+3735-3	2	k u l u	u l u
+3940-3	2	p á l a	β a l a
+2689-4	3	ɲ a m a	ɲ a m a
+893-4	3	a n a	a á a
+1285-4	3	ɲ w á a	ɲ w a
+3572-4	3	s ɔ n i	s o n i
+1755-4	3	n a	n e e
+1789-4	3	k á l i ŋ g a	k a l a ŋ g a
+3686-4	3	j e m b a	i m b a
+4451-4	3	b i s i	b i s i
+1216-4	3	k a b a	g a b a
+4003-4	3	j i b a	i b a
+419-4	3	l ɔ g ɔ	l ɔ g a
+1122-4	3	b i n a	b i n a
+1430-4	3	i s u	i s o
+1666-4	3	t á n o	t a n o
+1767-4	3	ts o ts o	g ɔ k ɔ
+55-4	3	ɲ a m a	ɲ a m a
+94-4	3	b ɔ g ɔ	b o k ɔ
+2717-4	3	ŋ g a ŋ g a	ŋ a ŋ g a
+1339-4	3	t w e e	t w i i
+4632-4	3	a s i	k a s i
+2784-4	3	k u l i	k u l o
+3160-4	3	l u r a	l u r a
+675-4	3	t o ŋ g a	t u ŋ g a
+860-4	3	b e ŋ g a	b i ŋ g a
+1151-4	3	s a	s i i
+1631-4	3	k o ɲ i	k u n i
+2057-4	3	t e m a	t i m a
+2689-5	4	n a m a	n a m
+893-5	4	a n a	a n a
+1285-5	4	n w	n w á
+1303-5	4	ŋ o m a	ŋ o m a
+2197-5	4	s a l a	s a l a
+2828-5	4	ʃ i n a	i i n
+3572-5	4	s o n i	s o n i
+1095-5	4	l i m	l i m a
+3207-5	4	f u l a	f u l a
+3519-5	4	t u m	t u m a
+3686-5	4	i m b	i m b a
+4249-5	4	k u m i	k u m i
+448-5	4	u n i	n u n i
+630-5	4	β e e l e	β e l e
+814-5	4	ŋ o m b e	ŋ o m b e
+1228-5	4	b w a	b w á
+1418-5	4	ʃ i m	s i m i
+2026-5	4	t w e	t w e
+2775-5	4	β u m b	b u m b a
+3397-5	4	β o l	β o l o
+3826-5	4	s o k a	s o k a
+4040-5	4	e n i	g e n i
+4373-5	4	l i m i	l i m i
+4384-5	4	i n o	i n o
+84-5	4	u l u	s u l u
+116-5	4	f i k	ʃ i k
+587-5	4	o ŋ g o	o n g o
+848-5	4	k á l aː	k a l a
+1159-5	4	ɲ	n a
+1350-5	4	l j	l j a
+1396-5	4	s o f u	dʒ o f u
+1430-5	4	i n s o	i s u
+1767-5	4	k o k o	g o k o
+2286-5	4	l a	l a
+2317-5	4	f u β a	f u β a
+2419-5	4	s e k	ʃ e k
+2750-5	4	e ʃ i	e ʃ i
+3018-5	4	ʃ i l a	s i l a
+3275-5	4	k a a n	k a n
+3441-5	4	s e ŋ g a	s e ŋ g a
+3885-5	4	f u m o	s u m o
+4192-5	4	f i m b	β i m b a
+4260-5	4	s w a	s w a
+4350-5	4	l e e l o	l e l o
+278-5	4	β	β a
+745-5	4	t á k o	t a k o
+3971-5	4	k á m	k a m a
+55-5	4	n a m a	n a m a
+94-5	4	β o k o	b o k o
+2717-5	4	ŋ a ŋ g a	ŋ g a ŋ g
+4139-5	4	m i n	m i n dʒ a
+200-5	4	β i	β i
+374-5	4	a l w a	l w á l
+508-5	4	p o f u	f o f u
+528-5	4	β i l i	β i l i
+575-5	4	t a	t a
+1137-5	4	ʃ i k u	ʃ i k u
+1339-5	4	t w i	t w i
+1872-5	4	p	p a
+2537-5	4	l o m o	l o m o
+2738-5	4	β e e l e	β e l e
+2872-5	4	k o ʃ i	k o s i
+2893-5	4	ʃ i k u a	s i k u
+3675-5	4	l w e l e	l w e l e l
+4028-5	4	β w e	w e
+4238-5	4	s o ʃ i	i ʃ o s i
+4429-5	4	p á s a	a s a
+4485-5	4	s u	s u
+2798-5	4	n w a	n w á
+3531-5	4	a n i k	a n i k
+3767-5	4	l o	l o
+4632-5	4	k á ʃ i	k a s i
+1033-5	4	k o o l	k o l o l
+3185-5	4	β i i k	f i k
+649-5	4	l e e t	l e l e
+1110-5	4	t e m	t e m
+1263-5	4	t á p	t a h
+1273-5	4	l o o t	l o o o t
+1329-5	4	i k a l	i k a l
+1617-5	4	ʃ i k o	u k o
+1917-5	4	f u m	f u m
+1969-5	4	m a m a	m m a
+2483-5	4	u l u	k u l u
+2615-5	4	d a	d a
+2700-5	4	a ŋ g a	g a ŋ g a
+2884-5	4	p j a	m j a
+2972-5	4	s e	ʃ e
+3030-5	4	l i p	l i p a
+3261-5	4	t e t e	t e l e
+3419-5	4	t e	t e
+3664-5	4	β e a	β e g
+3706-5	4	t a n d a	t a n d a r
+3865-5	4	s á s e	s a s i
+4406-5	4	t i	t i
+4530-5	4	l u k	l u k a
+4552-5	4	i n ʃ i	i z i
+24-5	4	t u k	t u k a
+542-5	4	β i l a u k	β i l a
+1181-5	4	f w	f w a
+1241-5	4	p u n d a	p u n d a
+1607-5	4	l i l o	l i l o
+1929-5	4	b u ʃ i	b u s i
+3598-5	4	β e	β e k
+3698-5	4	i k a l	i k á l
+3735-5	4	u l u	g u l u
+3940-5	4	β á l a	f a l a
+1631-5	4	k u n i	k u n i
+2057-5	4	t i m a	t i m a
+552-5	4	f u p a	f u p a
+959-5	4	p e p o	f e h o
+1318-5	4	k u ŋ g u	k u ŋ g u
+1411-5	4	f i	β i
+1495-5	4	f u t a	f u t
+1578-5	4	l w	l w a
+1303-6	5	g ɔ m	ŋ ɔ m
+1755-6	5	n a	n e
+448-6	5	n u n i	ɲ u n i
+1475-6	5	k w ɔ	g w a
+3397-6	5	ɓ ɔ l	b ɔ l ɔ
+2286-6	5	l a	l a
+278-6	5	ɓ a	b a
+2717-6	5	g a ŋ g a	ŋ a ŋ g a
+4137-6	5	m i l	m i l a
+3767-6	5	l ɔ	l ɔ
+1033-6	5	k ɔ h ɔ l	k o l
+2689-7	6	ɲ a m a	ɲ a m a
+893-7	6	a n a	a n a
+1285-7	6	n w a	ɲ w a
+1303-7	6	ŋ g o m a	ŋ o m a
+2197-7	6	z a	z a l a
+2828-7	6	z i n a	i n a
+3572-7	6	s o n i	tʃ o n i
+1095-7	6	i m a	u i m a
+1755-7	6	n e	n e
+1789-7	6	k á l a ŋ g a	k a ŋ g a
+3519-7	6	t u m a	t u m a
+3686-7	6	i m b a	i m b a
+4249-7	6	k u m i	k u m i
+4451-7	6	v i s i	v i s i
+814-7	6	ŋ o m b e	ŋ o m b e
+1216-7	6	ɣ a v a	ɣ a v a
+1475-7	6	g w a	ɣ w a
+2026-7	6	t w i	t w e
+2775-7	6	v u m b a	v u m b a
+3826-7	6	o k a	z o k a
+4003-7	6	i v a	i v a
+4040-7	6	ɣ e n i	d e n i
+84-7	6	s u g u r u	o u ɣ u
+116-7	6	f i k a	s i k a
+181-7	6	ɣ o ŋ g o	ɣ o ŋ g o
+419-7	6	o ɣ a	o ɣ o
+587-7	6	o ŋ g o	o ŋ g o
+660-7	6	r e r a	o e l a
+848-7	6	k á a	k a l a
+1122-7	6	v i n a	v u n a
+1159-7	6	ɲ a	ɲ a
+1374-7	6	n a n e	n a n e
+1396-7	6	z o v u	z o f u
+1430-7	6	i s o	i s o
+1906-7	6	i ŋ g i a	i ŋ dʒ i l a
+2177-7	6	ŋ g a h i	ŋ g a
+2419-7	6	s e k a	z e k a
+3018-7	6	z i a	z i l a
+3275-7	6	k á n a	k a n a
+3441-7	6	s a ŋ g a	s e ŋ g a
+3464-7	6	v o n a	v o n a
+3639-7	6	t e t e m a	d i t i m a
+3885-7	6	tʃ u m o	tʃ u m o
+4192-7	6	v i m b a	v i m b a
+745-7	6	t á k o	t a k o
+3971-7	6	k á m a	g a m a
+55-7	6	a m a	ɲ a m a
+2717-7	6	ɣ a ŋ g a	ŋ a ŋ g a
+4139-7	6	m i dʒ a	m i n a
+93-7	6	k o n o	g o n o
+459-7	6	u m a	u m a
+575-7	6	t a	t a
+1712-7	6	f u o	v u l o
+2088-7	6	v i s a	v i s a
+2166-7	6	u m b a	ɲ u m b a
+2334-7	6	f i ɣ o	v i ɣ o
+2393-7	6	m a ɲ a	m a ɲ a
+2537-7	6	o m o	o m o
+2665-7	6	i ŋ g i	i ŋ g i
+2997-7	6	ɣ a n z a	ɣ a s a s a
+4028-7	6	b w e	w e
+4316-7	6	t á t u	t a t u
+4429-7	6	a z a	v a s a
+4688-7	6	w e	i ɲ w e
+3067-7	6	n t u	n d u
+3185-7	6	v i k a	v i k a
+794-7	6	v e k a	v e k e k a
+143-7	6	v u	v u
+388-7	6	u m a	n u m a
+599-7	6	t á m b i	t a m b i
+836-7	6	tʃ u m b i	s u m b i
+969-7	6	z a	i s a
+1110-7	6	t e m a	t e m a
+1263-7	6	t á h a	t a h a
+1329-7	6	i k a a	i k a l a
+1362-7	6	g i	ɣ i
+1606-7	6	o t o	o t o
+1629-7	6	k w i	k w i
+1744-7	6	i v a a	i v a
+1917-7	6	f u m a	v u m a
+1989-7	6	ʃ a ɣ a	s a ɣ a
+2037-7	6	ŋ g á t a	ɣ a t a
+2128-7	6	ɣ e m b e	ɣ e m b e
+2186-7	6	ɣ a n a	ɣ a n a
+2700-7	6	ɣ a ŋ g a	g a ŋ g a
+2797-7	6	o m o	o m o m o
+2904-7	6	k e n d a	k e n d a
+2972-7	6	z e	z e
+3148-7	6	i t a	i t a
+3364-7	6	ʃ o t a	o tʃ a
+3419-7	6	t e	t e
+3430-7	6	u ɲ u	ɲ n u
+3583-7	6	n o a	n o o l a
+3706-7	6	t á n d á t u	t a n d a r
+3756-7	6	s i n z a	s i n d a
+3837-7	6	h o r o m a	k o m o m a
+4406-7	6	t i	t i
+4621-7	6	a n i	á ɲ i
+564-7	6	h a k a	á ɣ á
+928-7	6	k o l o	g o l o
+1181-7	6	f w a	v w á
+1241-7	6	p u n d a	p u n d a
+2852-7	6	k u v u	g o f u
+3198-7	6	o m a n a	o m a n a
+3502-7	6	e ɲ e	ŋ e n e
+675-7	6	dʒ e ŋ g a	t u ŋ g a
+1151-7	6	s i	s i
+959-7	6	p e h o	p e p o
+1411-7	6	v i	v i
+1495-7	6	f u t a	v u t a
+2689-8	7	a m a	n a m a
+1285-8	7	n w a	n w a
+1303-8	7	g o m a	ŋ ô m a
+2197-8	7	dʒ á r a	ʝ a l a
+2828-8	7	d î n a	tʃ i n a
+3572-8	7	tʃ ô n i	ʃ o n i
+1755-8	7	i n e	n ɛ
+1789-8	7	k a ŋ g a	k a l a ŋ g a
+3207-8	7	v u r a	v u l a
+3519-8	7	t u m a	t u m a
+3686-8	7	ʝ î m b a	tʃ i m b a
+4249-8	7	k u m i	k u m i
+4451-8	7	β i ʃ u	v i s i
+814-8	7	g o m b e	ŋ ô m b e
+1228-8	7	b w a	b w á
+2026-8	7	t w e	t w e
+2775-8	7	β u m b a	b u m b a
+3826-8	7	ʝ ô k a	r ô k a
+4040-8	7	ɣ e n i	k e n i
+181-8	7	ɣ ɔ ŋ g ɔ	k ô ŋ g o
+660-8	7	r ɛ r a	l e l a
+848-8	7	k a r a	k a l a
+1083-8	7	l i r a	l i l a
+1159-8	7	ɲ a	ɲ a
+1350-8	7	l j a	l j a
+1396-8	7	dʒ o v u	ʝ o f u
+1666-8	7	t á n o	t a n o
+2177-8	7	ŋ g á p i	ŋ g a
+2317-8	7	f u p a	v u β a
+4260-8	7	ʃ w a	ʃ w a
+745-8	7	t a k o	t a k o
+3971-8	7	k a m a	k a m a
+94-8	7	β ɔ k ɔ	b o k o
+2717-8	7	g a ŋ g a	ŋ a ŋ g a
+4139-8	7	m i n a	m i n a
+43-8	7	d î m u	ʝ i m u
+575-8	7	t a	t a
+871-8	7	t a m a	t a m a
+1339-8	7	t w i	t w i
+1585-8	7	a r a	a l a
+1872-8	7	p a	p a
+2893-8	7	t î k u	ʝ i k u
+4028-8	7	w e	v w e
+4316-8	7	t á t u	t a t u
+4440-8	7	β i r i	v i l i
+4485-8	7	ʃ u	tʃ u
+4688-8	7	a n w e	v i ŋ
+2798-8	7	n w a	n w a
+794-8	7	v i k a	v e k e
+994-8	7	t e r e k a	d e k e
+1006-8	7	ɲ u ŋ g u	ɲ u ŋ u
+1043-8	7	v á r a	v a l a
+1617-8	7	d î k o	p î k o
+1969-8	7	a m a	m a m a
+3364-8	7	ʝ o t a	r ô t a
+4530-8	7	r u k a	r u k a
+928-8	7	k ô r o	k ô l o
+2852-8	7	k ô v u	k ô f u
+675-8	7	t u ŋ g a	t e ŋ g a
+860-8	7	β i ŋ g a	v i ŋ g a
+1631-8	7	k u n i	ŋ ô n a
+552-8	7	f u p a	v u p a
+1318-8	7	k u ŋ g u	k u ŋ g u
+1578-8	7	r w a	r w á
+2689-9	8	ɲ a m a	ɲ a m a
+893-9	8	a n a	a á a a
+1285-9	8	n w a	n w a
+1303-9	8	g o m a	ŋ o m a
+2197-9	8	z a l a	s a l a
+2828-9	8	i n a	z i n a
+3572-9	8	s o n i	s o n i
+1095-9	8	l i m a	l i m a
+1789-9	8	k á l a ŋ g a	k á l a ŋ g a
+3207-9	8	b u l a	b ʊ l a
+4249-9	8	k ʊ m i	k ʊ m i
+4451-9	8	b i s i	b i s i
+630-9	8	b e l e	b e l e
+814-9	8	g o m b e	ŋ g m b e
+1228-9	8	b w a	b w a
+1418-9	8	z i m y a	s i m i s i
+1475-9	8	g w a	k w a
+2026-9	8	t w e	s w e
+2775-9	8	b ʊ m b a	b ʊ m b a
+3397-9	8	b o l a	b o l o
+3826-9	8	z o k a	z o k a
+4003-9	8	i b a	e b a
+4040-9	8	g e n i	g e n i
+4373-9	8	l á m i	l i m i
+4384-9	8	i ɲ o	i n o
+116-9	8	i k a	s i k a
+181-9	8	g o ŋ g o	g o ŋ g o
+1083-9	8	l i l a	l ʊ l a
+1374-9	8	n á a n a	n a n e
+1430-9	8	i s o	i s o
+1666-9	8	t á n o	s a n o
+1767-9	8	k o k o	g o k o
+1906-9	8	i ŋ g i l a	i ŋ g i l a
+2177-9	8	ŋ g a	ŋ g a
+2419-9	8	s e k a	s e k a
+2750-9	8	e z i	e ʃ i
+3018-9	8	z i l a	z i l a
+3441-9	8	s á ŋ g a	s e ŋ g a
+3885-9	8	s u m o	s ʊ m o
+3981-9	8	i m a n a	e m a
+4260-9	8	s w a	s w a
+4350-9	8	l e l o	l e l o
+278-9	8	b a	b a
+745-9	8	t á k o	s a k o
+55-9	8	ɲ a m a	ɲ a m a
+94-9	8	b o k o	b o k o
+4139-9	8	m e n a	m i n d a
+200-9	8	b i	b i
+528-9	8	b i l i	b i l i
+871-9	8	t á m a	s a m a
+2088-9	8	b i s a	b i s a
+2166-9	8	u m b a	n ʊ m b a
+2334-9	8	p i k ʊ̀	b i g o
+2393-9	8	m e ɲ a	m a ɲ a
+2537-9	8	l o m o	l o m o
+2665-9	8	i ŋ g i	i ŋ g i
+2738-9	8	b e l e	b e l e l
+2872-9	8	k o s i	k o ʃ i
+2997-9	8	k á s a	g a n z a
+3075-9	8	g ʊ l ʊ b e	k u l u b e
+4238-9	8	i s o z i	u s i z o
+4429-9	8	a s a	p a s a
+4440-9	8	b i l i	b i l i
+4485-9	8	s ʊ̀	s u
+4574-9	8	b w á l a	l w a l a l l
+2798-9	8	n w a	n w a
+3067-9	8	n t ʊ̀	n d u
+3767-9	8	l o	l o
+4632-9	8	k á z i	k á s i
+1033-9	8	k o s o l a	k o l o l
+3185-9	8	b i k a	b i k a
+240-9	8	o g a	o ŋ g
+401-9	8	d a	d a
+755-9	8	g ʊ l a	k u l a
+836-9	8	s u m b i	s u m b i
+1006-9	8	ʊ ŋ g ʊ	ɲ ʊ ŋ g u
+1744-9	8	i b a	i b a
+1989-9	8	s a g a	s a g a
+2037-9	8	k a r a	k a r t a
+2128-9	8	e m b e	g e m b e
+2186-9	8	g a n a	g a n a
+2483-9	8	g ʊ l ʊ̀	k u l u
+2592-9	8	l o l a	l o l a
+3030-9	8	l i p a	l i p a
+3160-9	8	l u r a	l ʊ r a
+3385-9	8	z i	s i
+3865-9	8	s á s e	s á s i
+4552-9	8	n z i	i ɲ ʃ i
+564-9	8	a g a	a g á
+3502-9	8	n e n e	i n e
+3598-9	8	b e g a	b e k a
+3698-9	8	i k a l a	i k á l a
+3735-9	8	g ʊ l ʊ̀	k ʊ l u
+1151-9	8	s i	s i
+1318-9	8	k u ŋ g u	k ʊ ŋ g u
+1411-9	8	b i	b i
+2689-10	9	n a m a	n a m a
+893-10	9	a n a	a n a
+1285-10	9	n w a	n w a
+2197-10	9	t ɬ a l a	s á l a
+2828-10	9	i n a	s i n a
+1095-10	9	l i m a	l i m a
+1755-10	9	n ɛ	n e
+3207-10	9	p u l a	b u l a
+3519-10	9	r ʊ m a	n̩ u m a
+448-10	9	n ɔ ɲ á n i	n̩ u n i
+630-10	9	b ɛ l ɛ	b e l e
+1216-10	9	a b a	k a b a
+1418-10	9	t i m a	s i m i s a
+2775-10	9	b ʊ p a	b ʊ m b a
+3397-10	9	b ɔ l a	b ɔ l a
+4373-10	9	l i m i	l i m i
+4384-10	9	i n ɔ	i n o
+84-10	9	ʊ l ʊ̀	s u g ʊ l u
+1083-10	9	l i l a	l i l a
+1122-10	9	b i n a	b i n a
+2286-10	9	l a	l a
+2317-10	9	f u f a	b ʊ b a
+3018-10	9	ts i l a	s i l a
+3275-10	9	χ á n a	k a n a
+3464-10	9	b ɔ n a	b ɔ n a
+3639-10	9	t ɛ t ɛ s ɛ l a	t i r e m a
+3885-10	9	r u m ɔ	s u m ɔ
+3981-10	9	ɛ m a	i m a
+94-10	9	b ɔ χ ɔ	b ɔ k o
+4139-10	9	m i ts a	m i n ɬʰ a
+43-10	9	d i m ʊ	s i m ʊ
+374-10	9	dʒ a l w a	l á b a
+459-10	9	l ʊ m a	l ʊ m a
+508-10	9	f o f u	b ɔ f u
+871-10	9	r á m a	s a m a
+1712-10	9	f u l ɔ	f u l o
+2893-10	9	s i χ ʊ	s i k ʊ
+3075-10	9	k ʊ l ʊ b ɛ	k u l b b e
+3531-10	9	a n ɛ χ a	á n i k i
+794-10	9	b ɛ l ɛ χ a	b e k a
+1032-10	9	χ ɔ tɬʰ ɔ l a	χ ɔ l ɔ l a
+2797-10	9	l o m ʊ̀	ɔ m ɔ
+24-10	9	r ʊ χ a	d ʊ̀ k a
+542-10	9	b i l a	b i l a
+1607-10	9	l i l ɔ	l i l o
+3198-10	9	ɔ m á n a	l a m a n a
+1578-10	9	l w a	l w a
