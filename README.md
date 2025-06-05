@@ -14,22 +14,22 @@ If you use this code in your work, please cite:
 > Wientzek, T. (2025). Using phonological feature vectors for automated phonological reconstruction and reflex prediction. Open Research Europe.
 
 ## How to run
-To replicate the findings of the study, it would be preferable to create a fresh Virtual Environment wit Python 3.9+ in this folder.
-This can be done by navigating to this folder in the command prompt and running the following command:
-`python -m venv venv`
-Then, activate the Virtual Environment
-Mac/Linux:
-`source .venv/bin/activate`
-Windows:
-`.venv\Scripts\activate`
-You can then install all required packages via
-`pip install -r requirements.txt`
-
-All experiments can be run using the run.py script, with the option to tweak many parameters. 
-If you would for example like to run the reflex prediction task using 16 epochs in training and fine-tuning, only using test proportions of 30% and 50% and a dropout of 0.3 in the encoder and decoder, you would run:
-`python run.py reflex num_epochs=16 fine_tune_epochs=16 missing_prob=0.50,0.30 dropout=0.3`
-To see all tweakable parameters, run:
-`python run.py -h`
+To replicate the findings of the study, it would be preferable to create a fresh Virtual Environment wit Python 3.9+ in this folder.  
+This can be done by navigating to this folder in the command prompt and running the following command:  
+`python -m venv venv`  
+Then, activate the Virtual Environment  
+Mac/Linux:  
+`source .venv/bin/activate`  
+Windows:  
+`.venv\Scripts\activate`  
+You can then install all required packages via  
+`pip install -r requirements.txt`  
+  
+All experiments can be run using the run.py script, with the option to tweak many parameters.  
+If you would for example like to run the reflex prediction task using 16 epochs in training and fine-tuning, only using test proportions of 30% and 50% and a dropout of 0.3 in the encoder and decoder, you would run:  
+`python run.py reflex num_epochs=16 fine_tune_epochs=16 missing_prob=0.50,0.30 dropout=0.3`  
+To see all tweakable parameters, run:  
+`python run.py -h`  
 
 
 ## References
