@@ -11,7 +11,7 @@ The repository is structured as follows:
 - metrics: functions to calculate the metrics
 
 If you use this code in your work, please cite:
-> Wientzek, T. (2025). Using phonological feature vectors for automated phonological reconstruction and reflex prediction. Open Research Europe.
+> Wientzek, T. (forthcoming). Using phonological feature vectors for automated phonological reconstruction and reflex prediction. Open Research Europe.
 
 ## How to run
 To replicate the findings of the study, it would be preferable to create a fresh Virtual Environment wit Python 3.9+ in this folder.  
