@@ -29,8 +29,9 @@ You can then install all required packages via
 
 
 All experiments can be run using the run.py script, with the option to tweak many parameters.  
-If you would for example like to run the reflex prediction task using 16 epochs in training and fine-tuning, only using test proportions of 30% and 50% and a dropout of 0.3 in the encoder and decoder, you would run:  
+If you would for example like to run the model on the reflex prediction task using 16 epochs in training and fine-tuning, only using test proportions of 30% and 50% and a dropout of 0.3 in the encoder and decoder, use:  
 `python run.py reflex num_epochs=16 fine_tune_epochs=16 missing_prob=0.50,0.30 dropout=0.3`  
+
 To see all tweakable parameters, run:  
 `python run.py -h`  
 
