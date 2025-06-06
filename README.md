@@ -2,13 +2,13 @@
 Data, code and results accompanying the Feature Vector Transformer (FeVeT) paper.
 
 The repository is structured as follows:
-- code: all scripts for data preparation, the model, model training and evaluation
-- data: CLTS (List et al., 2024) data, data for the proto-language reconstruction task (List et al., 2022a) and data for the reflex prediction task (List et al., 2022b)
-- error_analysis: output files of the error analysis
-- model_checkpoints: the trained models
-- results: detailed and aggregated model performances
-  - predictions: tables with model outputs vs. gold forms
-- metrics: functions to calculate the metrics
+- [code](/code/): all scripts for data preparation, the model, model training and evaluation
+- [data](/data/): CLTS (List et al., 2024) data, data for the proto-language reconstruction task (List et al., 2022a) and data for the reflex prediction task (List et al., 2022b)
+- [error_analysis](/error_analysis/): output files of the error analysis
+- [model_checkpoints](/model_checkpoints/): the trained models
+- [results](/results/): detailed and aggregated model performances
+  - [predictions](/results/predictions/): tables with model outputs vs. gold forms
+- [metrics](/metrics/): functions to calculate the metrics
 
 If you use this code in your work, please cite:
 > Wientzek, T. (forthcoming). Using phonological feature vectors for automated phonological reconstruction and reflex prediction. Open Research Europe.
