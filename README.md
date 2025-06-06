@@ -25,7 +25,7 @@ Windows:
 `venv\Scripts\activate`  
 
 To be safe, upgrade pip and then install all required packages via  
-`python -m pip install --upgrade pip  
+`python -m pip install --upgrade pip
 pip install -r requirements.txt`  
 
 
