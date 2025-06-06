@@ -18,7 +18,7 @@
 #   - dropout: dropout rate
 #   - learning_rate: learning rate
 #   - n_epochs: number of epochs
-#   - num_steps: number of steps
+#   - n_steps: number of steps
 #   - batch_size: batch size
 #   - missing_prop: proportion of missing data (e.g. 0.50 or 0.50,0.30)
 #   - pretrain: whether to pretrain or load existing model
@@ -58,7 +58,7 @@ reflex_args = {
     "nlayers_dec": 2,
     "dropout": 0.15,
     # training params
-    "num_steps": 500,
+    "n_steps": 500,
     "n_epochs": 32,
     "batch_size": 48,
     "learning_rate": 5e-4,
@@ -82,7 +82,7 @@ proto_args = {
     "nlayers_dec": 2,
     "dropout": 0.15,
     # training params
-    "num_steps": 500,
+    "n_steps": 500,
     "n_epochs": 32,
     "batch_size": 48,
     "learning_rate": 1e-3,
