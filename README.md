@@ -16,14 +16,19 @@ If you use this code in your work, please cite:
 ## How to run
 To replicate the findings of the study, preferably create a fresh Virtual Environment (tested with Python 3.12, CUDA 12.8) after cloning this folder.  
 This can be done by navigating to this folder in the command prompt and running the following command:  
-`python -m venv venv`  
+```bash
+python -m venv venv
+```  
 
 Then, to activate the Virtual Environment:  
 Mac/Linux:  
-`source venv/bin/activate`  
+```bash
+source venv/bin/activate
+```
 Windows:  
-`venv\Scripts\activate`  
-
+```bash
+venv\Scripts\activate`  
+```
 To be safe, upgrade pip and then install all required packages via  
 ```bash
 python -m pip install --upgrade pip
@@ -33,12 +38,16 @@ pip install -r requirements.txt
 
 All experiments can be run using the run.py script, with the option to tweak many parameters.  
 If you would for example like to run the model on the reflex prediction task using 16 epochs in training and fine-tuning, only using test proportions of 30% and 50% and a dropout of 0.3 in the encoder and decoder, use:  
-`python run.py reflex num_epochs=16 fine_tune_epochs=16 missing_prob=0.50,0.30 dropout=0.3`  
+```bash
+python run.py reflex num_epochs=16 fine_tune_epochs=16 missing_prob=0.50,0.30 dropout=0.3
+```
 All results and predictions are exported to the [results](/results/) folder.  
 
 
 To see all tweakable parameters, run:  
-`python run.py -h`  
+```bash
+python run.py -h
+``` 
 
 
 ## References
