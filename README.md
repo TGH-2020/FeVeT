@@ -27,7 +27,7 @@ source venv/bin/activate
 ```
 Windows:  
 ```bash
-venv\Scripts\activate`  
+venv\Scripts\activate  
 ```
 To be safe, upgrade pip and then install all required packages via  
 ```bash
