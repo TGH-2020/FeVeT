@@ -37,7 +37,7 @@ def save_model(model, name = "model"):
     torch.save(model.state_dict(), pth)
 
 ## Reflex prediction
-def training(model, train_dataloader, dev_dataloader, optimizer, n_epochs, num_steps, save_name, save = True, print_loss = False):
+def training(model, train_dataloader, dev_dataloader, optimizer, n_epochs, n_steps, save_name, save = True, print_loss = False):
     eval_loss = 0
     for epoch in trange(n_epochs, desc="Epoch", position=0):
         model.train()
@@ -52,7 +52,7 @@ def training(model, train_dataloader, dev_dataloader, optimizer, n_epochs, num_s
             optimizer.step()
             total_loss += loss.item()
 
-            if step == num_steps:
+            if step == n_steps:
                 break
         if print_loss:
             print(f"Epoch {epoch + 1}, Loss: {total_loss:.4f}")
@@ -169,7 +169,7 @@ def pretrain_proto(data, model_name, args):
                     dev_dataloader, 
                     optimizer, 
                     args["n_epochs"],
-                    args["num_steps"],
+                    args["n_steps"],
                     model_name,
                     save = True,
                     print_loss = args["print_loss"])
