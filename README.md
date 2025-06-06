@@ -14,15 +14,15 @@ If you use this code in your work, please cite:
 > Wientzek, T. (forthcoming). Using phonological feature vectors for automated phonological reconstruction and reflex prediction. Open Research Europe.
 
 ## How to run
-To replicate the findings of the study, it would be preferable to create a fresh Virtual Environment wit Python 3.9+ in this folder.  
+To replicate the findings of the study, preferably create a fresh Virtual Environment (tested with Python 3.9) after cloning this folder.  
 This can be done by navigating to this folder in the command prompt and running the following command:  
 `python -m venv venv`  
 
 Then, to activate the Virtual Environment:  
 Mac/Linux:  
-`source .venv/bin/activate`  
+`source venv/bin/activate`  
 Windows:  
-`.venv\Scripts\activate`  
+`venv\Scripts\activate`  
 
 You can then install all required packages via  
 `pip install -r requirements.txt`  
