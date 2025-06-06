@@ -60,7 +60,7 @@ def train_reflex(args, language_families):
                             dev_dataloader, 
                             optimizer, 
                             args["n_epochs"],
-                            args["num_steps"],
+                            args["n_steps"],
                             model_name,
                             save = True)
             with open(f"./model_checkpoints/{model_name}_vocab.pkl", "wb") as f:
