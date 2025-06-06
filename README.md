@@ -25,8 +25,10 @@ Windows:
 `venv\Scripts\activate`  
 
 To be safe, upgrade pip and then install all required packages via  
-`python -m pip install --upgrade pip
-pip install -r requirements.txt`  
+```bash
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
 
 
 All experiments can be run using the run.py script, with the option to tweak many parameters.  
