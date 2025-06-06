@@ -1,7 +1,7 @@
 # Run main functions from command line
 # First, navigate to folder and activate virtual environment
-# Mac/Linux: source .venv/bin/activate
-# Windows: .venv\Scripts\activate
+# Mac/Linux: source venv/bin/activate
+# Windows: venv\Scripts\activate
 #
 # Usage: python run.py <function> <args>
 #
