@@ -57,3 +57,5 @@ List, J.-M., Forkel, R., & Hill, N. (2022a). A New Framework for Fast Automated 
 
 List, J.-M., Vylomova, E., Forkel, R., Hill, N., & Cotterell, R. (2022b). The SIGTYP 2022 Shared Task on the Prediction of Cognate Reflexes. In E. Vylomova, E. Ponti, & R. Cotterell (Eds.), Proceedings of the 4th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (S. 52–62). Association for Computational Linguistics. https://doi.org/10.18653/v1/2022.sigtyp-1.7
 
+
+[![DOI](https://zenodo.org/badge/996796221.svg)](https://zenodo.org/badge/latestdoi/996796221)
