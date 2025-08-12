@@ -98,8 +98,3 @@ def metrics_by_fam(eval_dict):
         fam_results[fam]['NED'] = np.round(np.mean(fam_results[fam]['NED']), decimals=4)
         fam_results[fam]['B3'] = np.round(np.mean(fam_results[fam]['B3']), decimals=4)
     return fam_results
-
-            print()
-            to_print += 1
-            if to_print == n_examples:
-                break
